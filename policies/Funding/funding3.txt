@@ -1,0 +1,96 @@
+blogs.lse.ac.uk
+http://blogs.lse.ac.uk/usappblog/2014/08/26/performance-funding-policies-in-higher-education-have-had-little-effect-on-student-
+outcomes/
+Performance funding policies in higher education have had little
+effect on student outcomes.
+Performance and cost efficiency concerns have taken center stage in discussions about the
+funding and oversight of public universities in recent years. One of the primary manifestations of
+these concerns is the rise of performance funding policies, or policies that seek to directly link
+state appropriations to the outcomes institutions generate for students. In a study of over 500 four
+year post-secondary institutions in all fifty states from 1993-2010, Amanda Rutherford and
+Thomas Rabovsky find that current performance funding policies are not associated with higher
+levels of student performance and that these policies may in fact contribute to lower performance
+over a longer period of time. However, more recent policies linked to institutional base funding
+may produce some likelihood of long-term improvement and require additional attention by
+scholars and policymakers.
+Historically, oversight of higher education has been oriented toward regulating inputs and
+procedures, but over the last few decades policymakers have increasingly demanded that
+universities be held accountable for their performance, particularly with respect to undergraduate
+student outcomes. The average public four-year college in the United States graduates less than
+60 percent of its students in six years, and graduation rates for many racial/ethnic minority groups are much lower.
+As student outcomes have continued to lag at public colleges and universities, there has been a significant shift in
+the way that many people think about the need for accountability and transparency with regard to higher
+education.
+Performance funding, initially adopted in 1979 by Tennessee, became increasingly popular during the 1990s as a
+number of states began to implement a wide range of results-oriented reforms. When states felt the impact of a
+series of economic recessions during the mid-2000s, performance funding (which often centered on awarding
+bonus funding) waned in popularity, and several states dropped the performance component of their funding
+criteria. In the last few years, however, these policies have reemerged, largely due to the efforts of reform-oriented
+organizations such as Complete College America and the Bill and Melinda Gates Foundation (see Figure 1
+below).
+Figure 1 – Performance funding policies for 4-year Universities (1979-2010)At the center of calls for accountability are normative debates about the proper role of quantifiable data about
+institutional performance and the appropriateness of various approaches for measuring and tracking student
+success. Recent performance funding policies have been quite controversial. Proponents claim that funding
+incentives will spur increased performance by providing universities with stronger incentives to focus on and
+improve student outcomes. Critics, however, worry that these initiatives will negatively impact academic quality
+and rigor, that they might stifle efforts to improve diversity and provide broad access, or that they may simply be
+ineffective and divert attention and resources away from other reforms that would be more effective.
+Studying U.S. postsecondary institutions across 18 years, we find that performance funding policies are generally
+unrelated to graduation rates. Further, the length of time a performance funding policy has been in place may
+actually cause additional declines in graduate rates–.016 percentage points per year on average. Additional
+analyses show the same negative trend for retention rates and degree production.
+We then tested whether different types of performance funding policies have similar effects on student
+performance. Older “performance funding 1.0” policies (PF 1.0) can differ dramatically from newer “performance
+funding 2.0” reforms (PF 2.0). For instance, many PF 2.0 policies focus on intermediate indicators of campus
+performance (throughput), rather than output/outcome indicators. In theory, this should provide policy-makers and
+campus officials with more actionable and relevant information about performance, which can then be used to
+inform new programs or to improve existing approaches. Because 2.0 policies are designed to be more
+comprehensive and substantive than the older 1.0 policies, some have argued that PF 2.0 policies will be more
+effective.
+Our results provide some support for this logic. Analyses show that the negative relationship between
+performance funding and graduation rates exists for 1.0 policies only. Although not significant, the coefficients for
+2.0 policies are positive (see the predicted probabilities in Figure 2 below). While many 2.0 policies have only
+been in place for a few years, it may be that 2.0 policies have evolved enough from 1.0 policies to have some
+effectiveness in prompting colleges and universities to improve student performance. Performance 1.0 and 2.0
+policies have little effect on retention rates, but do have interesting dynamics in the case of degree production.
+Though substantively small, 1.0 policies appear to negatively affect performance over time while 2.0 policies may
+improve performance over time.
+Figure 2 – Average effect of performance funding policies on graduation ratesPerformance funding policies in place between 1993 and 2010 appear to have very little direct effect on student
+outcomes, despite the expectation that institutions will react to funding incentives by prioritizing student success.
+These findings illustrate that student outcomes are not enhanced by performance funding policies. Moreover,
+student outcomes may even decline following the adoption of these policies. At best, these policies are ineffective,
+and, at worst, they are negatively linked to student performance. However, performance 2.0 policies may provide
+some hope that policies linked to institutional base funding may produce long-term improvement. Although a
+positive relationship was detected for only one performance indicator and was small in size, it is possible that the
+incentive structures of 2.0 policies are effective in gradually increasing student performance if these policies
+continue over time.
+The rise of PF 2.0 policies may provide useful insights for those hoping to design effective accountability regimes
+in other policy areas. Because PF 2.0 policies involve larger percentages of base funding, they are likely to attract
+more attention from administrators. Similarly, as it has become more apparent that performance funding policies
+are spreading to more states and are likely to be in place for the foreseeable future, institutions may be less likely
+to discount the commitment of policy-makers to performance funding and may be more likely to respond to
+performance goals. This view suggests that strong financial incentives, combined with long-term stability, are the
+most important elements of effective accountability policies. An alternative interpretation, however, might focus on
+the fact that these newer policies also often use intermediate outcomes and take a more comprehensive view of
+performance assessment. Thus, issues of policy design related to the relevance and perceived legitimacy of
+performance data, as opposed to stronger financial incentives, may be critical in creating conditions that enable
+effective performance management.
+Featured image credit: Alex (Flickr, CC-BY-2.0)This article is based on the paper ‘Evaluating Impacts of Performance Funding Policies on Student Outcomes in
+Higher Education’, in The Annals of the American Academy of Political and Social Science.
+Please read our comments policy before commenting .
+Note: This article gives the views of the author, and not the position of USApp– American Politics and Policy, nor
+of the London School of Economics.
+Shortened URL for this post: http://bit.ly/VPekgr
+_________________________________
+About the authors
+Amanda Rutherford – Texas A&M University
+Amanda Rutherford is a PhD candidate in the Department of Political Science at Texas A&M
+University. Her research interests focus on questions of public management, performance
+accountability, and representative bureaucracy in the context of education policy.
+_
+Thomas Rabovsky – Indiana University, Bloomington
+Thomas Rabovsky is an assistant professor in the School of Public and Environmental Affairs at
+Indiana University, Bloomington, where he teaches public management. His research largely
+focuses on accountability, performance management, managerial values and decision making,
+and higher education policy.
+CC BY-NC-ND 3.0 2014 LSE USAPP

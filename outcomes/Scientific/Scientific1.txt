@@ -1,0 +1,1628 @@
+﻿EDUCATION EDUCATION and and SCIENTIFIC SCIENTIFIC DEVELOPMENT DEVELOPMENT 
+in OIC MEMBER COUNTRIES 
+Organisation of the Islamic Conference 
+Statistical Economic and Social Research and Training Centre for Islamic Countries (SESRIC) 
+Organisation of the Islamic Conference Statistical, Economic and Social Research and Training Centre for Islamic Countries (SESRIC) 
+EDUCATION AND SCIENTIFIC DEVELOPMENT 
+IN OIC MEMBER COUNTRIES 
+© 2010 The Statistical, Economic and Social Research and Training Centre for Islamic Countries (SESRIC) 
+Attar Sokak, No. 4, G.O.P., 06700 Ankara –Turkey Telephone +90–312–468 6172 Internet www.sesric.org E-mail pubs@sesric.org 
+All rights reserved 
+High standards have been applied during processing and preparation stage by the SESRIC to maximize the accuracy of the data included in this work. The denominations and other information shown on any illustrative section or figure do not imply any judgement on the part of the SESRIC concerning the legal status of any entity. Besides it denies any responsibility for any kind of political debate that may arise using the data and information presented in this publication. The boundaries and names shown on the maps presented in this publication do not imply official endorsement or acceptance by the SESRIC. 
+The material presented in this publication is copyrighted. By the virtue of the copyright it claims and as it encourages dissemination of its publications for the sake of the OIC Member Countries, SESRIC gives the permission to view, copy, download, and print the material presented provided that these materials are not going to be reused, on whatsoever condition, for commercial purposes. 
+For permission to reproduce or reprint any part of this publication, please send a request with complete information to the Publication Department at Attar Sokak, No. 4, G.O.P., 06700, Ankara, Turkey. 
+All queries on rights and licenses should be addressed to the Publication Department, SESRIC, at the above address. 
+ISBN: 978-975-6427-15-6 
+Cover design by Publication Department, SESRIC. 
+SESRIC hereby expresses its profound appreciation to the Turkish Statistical Institute (TurkStat) for providing printing facilities. 
+For additional information, contact Research Department, SESRIC through: research@sesric.org 
+Foreword A 
+modern economic human capital and development a formation. good quality education system is and prosperity of any society. It does not only provide a fundamental element in the socio- Education constitutes the core of returns to the educated individuals, but also helps facilitating economic development and growth, and, thus, alleviating poverty and bringing other social benefits to the society. In the light of this understanding, under the domain ―Higher Education, Science and Technology‖, the OIC Ten-Year Programme of Action (OIC- TYPOA) calls for effectively improving and reforming educational institutions in the OIC Member States and urges them to strive for quality education that promotes creativity, innovation, and research and development. 
+Within the framework of the implementation of the OIC-TYPOA in the domain of ―Higher Education, Science and Technology‖, SESRIC continues to undertake and initiate new activities within its mandated areas of statistics, research and training. In this context, SESRIC prepared an initial study on ―Ranking of Universities Worldwide and its Implications for the OIC Member Countries‖. This study has been presented at the 3rd Islamic Conference of Ministers of Higher Education and Scientific Research, held in Kuwait in November 2006. SESRIC continues its work within the ―Core Group‖ on ranking of universities, which has been established with the aim of selecting 20 potential universities in the Islamic World to be elevated to the rank of Top 500 World Universities, as stipulated by the OIC-TYPO. In addition to keeping and updating data on universities, SESRIC has also identified and collected data on 33 main indicators on education and education-related fields in the OIC Member Countries. These data are available under the section ―Education‖ in the Centre’s database ―BASEIND‖. 
+Our previous report on education titled ―Education: Prospects and Challenges in the OIC Member Countries‖ has been submitted and presented at the 4th Islamic Conference of Ministers of Higher Education and Scientific Research, held in Baku, Republic of Azerbaijan in October 2008. It provides an evaluation of the recent developments relating to the various aspects of education in the OIC Member Countries and includes detailed member country profiles on various education- related variables. It also examines the current World Bank’s Knowledge Assessment Methodology (KAM) ranking for each OIC country along with comprehensive regional comparative analysis. 
+In another related area of education, which I believe is very strongly associated with the OIC efforts to enhance the capacity building and the quality of human resources in our member countries, our Centre has developed a comprehensive programme to address one of the most salient developmental challenges of the OIC member countries: vocational education and training. The OIC Vocational Education and Training Programme (OIC-VET), which has been initiated and designed by SESRIC, was officially launched by H.E. Abdullah Gül, President of the Republic of Turkey and Chairman of the OIC Standing Committee for Economic and Commercial 
+i 
+Cooperation (COMCEC), at the COMCEC Economic Summit held on 9 November 2009 in Istanbul on the occasion of the 25th Anniversary of the COMCEC. 
+The inauguration of the OIC-VET Programme marked the official start of the Pilot Application Phase of the Programme. In this context and in its capacity as the Executing Organ of the Programme, our Centre has undertaken several works and actions in order to establish a sound mechanism and infrastructure for the implementation of the Programme. Three pilot projects on various areas of interest to our member countries have already been implemented by our Centre this year. I am confident that, with the realisation of the ongoing and planned pilot projects and close cooperation with the National Focal Points of the Programme and other relevant institutions, the Programme will reach, during the coming period, a wider audience of beneficiaries from member countries and will become a successful model and a brand for human capacity development in OIC Member Countries, which would ultimately reinforce socio-economic development and competitiveness of our member countries. 
+SESRIC also undertakes the role of the ―Project Manager‖ for the project of Atlas of Islamic-World Innovation. The objective of the project is to map and evaluate the changing landscape of science and innovation across fifteen member countries. The project is supported by international partners such as the Islamic Development Bank, the British Council, International Development Research Centre of Canada and Qatar Foundation for Education, Science and Community Development. Within the framework of this project, studies are conducting by different research teams in the concerned member countries, in collaboration with potential project partners from government departments, universities, private sector and civil society organisations, in order to explore the current science and innovation climate in the country. 
+The present report under the title ―Education and Scientific Development in OIC Member Countries‖ analyzes some of the major education indicators such as literacy rates, enrolment ratios, teacher-student ratio, and government expenditures on education in order to give an overall snapshot of the current situation of the OIC member countries. The report also highlights the state of scientific research and development in OIC countries. It presents an overview of the achievements made by the OIC member countries in the field of research and development (R&D) and science & technology (S&T). It is our hope that this report will contribute to the creation of greater awareness on the current state of education and the importance of investing in primary education as well as R&D for a better future. 
+Dr. Savas Alpay Director General S E S R I C 
+ii 
+Contents 
+Foreword ........................................................................................................................................... i 
+Introduction ..................................................................................................................................... 1 
+1. Literacy Rates ............................................................................................................................... 2 
+1.1. Adult Literacy Rates ......................................................................................................... 2 
+1.2. Youth Literacy Rates ........................................................................................................ 5 
+2. Student-Teacher Ratios ................................................................................................................ 7 
+2.1. Primary Schools ............................................................................................................... 7 
+2.2. Secondary Schools .......................................................................................................... 10 
+2.3. Tertiary Schools ............................................................................................................. 12 
+3. Gross and Net Enrolment Rates (GER & NER) ........................................................................ 16 
+3.1. Primary Schools ............................................................................................................. 17 
+3.2. Secondary Schools .......................................................................................................... 18 
+3.3. Tertiary Schools ............................................................................................................. 20 
+4. Government Expenditures on Education ................................................................................... 22 
+4.1. Government Expenditures on Education as Percentage of GDP .................................... 22 
+4.2. Government Expenditures on Education as Percentage of Total Government 
+Expenditures ............................................................................................................................. 24 
+4.3. Government Expenditures on Education per Pupil ........................................................ 27 
+4.4. Government Expenditures on Education per Pupil as Percentage of GDP per Capita .. 29 
+5. Research and Scientific Development ........................................................................................ 32 
+5.1. Human Resources in Research and Development .......................................................... 32 
+5.2. Women in Research Activities ....................................................................................... 33 
+5.3. Expenditures on Research and Development ................................................................. 34 
+5.3.1. R&D Intensity ................................................................................................ 34 
+5.3.2. R&D Expenditures per Capita ........................................................................ 37 
+5.3.3. R&D Expenditures by Sector .......................................................................... 38 
+5.3.4. R&D Expenditures by Source of Funds .......................................................... 39 
+5.4. High Technology Exports ............................................................................................. 40 
+5.5. Scientific Publications .................................................................................................... 42 
+5.5.1. Published Articles ........................................................................................... 43 
+5.5.2. The Evolution of Publication Outcome .......................................................... 45 
+5.6. Patent Applications ........................................................................................................ 47 
+5.7. Knowledge Economy Indices ......................................................................................... 48 
+5.7.1. Knowledge Assessment Methodology ............................................................. 48 
+5.7.2. OIC Member Countries under KAM ............................................................. 49 
+6. Concluding Remarks and Policy Implication ............................................................................. 53 
+7. References ................................................................................................................................... 56 
+Appendix ........................................................................................................................................ 57 
+Table A.1: Literacy Rates ......................................................................................................... 57 
+Table A.2: Number of Students and Teachers, 2008 ................................................................. 58 
+Table A.3: Gross and Net Enrolment Rates, 1999 vs. 2008 ....................................................... 59 
+Table A.4: Government Expenditures on Education ................................................................ 60 
+Figures Figure 1: Adult Literacy Rates .................................................................................................... 3 
+Figure 2: Adult Literacy Rates by Region ................................................................................... 4 
+Figure 3: Top 10 OIC Member Countries with Highest Adult Literacy Rates, 2008 ................. 4 
+Figure 4: Youth Literacy Rates ................................................................................................... 5 
+Figure 5: OIC Youth Literacy Rates by Region ......................................................................... 6 
+Figure 6: Top 10 OIC Member Countries with Highest Youth Literacy Rates, 2008 ................ 6 
+Figure 7: Total Enrolment and Teachers in the Primary Schools of OIC Member Countries.... 7 
+Figure 8: Student – Teacher Ratios at Primary Schools .............................................................. 8 
+Figure 9: Student – Teacher Ratios at Primary Schools by OIC Sub-regions .............................. 9 
+Figure 10: Top 10 OIC Member Countries with the Lowest Student – Teacher Ratios in 
+Primary Schools ......................................................................................................................... 9 
+Figure 11: Total Enrolment and Teachers in the Secondary Schools of OIC Member Countries 
+................................................................................................................................................. 10 
+Figure 12: Student – Teacher Ratios at Secondary Schools ....................................................... 11 
+Figure 13: Student – Teacher Ratios at Secondary Schools by OIC Sub-regions....................... 12 
+Figure 14: Top OIC Member Countries with the Lowest Student – Teacher Ratios in 
+Secondary Schools .................................................................................................................... 12 
+Figure 15: Total Enrolment and Instructors in the Tertiary Schools of OIC Member Countries 
+................................................................................................................................................. 13 
+Figure 16: Student – Instructor Ratios at Tertiary Schools ....................................................... 14 
+Figure 17: Student – Instructor Ratios at Tertiary Schools by OIC Sub-regions ...................... 15 
+Figure 18: Top OIC Member Countries with the Lowest Student – Teacher Ratios in Tertiary 
+Schools ..................................................................................................................................... 15 
+Figure 19: Gross and Net Enrolment Rates, Primary Schools .................................................. 17 
+Figure 20: Top 10 OIC Member Countries by NER at Primary Schools ................................. 18 
+Figure 21: Gross and Net Enrolment Rates, Secondary Schools ............................................... 19 
+Figure 22: Top 10 OIC Member Countries by GERs and NERs at Secondary Schools ........... 19 
+Figure 23: Gross Enrolment Rates, Tertiary Schools ................................................................ 20 
+Figure 24: Top 10 OIC Member Countries by GER in Tertiary Schools ................................. 20 
+Figure 25: Government Expenditures on Education as Percentage of GDP ............................. 22 
+Figure 26: Regional Averages for Government Expenditures on Education as Percentage of 
+GDP ......................................................................................................................................... 23 
+Figure 27: Top 10 OIC Countries by Government Expenditures on Education as Percentage of 
+GDP (%), 2008.......................................................................................................................... 24 
+Figure 28: Government Expenditures on Education as Percentage of Total Government 
+Expenditures ............................................................................................................................. 25 
+Figure 29: Regional Averages for Government Expenditures on Education as Percentage of 
+Total Government Expenditures .............................................................................................. 26 
+Figure 30: Top 10 OIC Countries by Government Expenditures on Education as Percentage of 
+Total Government Expenditures (%)........................................................................................ 26 
+Figure 31: Government Expenditures on Education per Pupil (US$) ....................................... 27 
+Figure 32: Regional Averages for Government Expenditures on Education per Pupil ............. 28 
+Figure 33: Top 10 OIC Countries by Government Expenditures on Education per Pupil (US$) ... 28 
+Figure 34: Government Expenditures on Education per Pupil as Percentage of GDP per Capita ... 29 
+Figure 35: Regional Averages for Government Expenditures on Education per Pupil as 
+Percentage of GDP per Capita .................................................................................................. 30 
+Figure 36: Top 10 OIC Countries by Government Expenditures on Education per Pupil as 
+Percentage of GDP per Capita (Percent) .................................................................................. 31 
+Figure 37: Researchers per Million People ................................................................................ 32 
+Figure 38: Women as a Share of Total Researchers (%) ............................................................ 33 
+Figure 39: GERD, % of World Total (2007) ............................................................................. 34 
+Figure 40: R&D Intensity (%) .................................................................................................. 35 
+Figure 41: Trends in R&D Intensity ......................................................................................... 36 
+Figure 42: R&D Expenditures per Capita (PPP$) ..................................................................... 37 
+Figure 43: Distribution of GERD by Sector of Performance (%) ............................................. 38 
+Figure 44: Distribution of GERD by Source Funds (%) ........................................................... 39 
+Figure 45: High Technology Exports, % of World Total (2007) ............................................... 40 
+Figure 46: High Technology Exports (Million US$) ................................................................ 41 
+Figure 47: High Technology Exports: 2000 vs. 2007 (% of Manufactured Exports) .................. 41 
+Figure 48: The Number of Published Articles, 2009 ................................................................. 43 
+Figure 49: Top 10 OIC Countries by the Number of Published Articles (2009) ...................... 44 
+Figure 50: Articles Published in International Journals, 2009 ................................................... 44 
+Figure 51: Articles per Million People: 2000 vs. 2009 ............................................................... 45 
+Figure 52: Top 15 OIC Countries by Articles per Million People (2009) ................................. 46 
+Figure 53: Knowledge Indexes .................................................................................................. 48 
+Figure 54: KEI Scores and Ranks of OIC Member Countries, Weighted by Population .......... 51 
+Figure 55: Over Time KEI Progress of OIC Member Countries, Weighted by Population ..... 52 
+Introduction B 
+eing formation not the key to create, apply and spread knowledge, education is the core of human capital and central to development of society. The benefits of a good quality education only provide returns to the individuals educated, but it also changes the future prospects of countries, strengthen nations and develop dynamic, globally competitive economies by empowering people. Broad-based education of high quality is among the most powerful instruments known to facilitate sustained economic growth, promote national productivity and innovation, alleviate poverty and reduce inequality. 
+Education has long been recognized to play a significant role in the economy, particularly by the so-called New –or Endogenous– Growth Theories, which place education and human resource development at the centre of their explanation for long-term economic growth. These theories have set forth several mechanisms whereby education affects the productivity level, which, in turn, gives direction to economic growth. One of the main arguments is that education, by creating scientists and engineers, is important for flourishing research and development (R&D) activities, which lie at the heart of productivity growth. Another central argument is that education creates human capital, which directly affects knowledge accumulation and therefore productivity growth. 
+The development literature, on the other hand, has drawn attention to the role of education in reducing inequalities that exist in many countries, particularly in developing societies with lower levels of income. The high correlation between the level of education and income or wealth is considered from the equity perspective as a justification for public intervention when the conventional market mechanisms do not function efficiently to ensure equality. Therefore, public intervention in the education sector, particularly in primary education, is universally acknowledged today. 
+Moreover, education—especially girls’ education—has a direct and proven impact on the goals related to child and reproductive health and environmental sustainability. Hence, it is also fundamental to the world’s attainment of the Millennium Development Goals (MDGs). 
+Because of its critical role in every aspect of life, a good education policy should be established in each OIC member country and it must extend far beyond formal education, encompassing areas such as social policy, health policy and economic policy, as well. However, in order to implement effective policies and programs, better awareness of the present state of the education is needed. In this context, this report analyzes some of the major education indicators such as literacy rates, enrolment ratios, teacher-student ratio, and government expenditures on education in order to give an overall snapshot of the current situation of the OIC member countries. The report also includes a section on scientific research and development in OIC countries, which presents an overview of achievements by the OIC member countries in the field of research and development (R&D) and science & technology (S&T). 
+1 
+1 Literacy Rates L 
+anguage insight, is essential abstract is to fundamental accumulate thought, human social to human structure knowledge. consciousness. and The culture ability Without cannot of using be language, attainable language, higher as both written verbal levels word and of 
+written, is called literacy. In a broader sense literacy is a phenomenon by which one can enhance her communication, professional and social skills and it is one of the building blocks for innovation and development. 
+As language is fundamental to human consciousness, being able to use it, i.e. literacy, is also one of the fundamental rights of people and is considered one of the important tools for personal fulfilment and empowerment of which 1.36 billion adults are deprived. Not only are those who cannot read or write cut off from their own opportunities for advancement, but society as a whole is also deprived of the potential contributions that individuals can make to the good of all since the positive effects of literacy go beyond personal benefits. It is a key tool to make the workforce efficient and to increase participation of people in society by providing important new skills. The impact of literacy on economic development and poverty alleviation is also positive and can be easily determined by comparing the standard of living, per capita income, GDP, industrialization and development of infrastructure within a country. 
+Literacy is also critical for the attainment of other rights as it helps to reduce gender inequality and to enhance political and cultural development. Additionally, the Millennium Development Goals are unreachable without achieving higher standards in literacy. 
+1.1 Adult Literacy Rates 
+Adult literacy rate is simply defined as the percentage of population aged 15 years and over who can both read and write with understanding a short simple statement on his/her everyday life. With an average adult literacy rate of 70.2%, OIC lagged well behind the World average of 79.6% and even the developing countries’ average of 79.2% (Figure 1). When gender is taken into consideration, it can be observed that the adult literacy rate of males was 77.9% for OIC, indicating nearly 8 percentage points improvement compared to total. However, it was still below the average of developing countries, 85.3%, and the World, 85.6%. For the female side, the gap between the OIC and the World widened to 11 percentage points as out of 100 women only 62.5 of them can read and write while it was around 73 women in both developing countries and the World. 
+To further measure the gender differences in terms of literacy, the Gender Parity Index (GPI) for literacy rates would give a quick snapshot of the current situation as GPI gives the ratio of female to male for any given indicator and it reflects gender equality/parity in the area analyzed if the ratio is close to 1. The 15.5 percentage point difference between the female and male literacy rates in the OIC member countries lead to a GPI of 0.802. This means that the gender parity skewed 
+2 
+towards males and for every 1000 literate men, there is only 802 literate women in OIC while it is 862 and 858 for the World and developing countries, respectively. On the other hand, the high literacy rates for females, 97.1%, and males, 98.5%, in developed countries result in a GPI as high as 0.985, indicating that there is no significant gap between men and women with respect to adult literacy. 
+Figure 1: Adult Literacy Rates* 
+TOTAL FEMALE MALE GPI - rhs 100 
+1.00 
+90 
+807060500.75 OIC World Developing Developed 
+Source: SESRIC, UNESCO* The averages are weighted averages calculated by the latest available data of the countries. 
+At the regional level, member countries in Europe and Central Asia (ECA) region had succeeded to have an average literacy rate of 94%, which was comparable to that of the developed countries, 97.8%. However, the average would be higher excluding Turkey as more than 99% of the adult population was literate in all of member countries in this region except Turkey having a rate of 88.7%. ECA region was followed by East Asia and Pacific (EAP) with a rate of 92%, on average. Although Latin America (LA) came third as a group, it should be noted that it only reflects the literacy rate of Suriname due to the data unavailability for Guyana. The performance of the Middle East and North America (MENA) region, 74.7%, was close to the world average of 79.2% while both South Asia (SA) and Sub- Saharan Africa (SSA) regions had literacy as low as 54.4 % and 56.6 %, respectively (Figure 2). 
+In terms of both female and male literacy, the highest records among OIC sub-regions were also observed in ECA region with rates of 90.1% and 97.9%, respectively. EAP region followed. More than 88% of the female population was literate in EAP and LA, as well. The literacy rate of females in MENA region, 66.7%, was approximately 16 percentage points lower than their male counterparts though being higher than OIC average of female literacy rate, 62.5%. On the other extreme, the illiterate female population outweighed the literate one in SA and SSA regions, as out of 100 women, only around 45 of them were literate. Moreover, the literacy gap between women and men increased to 20 percentage points for these regions, which can also be seen from the lower score of GPIs (Figure 2). 
+0.95 
+0.90 
+0.85 
+0.80 
+Index Percent 
+3 
+TOTAL FEMALE MALE GPI - rhs 
+Source: SESRIC, UNESCO *The averages are weighted averages calculated by the latest available data of the countries. OIC Sub Regions1: EAP: East Asia & Pacific MENA: Middle East & North Africa ECA: Europe & Central Asia SA: South Asia LA: Latin America & Caribbean SSA: Sub-Saharan Africa 
+At the individual country level, 26 of the 53 member countries could achieve higher adult literacy rates than the World average, 79.6%. For 18 of these countries, more than 90% of the population is literate and the adult literacy rate is as high as 99% in seven OIC member countries, all of which belong to ECA region, as shown below in Figure 3. With a rate of 98.4%, Maldives has surpassed the average of developed countries, 97.5%, as well. On the other hand, the illiterate population is greater than the literate in 9 SSA countries, namely Gambia, Senegal, Benin, Sierra Leone, Guinea, Chad, Burkina Faso, Niger and Mali where the literacy rates are even below 30% for the last three (Figure 3). 
+Figure 3: Top 10 OIC Member Countries with Highest Adult Literacy Rates, 2008* 
+Tajikistan 
+94.5 
+Percent 
+Source: SESRIC, UNESCO * The figure reflects 2006 data for Maldives and 2007 data for Kuwait and Azerbaijan. 
+1 Throughout the report, these abbreviations are used for OIC sub-regions. 
+99.7 
+Kazakhstan 
+99.7 
+Azerbaijan 99.5Turkmenistan 99.5 
+Kyrgyzstan 99.3Uzbekistan 
+99.2 
+Albania 99.0Maldives 
+98.4 
+Brunei 
+95.0 
+Kuwait 
+90 92 94 96 98 100 
+Index Percent 
+Figure 2: OIC Adult Literacy Rates by Region* 
+100 
+1.00 
+90 
+80706050400.64 EAP ECA LA MENA SA SSA 
+0.94 
+0.88 
+0.82 
+0.76 
+0.70 
+4 
+1.2 Youth Literacy Rates 
+Youth literacy refers to the number of persons aged 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life. When Figure 1 and Figure 4 are compared, it can be observed that the youth literacy rates are strikingly higher than those of adult population meaning that the adult literacy rates would improve in the near future. This is especially promising for the OIC as its youth literacy rate, 82.2%, was 12 percentage points above the adult literacy rate while this difference was around 9 percentage points for the World and developing countries with youth literacy rates being 88.9% and 89.1%, respectively. 
+Furthermore, while the literacy gap between the females and males of OIC member countries was as high as 15 percentage points for adults, it dropped to 7 percentage points for the young population (78.7% vs. 85.8%) indicating an improvement towards gender equality in total literacy which is also reflected by increased GPI , 0.918. Meanwhile, out of 100 young people, 86 females and 91 males were literate in the developing countries and the World resulting in a GPI around 0.944 for youth literacy (Figure 4). 
+Figure 4: Youth Literacy Rates* 
+Total Female Male GPI - rhs 100 
+1.02 
+90 
+807060500.87 OIC World Developing Developed 
+Source: SESRIC, UNESCO *The averages are weighted averages calculated by the latest available data of the countries. 
+As shown in Figure 5, the order of regions in terms of literacy rates remained the same with that of adult literacy rates. ECA region has the highest youth literacy rate, 98.1%, which was nearly at par with the average of developed countries, 99.7%. It was pursued by EAP and LA2 with rates of 96.9% and 95.3%, respectively. On the other extreme, SA and SSA regions had the lowest youth literacy rates around 70%, though this represents significant improvement over adult rates. In terms of female literacy rates, again EAP and ECA regions lead the way with rates of 97% and 96.5%, respectively. Although MENA ranked fourth after LA, 94.8%, the biggest change compared to adult literacy rate was observed in MENA, as the female literacy rate among young population 
+2 As no data was available for Guyana, the average for LA region reflects the situation for Suriname, only. 
+0.99 
+0.96 
+0.93 
+0.90 
+Index Percent 
+5 
+became 86.8% while it was 66.7% for adult women. This results in a situation towards a more established gender equality reflected by GPIs being above 0.9 for all of the sub-regions of OIC except SA (0.882) and SSA (0.834) regions where the GPIs were 0.882 and 0.834. 
+Figure 5: OIC Youth Literacy Rates* by Region 
+TOTAL FEMALE MALE GPI - rhs 100 
+1.00 
+90 
+807060500.80 EAP ECA LA MENA SA SSA Source: SESRIC, UNESCO *The averages are weighted averages calculated by the latest available data of the countries. 
+At the individual country level, 28 out of 53 member countries could achieve higher youth literacy rates than the World average, 88.9%. In 8 of these countries, the literacy rates were even above that of the developed countries, 99.7% as shown in Figure 6. Additionally, more than 99% of the young population is literate in Kyrgyzstan, Albania, Maldives, Palestine and Qatar. On the other hand, the youth literacy rates are below the OIC average of 88.2% in 17 member countries all of which belong to SSA region except Morocco, Bangladesh and Pakistan. 4 of them, namely Chad, Burkina Faso, Mali and Niger, had youth literacy rates even below 50%. 
+Figure 6: Top 10 OIC Member Countries with Highest Youth Literacy Rates, 2008 
+99.4 
+0.96 
+0.92 
+0.88 
+0.84 
+Azerbaijan 
+Percent 
+Source: SESRIC, UNESCO 
+* Due to data unavailability, the figure reflects 2007 rate for Azerbaijan. 
+100.0 
+Tajikistan 
+99.9 
+Uzbekistan 
+99.8 
+Turkmenistan 
+99.8 
+Libya 
+99.8 
+Kazakhstan 
+99.8 
+Brunei 
+99.7 
+Bahrain 
+99.7 
+Kyrgyzstan 
+99.6 
+Albania 
+99.0 99.2 99.4 99.6 99.8 100.0 
+Index Percent 
+6 
+2 Student – Teacher Ratios S 
+tudent teachers education, – working teacher high ratios give the number of students enrolled in a school per the number of at that institution. While low student – teach ratio is indicative of quality student-teacher ratio often gives evidence about proportionately underfunded schools or school systems, or need for legislative change or more funding for education. Additionally, too many students in a class results in a diverse group of students with varying degrees of learning ability and information uptake. Consequently, the class will spend time for less academic students to assimilate the information, when that time could be better spent progressing through the curriculum. It is also argued that the lower student-teacher ratios are better at teaching students complex subjects such as mathematics, chemistry and physics than those with a higher ratio of students to teachers. 
+Though it is showed that students attending schools with a lower student-teacher ratio and a better educated teaching staff find jobs more easily and earn higher wages after graduation, some governments could claim that high student teacher ration have no significant negative outcomes. On the other hand, there are countries enacting legislations mandating a maximum student-teacher ratio for specific grade levels to improve quality education. 
+2.1 Primary Schools 
+Primary or elementary education involves programmes normally designed on a unit or project basis to give pupils a sound basic education in reading, writing and mathematics along with an elementary understanding of other subjects such as history, geography, natural science, social science, art and music. 
+Figure 7: Total Enrolment and Teachers in the Primary Schools of OIC Member Countries 
+200 
+32 
+160 29120 2680 2340200171999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Percent Millions of People 
+Enrollment Teachers Share of OIC in World - Enrollment (rhs) Share of OIC in Developing - Enrollment (rhs) Share of OIC in World - Teachers (rhs) Share of OIC in Developing - Teachers (rhs) 
+Source: SESRIC, UNESCO 
+7 
+From 1999 to 2008, the share of OIC in the World increases in terms of both total number of students and teachers in primary schools as shown in Figure 7. In 2008, the primary students of OIC member countries, 186.3 millions, constituted 26.9% (29.7%) of the population of primary students in the World (developing countries) while they accounted for 24.5% (27.5%) of the global total with 157. 3 million students. The OIC shares of primary school teachers in the World and developing countries also displayed similar characteristics and 6.9 million primary school teachers working in OIC member countries accounted for 24.8% (29.6%) of the total primary school teacher population of the world (developing countries). 
+As the population of teachers grew faster than total enrolment (21.6% vs. 18.5%), OIC average for student-teacher ratio declined by 0.7 and 27.1 students were taught by a single teacher in year 2008 (Figure 8). Although this was nearly twice the number of students in developed countries, 15, it was only slightly higher than that of developing countries, 26.9, and the World, 25, for the same year. 
+Figure 8: Student – Teacher Ratios at Primary Schools 
+OIC World Developing Developed 30 
+28262422201816141999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Students per T eacher 
+Source: SESRIC, UNESCO 
+In the period examined, the number of students enrolled also increased slower than the number of teachers in the developed countries and the World, leading the average student – teacher ratios in primary schools to display a negative trend in general as shown in Figure 8. Having positive fluctuations during the period and increasing by 0.3 compared to year 1999, the average of developing countries was the only exception to this trend 
+Among the OIC sub-regions given in Figure 9, only ECA had a comparable ratio, 15.9 students per teacher, with the developed countries. It was followed by EAP with 17.2 students in a class. EAP was also the region where the biggest decline, 23.4%, in student –teacher ratio was observed since the 31.7% change in the primary school teachers employed in EAP region from 1.36 to 1.90 million more than outweighed that of student enrolment from 31.1 to 32.6 millions. The student – teacher ratio in primary schools had decreased in LA and MENA regions, as well, resulting in 21 enrolled students per teacher in 2008. 
+8 
+450 r 
+ehc1999 2008 
+a3 .eT640 r 40.e2ps tned30utS20100EAP ECA LA MENA SA SSA 
+Source: SESRIC, UNESCO 
+On the other extreme, the number of students per teacher increased in SA and SSA regions during the period examined. Teachers of SA region had taught 35.5 students in 1999, they begin to teach nearly 7 more students after ten years because the growth in number of teachers, 7.3%, lagged well behind that of total enrolment of students, 27.2%. The secondary school enrolment in SSA region, increasing from 41.7 to 60 million students in ten years, constituted the biggest part, 32.3%, of the OIC total. On top of this, the slower change in teacher population from 0.97 to 1.3 million resulted in the most populated classrooms with 46 students per teacher in year 2008. 
+Figure 10: Top 10 OIC Member Countries with the Lowest Student – Teacher Ratios in Primary Schools 
+Kuwait 
+9.1 
+Saudi Arabia 
+10.8 
+Azerbaijan 
+11.3 
+Oman 
+11.9 
+Qatar 
+12.5 
+Brunei 
+12.6 
+Maldives 
+13.3 
+Lebanon 
+14.2 
+Malaysia 
+14.8 
+Turkey 
+14.9 
+4 6 8 10 12 14 16 
+Students per Teacher Source: SESRIC, UNESCO 
+At the individual country level, Indonesia, Pakistan and Iran accounted for 37.3 % of the total primary students of OIC in 2008 with 29.5, 21.9 and 18.2 million students, respectively. In terms of teachers, Indonesia alone constituted 24.5 % of the OIC total by employing 1.68 million primary schools. Indonesia was followed by Nigeria and Turkey with shares of 6.8% and 6.6%. However, in terms of student- teacher ratio, 6 SSA member countries, namely Mozambique, 
+Figure 9: Student – Teacher Ratios at Primary Schools by OIC Sub-regions 
+22.4 
+19.1 24.2 
+23.2 
+9 
+43.2 
+17.2 
+15.9 20.7 21.2 
+35.5 
+Guinea-Bissau, Chad, Mali, Uganda and Burkina Faso had the highest ratios. The typical classroom was populated by even more than 60 pupils in Mozambique, Guinea-Bissau and Chad, whereas it was more than the SSA regional average of 46 for Mali, Uganda and Burkina Faso. On the other hand, ten OIC member countries had lower ratios than the developed countries, 15, as shown in Figure 10 below. Kuwait ranked first with having only 9 primary school students per teacher in a class. 
+2.2 Secondary Schools 
+Secondary education refers to the programmes at International Standard Classification of Education (ISCED) levels 2 and 3. Lower secondary education (ISCED 2) is generally designed to continue the basic programmes of the primary level but the teaching is typically more subject- focused, requiring more specialized teachers for each subject area. The end of this level often coincides with the end of compulsory education. In upper secondary education (ISCED 3), the final stage of secondary education in most countries, instruction is often organized even more along subject lines and teachers typically need a higher or more subject-specific qualification than at ISCED level 2. 
+Figure 11: Total Enrolment and Teachers in the Secondary Schools of OIC Member Countries 
+Enrollment Teachers Share of OIC in World - Enrollment (rhs) Share of OIC in Developing - Enrollment (rhs) Share of OIC in World - Teachers (rhs) Share of OIC in Developing - Teachers (rhs) 30 
+25 
+2422181912166130101999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Source: SESRIC, UNESCO 
+The number of students enrolled in secondary schools of OIC member countries increased from 87.6 million to 110 million while the population of teachers qualified for secondary schools became 5.6 million representing a 40.1% jump over its 1999 value. As shown in Figure 11, the shares of OIC in the World and developing countries also exhibited a positive trend at the secondary education level under the period examined, though they are lower than primary education level shares given in Figure 9. 
+Percent Million of People 
+10 
+Since the growth in the teacher population was greater than that of students enrolled in secondary schools, number of secondary school students per teacher in the World had a fluctuating positive trend till 2004 after when the ratio began to decline. The group of developed countries was the only exception for this time pattern as the negative trend was evident immediately after year 2000. In 2008, OIC member countries recorded the highest student-teacher ratio, 19.6, on average despite observing the sharpest decline, -10.7%, among the groups compared to year 1999, The students per teacher in developing countries and the World dropped slightly during the period examined and they ended up following OIC member countries with the averages of 19.6 and 18.3, respectively, in year 2008. Meanwhile, a teacher in developed countries had been teaching only 13.5, whereas it was as low as 14.8 students at the beginning of the period concerned. 
+Figure 12: Student – Teacher Ratios at Secondary Schools 
+OIC World Developing Developed 
+23 
+21191715131999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Students per Teacher 
+Source: SESRIC, UNESCO 
+Among the OIC sub-regions, the student- teacher ratio increased in SSA and ECA, though the average of ECA, 16.1, was still below the OIC average of 19.6 in 2008. On the other hand, the EAP experienced the sharpest decline in the average classroom population from 16.3 in 1999 to 12.2 students per teacher in 2008 mainly due to the jump in the number of secondary school teachers employed from 0.994 million to 1.704 million under the period examined. Although the student-teacher ratio dropped by 6 students, SA region had the highest number of students, 28.7, taught by a single teacher in 2008. With 36 million students enrolled in secondary schools, MENA constituted more than 33% of secondary school enrolment of OIC. However, due to the faster growth of teacher population, a teacher began to educate nearly 3 students less, on average, in MENA 
+11 
+236 
+r e1999 2008 hca30eT7 
+r .e84 p.246s 2tnedu18tS1260EAP ECA LA MENA SA SSA 
+Source: SESRIC, UNESCO 
+As shown in Figure 14, 12 OIC member countries had less than 13.5 students per teacher, the average of developed countries. Among these countries, the ratio was below 10:1 in Azerbaijan, Kuwait, Lebanon and Qatar. At the other extreme, Pakistan was the only country having more than 40 secondary school students in a classroom. Additionally, the student- teacher ratio more than doubled the World average of 18.3 in Cote d’Ivoire and Guinea-Bissau. 
+Figure 14: Top OIC Member Countries with the Lowest Student – Teacher Ratios in Secondary Schools 
+Azerbaijan 
+8.4 Kuwait 
+9.1 Lebanon 
+9.1 Qatar 
+9.7 Kazakhstan 
+10.0 Brunei 
+10.5 Saudi Arabia 
+11.0 Bahrain 
+11.3 Indonesia 
+12.0 Uzbekistan 
+12.6 UAE 
+13.2 Kyrgyzstan 
+13.2 
+4 5 6 7 8 9 10 11 12 13 14 
+Students per Teacher Source: SESRIC, UNESCO 
+2.3 Tertiary Schools 
+Tertiary or higher education includes programmes with an educational content more advanced than what is offered at ISCED levels 3 and 4. The first stage of tertiary education, ISCED level 5, covers level 5A, composed of largely theoretically based programmes intended to provide sufficient qualifications for gaining entry to advanced research programmes and professions with high skill 
+Figure 13: Student – Teacher Ratios at Secondary Schools by OIC Sub-regions 
+16.3 
+15.8 17.6 
+12 
+24.8 
+34.9 
+24.8 12.2 16.1 17.2 22.0 
+requirements; and level 5B, where programmes are generally more practical, technical and/or occupationally specific. The second stage of tertiary education, ISCED level 6, comprises programmes devoted to advanced study and original research, and leading to the award of an advanced research qualification. 
+Figure 15: Total Enrolment and Instructors in the Tertiary Schools of OIC Member Countries 
+Enrollment Teachers Share of OIC in World - Enrollment (rhs) Share of OIC in Developing - Enrollment (rhs) Share of OIC in World - Teachers (rhs) Share of OIC in Developing - Teachers (rhs) 30 
+25 
+2422181912166130101999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Source: SESRIC, UNESCO 
+Looking from the enrolment side, the number of students in tertiary schools increased more than 70%, from 14.3 to 24.4 million, in OIC member countries (Figure 15). Since more graduates of higher education means more qualified, highly skilled workforce, this is especially promising for OIC. However, the picture is not so optimistic in terms of shares: The population of tertiary school students in OIC member countries accounted for 21.5% of that of developing countries in 2008 while it was nearly 3 percent higher in 1999. Additionally, the share of OIC in the total enrolment of the World remained nearly stagnant and exhibited only a slight rise from 15.3% to 15.7% under the period of concern. So, although the total number of students at higher education increased, OIC member countries could not catch up with the growth rate of the developing countries, 92%, on average. 
+Meanwhile, OIC member countries employed 1.44 million instructors for tertiary3 schools indicating a 48.3% change over 1999 employment of 0.77 million people. In terms of shares, the picture looks similar: Declining by more than 3 percentage points compared to year 1999, OIC population of tertiary school teachers constituted 18.2% of the developing countries while its global share exhibited only a small regression from 12.4% in 1999 to 11.8% in 2008 (Figure 15). 
+3 The definition and content of tertiary schools may change from country to country. 
+Percent Million of People 
+13 
+OIC World Developing Developed 
+Source: SESRIC, UNESCO 
+Students per Teacher 
+11131517192123 
+As lower student-teacher ratios are generally considered to indicate quality education, it is striking to observe a positive trend for student-instructor ratios at tertiary level schools globally in Figure 16, though the number of students per teacher had displayed a negative trend for primary and secondary schools in Figures 8 and 12. The only exception to this trend was developed countries where an instructor began to teach 12.2 tertiary level students in 2008 while it was one student more in 1999. The rise in ratios means that sufficient number of instructors do not enter in the education market to catch the growth rate of tertiary level student number so as to enhance the quality of education by decreasing the number of students per instructor. 
+Among the groups, the widest gap between growth rates of students’ and teachers’ population (70.3% for students vs. 48.3% for instructors) was in OIC member countries. Consequently, the highest rise in student-instructor ratio was observed for OIC member countries, on average, and an instructor began to teach 21.3 students in 2008 while it was 18.5 in 1999, as given in Figure 16. Despite a downward spike in year 2005, the average classroom in the world (developing countries) had nearly 1(2) more students per instructor compared to year 1999, as well. 
+From Figure 17, it is evident that SSA sub-region of OIC had the biggest change and the student- teacher ratio more than doubled compared to year 1999. This was caused by negative growth of in teachers’ population, -5.3%, when the number of students enrolled increased by 98% from 1.28 to 2.53 millions. Although SA recorded the highest increase in the magnitude of 38.4%, following SSA, the regional average of student-instructor ratio, 19, was still below the OIC average of 21.3 in 2008. During the period examined, EAP and ECA regions also experienced increases in the number of students enrolled per instructor, though being small. LA and MENA were the only OIC sub-regions where the student density of classrooms decreased primarily due to rapid growth of teacher population in these regions. MENA case is especially important since with 10.2 million students enrolled and 423 thousand teachers working in tertiary schools, MENA accounted for 41.8% and 32.6% of the OIC total tertiary enrolment and teacher populations, respectively. 
+Figure 16: Student – Instructor Ratios at Tertiary Schools 
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+14 
+340 
+r e1999 2008 
+h6 
+c.a8eT32r eps tne24dutS1680EAP ECA LA MENA SA SSA 
+Source: SESRIC, UNESCO 
+At the individual country level, 3 countries only, namely Indonesia, Iran and Turkey, inhabited 42.5% of 24.4 million tertiary school students of OIC with shares of 18.2%, 13.9% and 10.4% in year 2008. Similarly, 46.2% of OIC total instructor workforce was employed in these countries. 
+Figure 18: Top OIC Member Countries with the Lowest Student – Teacher Ratios in Tertiary Schools 
+Maldives 
+1.9 Sierra Leone 
+11.3 
+0 2 4 6 8 10 12 
+Students per Instructor Source: SESRIC, UNESCO 
+However, in terms of student-instructor ratios, OIC member countries exhibited great variations over a wide scale. On the one side, an instructor taught as high as 148 tertiary level students in Guinea – Bissau while the average classroom had 2 students per instructor in Maldives. 22 member countries had higher student-instructor ratios than the OIC average of 21.3. Among them, Mali, Togo and Sudan had the most crowded tertiary school classes with 68.7, 67.2 and 43.4 students, respectively. On the contrary, 11 member countries given in Figure 18 had student-instructor ratios less than that of the developed countries’ average, 12.3. 
+7.4 Mozambique 
+8.0 Brunei 
+8.1 Lebanon 
+8.4 Guyana 
+9.0 Azerbaijan 
+9.3 Suriname 
+9.4 Qatar 
+11.3 Gambia 
+11.3 Chad 
+Figure 17: Student – Instructor Ratios at Tertiary Schools by OIC Sub-regions 
+13.6 18.3 
+11.7 
+25.1 
+13.7 18.5 
+14.0 
+15 
+20.2 
+9.1 
+24.0 
+19.0 
+3 Gross and Net Enrolment Rates (GER & NER) G 
+ross students a given Enrolment level of a of particular education. Rates age (GERs) Technically, groups indicate and are GERs used the give to capacity show the total the of general enrolment education level in system participation a specific to enrol in level of education, regardless of age, expressed as a percentage of the eligible official school-age population corresponding to the same level of education in a given school year except for the tertiary level where the population used is that of the five-year age group following on from the secondary school leaving. As it is calculated regardless of age, it also indicates the extent of over aged and under aged enrolment by being above 100%. 
+A high GER generally indicates a high degree of participation, whether the pupils belong to the official age group or not. A GER value approaching or exceeding4 100% indicates that a country is, in principle, able to accommodate all of its school-age population, but it does not indicate the proportion already enrolled. The achievement of a GER of 100% is therefore a necessary but not sufficient condition for enrolling all eligible children in school. When the GER exceeds 90% for a particular level of education, the aggregate number of places for pupils is approaching the number required for universal access of the official age group. However, this is a meaningful interpretation only if one can expect the under-aged and over-aged enrolments to decline in the future to free places for pupils from the expected age group. 
+Net Enrolment Rates (NETs) give the total enrolment of the official age group for a given level of education expressed as a percentage of the corresponding population and are used to show the extent of coverage in a given level of education of children and youths belonging to the official age group corresponding to the given level of education. 
+A high NER denotes a high degree of coverage for the official school-age population. The theoretical maximum value is 100%. Increasing trends can be considered as reflecting improving coverage at the specified level of education. When the NER is compared with the GER, the difference between the two highlights the incidence of under-aged and over-aged enrolment. If the NER is below 100%, then the complement, i.e. the difference with 100%, provides a measure of the proportion of children not enrolled at the specified level of education. However, since some of these children/youth could be enrolled at other levels of education, this difference should in no way be considered as indicating the percentage of students not enrolled. 
+4 GER can exceed 100% due to the inclusion of over-aged and under-aged pupils/students because of early or late entrants, and grade repetition. In this case, a rigorous interpretation of GER needs additional information to assess the extent of repetition, late entrants, etc. 
+16 
+3.1 Primary Schools 
+From Figure 19, it is evident that the averages5 Gross Enrolment Ratios (GER) in primary schools increased all over the world except the developed countries for the period examined. This upward trend was especially striking for the OIC average as the positive momentum caught led to a remarkable 10-point increase from 89.6% in 1999 to 99.9% in 2008. Meanwhile, the GER of developing countries and the world surpassed 100% and reached 104% in year 2008 while it was around 103% for developed countries indicating a slight decline compared to year 1999. 
+In line with GERs, Net Enrolment Rates (NERs) also displayed a positive trend globally. The average NER of the World increased by 3.8 percentage points and became 87.8% in 2008 while 86% of the primary school students enrolled in developing countries after 4.5 percentage points change compared to year 1999. Among the groups, OIC member countries experienced the highest increase of NER from 76.8% in 1999 to 81.8% in 2008. This indicates that nearly 18.2% of primary school age students in OIC member countries were not enrolled in primary schools whereas it was only 3% in developed countries. 
+When GERs are compared with NERs, the developed countries had the narrowest gap, approximately 6 percentage points, between the straight and dotted lines, reflecting the low incidence of under/over-aged enrolment. On the other hand, the gap was as high as 16% in the World and 18% in OIC and developing countries for year 2008. 
+Figure 19: Gross and Net Enrolment Rates, Primary Schools 
+95 90858075OIC - GER World - GER Developing - GER Developed - GER OIC - NER World - NER Developing - NER Developed - NER 105 
+100 
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Source: SESRIC, UNESCO 
+5 Due to inconsistencies regarding population and enrolment, the averages are simple, unless otherwise is noted. 
+Percent 
+17 
+As GERs of 30 OIC member countries were above 100%6 in 30 OIC member countries, NERs would present a clearer picture at the individual country level. 27 OIC member countries achieved higher NERs than the World average of 87.8% in year 2008. As shown in Figure 20, the NERs of Iran, Bahrain, Tunisia, Tajikistan and Uganda, were even above that of the developed countries, 97%. At the other extreme, more than half of the primary school age students were not enrolled in primary schools in Niger, Djibouti and Sudan. 
+Figure 20: Top 10 OIC Member Countries by NER at Primary Schools 
+Iran 
+94.9 
+Percent 
+Source: SESRIC, UNESCO 
+3.2 Secondary Schools 
+The GERs at secondary schools displayed similar characteristics with GERs at primary schools and increase all over the world excluding developed countries where the GER dropped by nearly 2 percentage points over its 1999 rate of 106.1% (Figure 21). 
+Among the groups, the highest jump in GER was observed in OIC member countries from 50% in 1999 to 60.4% in 2008. In terms of change, developing countries followed OIC. In 2008, 68.6% of students were covered under the secondary school system of developing countries., indicating an increase around 8.8 percentage points compared to year 1999.However, the GER of developing countries continued to be below that of the World, 74.6%, in 2008 
+Although the NERs, shown by the dotted lines in Figure 21, were lower than the GERs of the respective groups due to the under/over-age enrolment, more than 90% of secondary school age students in developed countries were enrolled in 2008. On the other hand, the NERs of neither the OIC member countries nor the developing countries could manage to overcome the World average of 64.7% , despite upward trend during the period analyzed. More strikingly, the OIC average for NER, 52.7%, revealed that nearly half of the secondary school age students were not enrolled in the secondary schools of OIC member countries in year 2008. 
+6 GERs of Sierra Leone, Gabon, Iran, Syria and Uganda were even above 120%. 
+99.7 
+Bahrain 
+97.9 
+Tunisia 97.7Tajikistan 
+97.3Uganda 97.1Maldives 
+96.2 
+Malaysia 
+96.1 
+Azerbaijan 
+96.0 
+Indonesia 
+95.7Algeria 
+93 94 95 96 97 98 99 100 
+18 
+OIC - GER World - GER Developing - GER Developed - GER OIC - NER World - NER Developing - NER Developed - NER 
+Source: SESRIC, UNESCO 
+At the individual country level, 25 OIC member countries achieved higher GERs at secondary schools than the World average of 74.6%, In 117 of them,, six belonging to MENA region, more than 90% of students of the comparative age group were enrolled in secondary schools (Figure 22- A). Azerbaijan, Guyana and Uzbekistan had GERs even over 100% with rates of 105.6%, 102.1% and 101.4%, respectively while less than one fifth of students enrolled in secondary schools in Chad, Burkina Faso, Niger and Somalia. 
+Figure 22: Top 10 OIC Member Countries by GERs and NERs at Secondary Schools Part A) GERs Part B) NERs 
+Azerbaijan 
+Azerbaijan 
+85.4 
+83.882.581.992.0 
+Percent 80.5Percent 
+Source: SESRIC, UNESCO 
+With the exception of Guyana of Figure 22-A, the first four positions in terms of net enrolment were shared by the same countries, Azerbaijan, Uzbekistan, Bahrain and Brunei. (Figure 22-B) 
+7 In addition to top 10 countries listed in Figure 22, Tunisia surpassed the average of developed countries with a GER of 91.8%. 
+105.6 
+90 92 94 96 98 100 102 104 106 
+98.3 
+Guyana 
+102.1 
+Uzbekistan 
+91.3 
+Uzbekistan 
+101.4 
+Bahrain 
+89.4 
+Bahrain 
+96.8 
+Brunei 88.2Brunei 
+96.7 
+Palestine 87.3Saudi Arabia 
+94.6 
+Kazakhstan 
+UAE 
+93.8UAE 
+Libya 
+93.5 
+Tajikistan 
+Qatar 
+93.2 
+Jordan 
+Kazakhstan 
+Kyrgyzstan 
+75 80 85 90 95 100 
+Percent 
+Figure 21: Gross and Net Enrolment Rates, Secondary Schools 
+110 
+100 
+90 
+80706050401999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+19 
+Azerbaijan and Uzbekistan were the only OIC member countries having NERs higher than the average of developed countries, 90.5%. 
+3.3 Tertiary Schools 
+For tertiary education, net enrolment rate is not pertinent because of the difficulties in determining an appropriate age group due to the wide variations in the duration of programmes at this level of education. In terms of gross enrolment in tertiary schools, with a rate of 17.1 % in 2008, the OIC average was below that of developing countries, 23.9% and nearly half of the world, 30.8 %. 
+Figure 23: Gross Enrolment Rates, Tertiary Schools 
+OIC - GER World - GER Developing - GER Developed - GER 65 
+554535251551999 2000 2001 2002 2003 2004 2005 2006 2007 2008 
+Percent 
+Source: SESRIC, UNESCO 
+Additionally, OIC member countries experienced the lowest growth trend as can be seen in Figure 23 whereas the average GER of developed countries increased from 49.1% in 1999 to 63.7% in 2008. 
+Figure 24: Top 10 OIC Member Countries by GER in Tertiary Schools 
+Libya 
+40.7 
+38.436.133.732.1Percent 
+Source: SESRIC, UNESCO 
+55.7 
+Kyrgyzstan 
+52.0 
+Lebanon 
+51.5 
+Palestine 
+47.2 
+Kazakhstan 
+46.9 
+Jordan 
+Turkey 
+Iran 
+Tunisia 
+Malaysia 
+0 10 20 30 40 50 60 
+20 
+In 2008, 10 OIC member countries achieved higher GER in tertiary schools than the World average of 30.8%, as shown in Figure 24. Among them, Libya, Kyrgyzstan and Lebanon obtained the first three positions as more than half of the tertiary school age students were enrolled in tertiary schools in these countries. On the other hand, there were 128 member countries where the enrolment rates in tertiary schools were even below 5 %. 
+8 Except Afghanistan, all of them belonged to SSA region. 
+21 
+4 Government Expenditures on Education T 
+he and not outcome only equality the of as provision the well research as the but need placing also for the utmost public financing importance intervention of education to in education education by the states. for has economic implications In this respect, growth for 
+this section of the Report analyzes the levels of government expenditures on education in OIC countries in comparison with their counterparts for the period 1999-2008. 
+4.1 Government Expenditures on Education as Percentage of GDP 
+One way to analyze the size of public expenditures on education is to compare these expenditures with the gross domestic product (GDP) of an economy, which, in one way, represents the total expenditures in that economy. Thus, it can be calculated how much of the GDP is dedicated to education sector by the government. The measure used to calculate this ratio is ―government expenditures on education as percentage of GDP‖. This indicator is also a sign of the importance given by the government to investment in human resources. 
+As shown in Figure 25, governments around the world spent, on average, 4.0% of GDP on education in 1999 while this figure slightly increased by 0.1 percentage point in a decade to reach 4.1% in 2008. Developed countries had been spending more than developing countries. Public spending on education in developed countries accounted for 4.3% of the GDP in 1999 and this ratio increased further to 4.5% by 2008. However, governments in developing countries could spend only 2.8% of their GDP on the education sector in 1999 and this ratio increased only by 0.1 percentage points in a decade to reach 2.9% in 2008. 
+Figure 25: Government Expenditures on Education as Percentage of GDP* 
+5.0 
+t ne1999 2008 cr4.5 
+eP4.0 
+4.5 
+3.5 
+3.0 
+2.5 
+2.9 2.6 2.0 
+1.5 
+1.0 
+0.5 
+0.0 
+World Developed Developing OIC 
+Source: SESRIC, UNESCO *The averages are weighted averages for countries with available data. 
+The situation in OIC countries was not optimistic though government spending on education accounted for 2.9% of their GDP in 1999, which was higher than the average for developing 
+4.0 
+4.1 
+4.3 
+2.8 2.9 
+22 
+countries at that time, this ratio declined down to 2.6% by 2008. It is obvious that the public spending on education sector with respect to the size of the economy was, on average terms, lower in OIC countries than in both developed and developing countries (Figure 25). 
+Figure 26 demonstrates the regional averages of government expenditures on education as percentage of GDP for OIC countries in comparison with all countries for the years 1999 and 2008. Accordingly, this ratio for members in EAP outperformed the regional average significantly in 1999 –8.5% vs. 3.4%, respectively– and, although it declined to 3.8% by 2008, it was still higher than the regional average of 3.3%. The ratio for OIC countries in ECA increased from 2.6% to 14.0% in this period. Thus, although it was lower than the regional average of 3.9% in 1999, it exceeded the regional average of 4.1% significantly by 2008. The ratio for members in LA region declined from 6.3% to 6.1% in this period, yet it still remained higher than the respective regional averages of 3.7% and 4.4%. The ratio for the members in MENA did not change remarkably, declining from 1.6% to 1.5%, but it remained below the regional averages of 2.2% in 1999 and 1.9% in 2008. The ratio continued to be the lowest in the OIC for member countries in SA as it further declined from 1.3% to 0.8% in the period under consideration. Moreover, these figures were significantly lower than the regional averages of 3.8% in 1999 and 2.6% in 2008. The ratio for members in SSA outperformed the regional average in 1999 –4.7% vs. 2.6%, respectively– and, although it declined to 2.9% by 2008, it was still higher than the regional average of 1.8%. 
+Figure 26: Regional Averages for Government Expenditures on Education as Percentage of GDP 
+216 
+t 1999 2008 ne14creP1210869 
+4.20EAP ECA LAC MENA SA SSA EAP ECA LAC MENA SA SSA 
+All Countries OIC Countries 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+Time wise analysis indicates that OIC countries in all the regions except in ECA witnessed a decline in their ratio of government expenditures on education to GDP between 1999 and 2008 and the decline was more notable for members in EAP (from 8.5% to 3.8%) and in SSA (from 4.7% to 2.9%). As of 2008, the highest rate of government expenditure on education as percentage of GDP was recorded for members in ECA (14.0%), followed by members in LA (6.1%), EAP (3.8%), SSA (2.9%), and SA (0.8%). Considering the comparison between the regional averages for OIC 
+3.4 3.9 3.7 
+2.2 
+23 
+3.8 
+2.6 
+4.7 3.3 4.1 4.4 
+1.9 2.6 
+1.8 
+3.8 
+8.5 
+2.6 
+6.3 
+1.6 
+1.3 
+14.0 
+6.1 
+1.5 
+0.8 
+countries and the overall averages for their respective regions, the averages for member countries in EAP, ECA, LA and SSA exceeded the overall regional averages. 
+At the individual country level, government spending on education accounted for 8.7% of the GDP in Djibouti, which was the highest rate among the OIC countries with available data as of 2008.Together with Djibouti, Maldives (8.1%), Comoros (7.6%), Tunisia (7.2%), Kyrgyzstan (6.6%), Guyana (6.1%), Saudi Arabia (5.7%), Morocco (5.7%), Yemen (5.2%), and Senegal (5.1%) comprised the top 10 OIC countries by government expenditures on education as percentage of GDP (Figure 27). It is noteworthy that all these countries except Saudi Arabia are low-income or lower-middle-income countries according to their GNI per capita. 
+Figure 27: Top 10 OIC Countries by Government Expenditures on Education as Percentage of GDP (%), 2008* 
+Djibouti 
+Maldives 
+Comoros 
+Tunisia 
+Kyrgyzstan 
+Guyana 
+Saudi Arabia 
+Morocco 
+Yemen 
+Senegal 
+Percent 
+8.7 
+5.15.2 
+5.15.2 
+5.15.2 
+5.7 
+5.7 
+6.1 
+6.6 
+7.2 
+7.6 
+8.1 
+Source: SESRIC, UNESCO *Due to data unavailability, the figure reflects 2007 values for Djibouti, Tunisia, Kyrgyzstan and Guyana. 
+4.2 Government Expenditures on Education as Percentage of Total Government Expenditures 
+The share of a government’s spending on education in its total expenditures is another major indicator that measures the relative importance of the education sector on part of the government. The higher the share of education expenditures in total government expenditures, the higher is the government’s support for the education sector. 
+The share of government expenditures on education in total government expenditures was higher in OIC member countries than in both developed and developing countries in the period under consideration (Figure 28). It implies that the governments in OIC member countries, on average, have spent on the education sector proportionally more than the governments in both developed and developing countries have done. In OIC member countries, governments’ spending on the education sector accounted for 16.4% of their total expenditures in 1999. This ratio was 13.0% in developed countries and 14.5% in developing countries, with the world average being 13.2%. By 
+0 1 2 3 4 5 6 7 8 9 10 
+24 
+2008, the ratio increased to 16.9% in OIC member countries and 15.6% in developing countries while it declined to 12.2% in developed countries, leading to a decline in the world average to 12.7% Figure 28: Government Expenditures on Education as Percentage of Total Government Expenditures 
+16.9 18 
+t n1999 2008 ecr16eP14121086420World Developed Developing OIC 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+Figure 29 shows the regional averages of government expenditures on education as percentage of total government expenditures for OIC countries in comparison with all countries for the years 1999 and 2008. The ratio for OIC members in EAP region surpassed the regional average both in 1999 (16.0% vs. 10.8%, respectively) and in 2008 (18.4% vs. 11.9%, respectively). For OIC countries in ECA, it increased from 10.7% to 13.5% in this period. Thus, although it was slightly lower than the regional average of 11.0% in 1999, it exceeded the regional average of 11.2 percent by 2008. The ratio for members in LA declined significantly in this period, from 18.4% to 12.5%, though the regional average increased from 14.3% to 17.4%. The ratio for the members in MENA also declined, from 20.3% to 18.4%, yet it still remained below the regional averages of 18.9% in 1999 and 17.7% in 2008. The ratio continued to be the lowest in the OIC for member countries in SA despite the fact that it increased from 8.0% to 11.9% in the period under consideration. However, although the average for these countries was significantly lower than the regional average of 11.8% in 1999, it even slightly exceeded the regional average of 11.1% in 2008. The ratio for members in SSA increased from 16.6% to 18.5% in this period, though the regional average decreased from 20.2% to 17.3%, implying that the average for these OIC countries outperformed the regional average at the end of the period under consideration. 
+Overall, time wise analysis indicates that, unlike the member countries in LA and MENA regions, those in EAP, ECA, SA and SSA witnessed an increase in their ratio of government expenditures on education to total government expenditures between 1999 and 2008. Consequently, as of 2008, the highest rate of government expenditure on education as percentage of total government expenditures was recorded for members in SSA (18.5%), followed by members in EAP (18.4%), 
+16.4 
+12.7 12.2 
+15.6 
+13.2 13.0 
+25 
+14.5 
+MENA (18.4%), ECA (13.5%), LA (12.5%), and SA (11.9%). Considering the comparison between the regional averages for OIC countries and the overall averages for their respective regions, it is observed that the averages for member countries in all the regions except LA exceeded the overall regional averages (Figure 29). 
+Figure 29: Regional Averages for Government Expenditures on Education as Percentage of Total Government Expenditures 
+Percent 1999 2008 
+18.5 0510152025 
+10.8 11.0 
+16.6 
+11.9 
+11.9 
+11.2 
+11.2 
+11.2 
+14.3 
+18.9 
+11.8 
+11.8 
+11.8 
+11.8 
+17.4 17.7 
+17.4 17.7 
+11.1 
+11.1 
+11.1 
+11.1 
+11.1 
+20.2 
+20.2 
+16.0 
+16.0 
+10.7 
+10.7 
+10.7 
+10.7 
+10.7 
+17.3 18.4 
+17.3 18.4 
+17.3 18.4 
+13.5 
+13.5 
+12.5 
+12.5 
+12.5 
+12.5 
+18.4 20.3 
+18.4 20.3 
+18.4 20.3 
+8.0 
+18.4 
+18.4 
+18.4 
+18.4 
+11.9 
+11.9 
+11.9 
+11.9 
+11.9 
+11.9 
+11.9 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+Among the OIC member countries with available data, Oman has the highest ratio of government expenditures on education as percentage of total government expenditures (31.1%). It was followed by United Arab Emirates (27.2%), Morocco (25.7%), and Kyrgyzstan (25.6%), all dedicating over one fourth of the total government expenditures to the education sector. Together with these countries, Cote d’Ivoire (24.6%), Djibouti (22.8%), Tunisia (22.4%), Burkina Faso (21.8%), Mozambique (21.0%), and Algeria (20.3%) were also among the top 10 countries (Figure 30). 
+Figure 30: Top 10 OIC Countries by Government Expenditures on Education as Percentage of Total Government Expenditures (%)* 
+Oman 
+UAE 
+Morocco 
+Kyrgyzstan 
+Côte d'Ivoire 
+Djibouti 
+Tunisia 
+Burkina Faso 
+Mozambiq... 
+Algeria 
+Percent 
+31.1 
+22.8 
+20.321.021.822.4 
+20.321.021.822.4 
+20.321.021.822.4 
+25.727.2 
+24.625.6 
+Source: SESRIC, UNESCO * Data for the latest year available between 2006 and 2008. 
+EAP ECA LAC MENA SA SSA EAP ECA LAC MENA SA SSA 
+All Countries OIC Countries 
+0 5 10 15 20 25 30 35 
+26 
+4.3 Government Expenditures on Education per Pupil 
+In addition to the abovementioned macro-level indicators that compares government expenditures on education with GDP or total government expenditures, governments’ financial contribution to education sector can also be explained at micro-level by measuring how much is spent by the government per student. Unlike the former ones, this approach focuses directly on the level of government spending on education regardless of the size of the economy or the total expenditures of the government. 
+Government expenditures on education per pupil increased all over the world between 1999 and 2008 (Figure 31). In this period, the world average increased from $1485 to $2264, corresponding to an annual average growth rate of 4.8 percent. The average for developed countries, with an annual average increase of 5.1%, increased from $5856 to $9139. The average for developing countries increased from $274 to $478, corresponding to an annual average growth rate of 6.4 percent. Consequently, as of 2008, governments’ spending per pupil in developed countries was over 19 times that in developing countries. As for OIC countries, the average spending per pupil increased from $265 to $461. Thus, although it increased almost the same rate as that for developing countries (6.3%), it was still lower than the level recorded in developing countries. 
+Figure 31: Government Expenditures on Education per Pupil* (US $) 
+1999 2008 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+Figure 32 shows the regional averages of government expenditures on education per pupil for OIC countries in comparison with all countries for the years 1999 and 2008. The average spending per pupil increased between those years in all the regions not only for OIC countries but also for other countries. The highest increase for OIC countries was recorded in ECA (171%) and MENA (151%), followed by LA (55%), SA (27%), SSA (13%), and EAP (12%). Consequently, as of 2008, the highest government expenditure on education per pupil reached $1172 in ECA, $934 in MENA, $400 in EAP, $229 in LA, $104 in SSA, and $68 in SA. However, these regional averages 
+US $ 
+10,000 
+9,000 
+9,139 
+8,000 
+7,000 
+6,000 
+5,000 
+4,000 
+3,000 
+2,000 
+1,000 
+478 461 
+0 
+World Developed Developing OIC 
+1,485 
+2,264 
+5,856 
+274 265 
+27 
+for OIC countries continued to be lower than the overall regional averages and the highest differences were observed in ECA and EAP. 
+Figure 32: Regional Averages for Government Expenditures on Education per Pupil* 
+US $ 1999 2008 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+2 87,7000 
+Among the OIC countries with available data, Kuwait has the highest government expenditure on education per pupil ($6513), followed by United Arab Emirates ($2474), Oman ($1711), Turkey ($1311), and Malaysia ($1219). Iran, Tunisia, Maldives, Morocco, and Indonesia, spending around $300 to $850 per pupil, are also among the top 10 countries (Figure 33). 
+Figure 33: Top 10 OIC Countries by Government Expenditures on Education per Pupil* (US $) 
+Kuwait 
+UAE 
+Oman 
+Turkey 
+Malaysia 
+Iran 
+Tunisia 
+Maldives 
+Morocco 
+Indonesia 
+US $ 
+6,513 
+776842 
+292544765 
+292544765 
+292544765 
+1,3111,711 
+1,219 
+2,474 
+Source: SESRIC, UNESCO * Data for the latest year available between 2003 and 2008. 
+8000 
+66000 
+5000 
+4000 
+3000 
+8 4 
+2 2000 
+987111,,,4 111390 1000 
+9 04 5 4 
+2410028 11160 
+1,479 
+1,830 
+1,830 
+3,674 
+573 561 
+92 93 357 432 
+92 93 357 432 
+92 93 357 432 
+148 373 
+148 373 
+148 373 
+148 373 
+54 92 
+EAP ECA LAC MENA SA SSA EAP ECA LAC MENA SA SSA 
+All Countries OIC Countries 
+0 1,000 2,000 3,000 4,000 5,000 6,000 7,000 8,000 
+28 
+4.4 Government Expenditures on Education per Pupil as Percentage of GDP Per Capita 
+Analyzing the government expenditures on education per pupil in nominal terms may be misleading when comparing countries of widely different levels of income. The differences in purchasing power parities among countries are also problematic to such an analysis. To eliminate such problems to some extent and ensure more comparable data among countries, the nominal value of government expenditures on education per pupil is expressed as a percentage of GDP per capita, whereby it becomes more reasonable to make comparison between countries as governments’ spending are measured with respect to the income level of countries. 
+World average government expenditures on education per pupil as percentage GDP per capita increased from 20.5% in 1999 to 21.2% in 2008. The increase in this ratio in developing countries as well as OIC countries was quite limited as compared to developed countries. The ratio for developed countries increased from 21.8% to 23.5% in this period while the ratio for developing countries increased from 18.1% to only 18.2% and remained well below that for developed countries. The ratio for OIC countries was not better than that for developing countries. It increased from 16.3% in 1999 to only 16.5% in 2008, remaining below the average for developing countries (Figure 34). 
+Figure 34: Government Expenditures on Education per Pupil as Percentage of GDP per Capita* 
+23.5 25 
+t 1999 2008 
+necre21.8 P2020.5 21.2 
+18.1 
+18.2 1516.3 
+16.5 
+1050World Developed Developing OIC 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+Figure 35 reflects the regional averages of government expenditures on education per pupil as percentage of GDP per capita for OIC countries in comparison with all countries for the years 1999 and 2008. The ratio for OIC countries in EAP declined from 16.8% in 1999 to 16.2% in 2008 while the average for all the countries in the region increased from 16.1% to 16.6% in this period. 
+29 
+130 
+t n1999 2008 
+ecreP251 
+.820151050EAP ECA LAC MENA SA SSA EAP ECA LAC MENA SA SSA 
+All Countries OIC Countries 
+Source: SESRIC, UNESCO * The averages are weighted averages for countries with available data. 
+For OIC countries in ECA, the ratio increased from 11.9% to 12.7% in this period, yet it still remained well below the overall regional average, which increased from 23.4% to 24.2% in the same period. The ratio for members in LA from 14.3% to 16.3%, though the regional average increased from 14.3% to 17.3%. The ratio for the members in MENA also increased, yet at a higher rate as compared to other regions. It increased from 14.1% to 17.5%, though it still remained below the regional averages of 16.3% in 1999 and 18.9% in 2008. The ratio for member countries in SA stayed at 13.6% but the overall regional average declined significantly in this period, from 21.0% to 14. %. The ratio for members in SSA decreased from 19.7% to 18.1% and continued to be lower than the regional average, which also decreased from 21.6% to 20.6%. 
+Time wise analysis indicates that OIC countries in ECA, LA and MENA witnessed an increase in their ratio of government expenditures on education per pupil as percentage of GDP per capita between 1999 and 2008 and the increase was more remarkable for members in MENA. Members in EAP and SSA experienced a decline in this ratio while those in SA reported no change in the period under consideration. Consequently, as of 2008, the highest ratio was recorded for members in SSA (18.1%), followed by members in MENA (17.5%), LA (16.3%), EAP (16.2%), SA (13.6%), and ECA (12.7%). Considering the comparison between the regional averages for OIC countries and the overall averages for their respective regions, the averages for member countries were weaker in all the regions as of 2008 (Figure 35). 
+Burkina Faso reported a ratio of government expenditures on education per pupil as percentage of GDP per capita of 34.1 percent, which was the highest ratio among the OIC countries with available data (Figure 36). In Niger, government expenditures on education per pupil also accounted for about one third of GDP per capita (33.2%). 
+Figure 35: Regional Averages for Government Expenditures on Education per Pupil as Percentage of GDP per Capita* 
+16.1 
+19.7 
+16.6 
+23.4 
+14.3 16.3 
+24.2 
+17.3 18.9 
+14.1 
+30 
+20.6 
+16.2 
+12.7 
+21.0 21.6 
+16.8 
+11.9 14.3 
+14.1 
+13.6 
+16.3 17.5 
+13.6 
+In Morocco (27.9%), Tunisia (26.4%), and Senegal (25.2%), these expenditures accounted for over one fourth of GDP per capita. Maldives, Mozambique, Benin Mali, and Kuwait followed these countries and were placed among the top 10 OIC countries by government expenditures on education per pupil as percentage of GDP per capita. 
+Figure 36: Top 10 OIC Countries by Government Expenditures on Education per Pupil as Percentage of GDP per Capita* (Percent) 
+Burkina Faso 
+Niger 
+Morocco 
+Tunisia 
+Senegal 
+Maldives 
+Mozambique 
+Benin 
+Mali 
+Kuwait 
+Percent 
+33.234.1 
+19.4 
+17.819.1 
+17.819.1 
+17.819.1 
+25.226.427.9 
+23.324.8 
+Source: SESRIC, UNESCO * Data for the latest year available between 2004 and 2008. 
+0 5 10 15 20 25 30 35 
+31 
+5 Research and Scientific Development R 
+esearch knowledge-based, understanding in science on or different and an technology innovation-driven aspects is of of life great while, economy. importance on the On other and one key hand, hand, to it progress it helps promotes to towards improve better a 
+the standard of living by creating new knowledge and technological innovation. 
+Today, there is severe competition among countries to become the most competitive and knowledge-based economy in the world. In this respect, gaining a competitive advantage against other countries, which is of particular importance to the OIC member countries in catching-up within this competitive world of knowledge economy, depends mostly on how well they perform in research activities. This section of the report presents an overview of achievements by the OIC member countries in the field of research and development (R&D) and science & technology (S&T). 
+5.1 Human Resources in Research and Development 
+The availability of abundant and highly qualified researchers is an essential condition to foster innovation and promote the scientific and technological development of a country. However, figures indicate that OIC member countries, on average, fell well behind the world average in terms of researchers per million people: 649 vs. 2,532, respectively9. The gap is much higher when compared to the EU that has an average of 6,494 researchers per million people and some other developed countries like New Zealand, Japan, and Republic of Korea (Figure 37). 
+Figure 37: Researchers per Million People* 
+Source: UNESCO. * Headcount data for the most recent year available. 
+9 Figures are the weighted averages of countries for which data are available. 
+32 
+0 2,000 4,000 6,000 8,000 10,000 12,000 
+Figure 37 illustrates the OIC map of distribution of researchers employed in R&D and reveals the following observations: 
+Only 7 of the 29 member countries with available data have more than one thousand researchers per million people, two of which –Jordan and Tunisia– are above the world average. 
+7 member countries had less than one hundred researchers per million people, most of which are in Sub-Saharan Africa. 
+Great disparity exists among the member countries; Jordan has 8,060 researchers per million inhabitants while Niger has merely 53. 
+5.2 Women in Research Activities 
+In the last decades, women, with better access to training and education facilities thanks to the rising awareness on gender in/equality, have become more qualified and motivated to participate in the labour force. Nevertheless, the progress achieved so far in the field of R&D seems to be unsatisfactory neither globally nor at the OIC level. Women, in the OIC, represent around 26.8% of the total researchers, slightly lower than the world average of 29.5%10. The gap is higher when compared to the EU and some other developed countries like New Zealand and Norway but still the OIC average is higher than some others like Republic of Korea and Japan (Figure 38). 
+Figure 38: Women as a Share of Total Researchers (%)* 
+S60 
+0 
+.9 .064350; ; naad0 
+d.nu0 
+2.a28g4 40.2; U; 4osn2a; oF8 
+ab.i6 a ar.7neG51i30g; 1kira; lNuea8 
+Bn.gie1un18 G20.; eil4Sa; aMibm10aG0Europe & Central 
+Asia 
+Middle East & 
+East Asia & 
+South North Africa Pacific 
+Asia Sub-SaharanAfrica Source: UNESCO * Headcount data for the most recent year available. 
+10 Aggregate calculations are based on countries with available headcount data –for the most recent year available. 
+EU; 34.4 
+World; 29.5 
+OIC; 26.8 
+New Zealand; 43.3 
+Norway; 37.0 
+Rep. of Korea; 20.5 
+Japan; 18.2 
+33 
+Kazakhstan; 53.1 
+Azerbaijan; 51.1 
+Kyrgyz Rep.; 47.2 
+Turkey; 33.9 
+Tunisia; 42.8 
+Algeria; 33.9 
+Kuwait; 33.4 
+Morocco; 26.2 
+Iran; 23.9 
+Saudi Arabia; 19.5 
+Jordan; 17.9 
+Malaysia; 37.1 
+Indonesia; 29.2 
+Pakistan; 14.6 
+Bangladesh; 8.2 
+With respect to the data demonstrated in Figure 38, the following observations can be drawn: 
+➢ The share of women in total researchers is above the world average in 10 of the 24 OIC 
+member countries with available data. 7 of them outperform the EU average as well. 
+➢ According to regional averages, OIC members in Europe & Central Asia and East Asia & 
+Pacific report higher rates of women researchers, often above the world average. 
+➢ Members in the Middle East, on average, report lower rates of women researchers than 
+those in North Africa. The share of women researchers range from 42.8% in Tunisia to 
+17.9% in Jordan. 
+➢ Intra-regional difference is even higher in Sub-Saharan Africa: on one hand, there are 
+countries like Sudan and Uganda where women represent more than 35% of researchers 
+while, on the other hand, there also are countries where women’s share is less than 10% as 
+in the case of Gambia. 
+➢ Kazakhstan and Azerbaijan are the only member countries to have more women 
+researchers than men. Kyrgyzstan, Tunisia, and Sudan –all with over 40% women 
+researchers– are also close to achieving gender parity. 
+5.3 Expenditure on Research & Development 
+5.3.1 R&D Intensity 
+Today, around 80% of the global 
+Figure 39: GERD, % of World Total (2007) R&D expenditures is spent by developed countries, of which 33.5% by the USA, 23.5% by the EU, and 13.4% by Japan (Figure 39). The OIC countries accounted for only 1.8% of the world total Gross Domestic Expenditures on R&D (GERD), or 9.5% of the total GERD of developing countries. Nevertheless, what is more important than the volume of GERD is its weight in the total expenditures or, in other words, in GDP. Accordingly, R&D intensity (GERD as a percentage of GDP) is a widely used indicator of S&T activities. It reflects the innovative capacity of a country in 
+Other Developed 10.1% 
+USA 33.5% 
+EU Japan 23.5% 13.4% 
+OIC 1.8% 
+Source: UNESCO Other Developing 17.6% 
+34 
+that a higher R&D intensity indicates that relatively more resources are devoted to the development of new products or production processes. 
+In this connection, the OIC Ten-Year Programme of Action to Meet the Challenges Facing the Muslim Ummah in the 21st Century, which was adopted at the Third Extraordinary Session of the Islamic Summit Conference held in Makkah al Mukarramah, Kingdom of Saudi Arabia, in December 2005, calls upon Islamic countries to encourage research and development programmes, taking into account that the global percentage of this activity is 2% of the Gross Domestic Product (GDP), and request Member States to ensure that their individual contribution is not inferior to half of this percentage (OIC-TYPOA, 1995, Part 2, Section V, Article 4). Nevertheless, available data show that OIC member countries’ spending on R&D activities was significantly lower than the world average and still far away from the implied target of 1% of GDP by 2015 (Figure 40). 
+Figure 40: R&D Intensity (%)* 
+3.5 
+4 
+3 
+42..33; ; anaerpoaJ3.0 
+Kf o. pe2 2.5 
+R2.1; dn2.0 
+al2 
+a09 .e41Z8 
+.3 
+EU; 1.76 
+3 4 ; 60667w .a..; i.1.5 
+5 
+e000s1 e1 0i28 
+e000s1 e1 0i28 
+; ; N; 5 .8 ; 1u26 
+; ; N; 5 .8 ; 1u26 
+no6.n.ay001.qi33 
+no6.n.ay001.qi33 
+ucai..00.se; 5 tT06 39 
+c.b00y; k0.s; ; 09 02i3 
+o; p; ra.0 
+o; p; ra.0 
+.; 0.on8 1.0 
+.; 0.on8 1.0 
+nrml0k4 
+nrml0k4 
+nrml0k4 
+OIC; 0.41 
+OIC; 0.41 
+OIC; 0.41 
+OIC; 0.41 
+OIC; 0.41 
+OIC; 0.41 
+2aensua; 0.ia100a.0aaao0ta.Ta.R; rzdn; 0bj.0; PsIiF0a0Maz o; aMnni0; nhla; rya ; tadas; akatbMagritgpni Adeiagrirsaoyri ezuinU0.5 
+keyJegaedkSrnzwoniKEgjKuuuudlAearaBKnSATISB0.0 
+Source: UNESCO * Data for the most recent year available between 2003 and 2007. 
+Regarding the R&D intensity in the OIC member countries, the situation can be summarized as below: ➢ Among the member countries with available data, Tunisia, the only country to have met 
+the target so far, reported the highest level of R&D intensity (1.02%), followed by Turkey 
+(0.74%) and Pakistan (0.68%), while the lowest spending level was recorded for Brunei 
+(0.04%). 
+➢ Most of the member countries spent less than 0.5% of GDP on R&D. 
+➢ R&D intensity for the OIC member countries averages 0.41%, which was quite lower than 
+the EU average of 1.76% and the world average of 1.78% as well as the targeted rate of 1%. 
+World; 1.78 
+35 
+GERD as % of GDP, 2007 
+or latest available year 
+GERD as % of GDP, 1998 or earliest available year 
+Source: GERD Data: UNESCO; GDP data; IMF, World Economic Outlook Database, October 2009. 
+Figure 41 illustrates the change in R&D intensity between 1998 and 2007 for the OIC member countries for which data were available. Accordingly; 
+➢ In most of the member countries, R&D intensity remained relatively stable. ➢ Tunisia, Turkey, Pakistan, Morocco, and Malaysia managed to significantly increase their R&D intensity. It was more than doubled in Tunisia and Morocco while the increase in Pakistan was over 6-fold. Accordingly, although Iran, Sudan, and Mozambique had the highest R&D intensity rates in 1998, Tunisia and Turkey outperformed them while Pakistan caught up with Iran by 2007. ➢ Algeria, Azerbaijan, Sudan, and Kuwait reported a significant decrease in their R&D 
+intensity. ➢ The average for the OIC increased by only 0.14 percentage point in that decade. Although it is higher than that for the EU members (0.09 percentage point), which already have high R&D intensity, it is still lower than that for the world (0.16) which implies that OIC countries cannot reach the world average R&D intensity with such a low rate of improvement in their R&D expenditures. 
+➢ Among the few Sub-Saharan members that can provide data, Mozambique, with 0.49% 
+R&D intensity, was the only country to spend above the OIC average. 
+➢ Considering the figures in some other developed countries like Japan (3.44%) and Republic 
+of Korea (3.23%), both of which owe their economic development largely to investments 
+in advanced technology, OIC member countries needed to allocate much more resources 
+to R&D activities to bridge the gap with developed countries. 
+Figure 41: Trends in R&D Intensity 
+1.2 
+Tunisia 1.0 
+0.8 
+Pakistan 
+Turkey Morocco 
+Malaysia Iran 0.6 
+Mozambique 
+0.4 
+Jordan 
+Uganda 
+Sudan 
+Kazakhstan 
+0.0 
+Saudi Arabia 
+Tajikistan 
+Kuwait 
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 
+Kyrgyz Rep. 
+0.2 
+Indonesia 
+Egypt Burkina Faso 
+Azerbaijan Brunei Senegal 
+36 
+OIC 
+Algeria 
+5.3.2 R&D Expenditures per Capita 
+―R&D expenditures per capita‖ is also a frequently used indicator to make comparisons among countries with respect to the level of spending on R&D. Accordingly, the following observations can be drawn for OIC countries from Figure 42 that presents data for the change in the indicator in the last decade with available data. 
+➢ Of the OIC countries with available data, Turkey had the highest R&D expenditures per 
+capita ($95.2), followed by Malaysia ($79.0), Iran ($66.7) and Tunisia ($65.9). ➢ The lowest rates were recorded for Tajikistan, Burkina Faso, Senegal, and Indonesia, all 
+with less than $2 of R&D expenditures per capita. ➢ The average for all OIC countries with available data was calculated as $23.3, which was well below the world average of $194 and the EU average of $524. In Japan, this figure reached up to $1155, higher than GDP per capita values of 10 OIC countries. ➢ In a decade, from 1998 to 2007, R&D expenditures per capita increased by an average of only $13 for OIC countries, compared to $81 for the world and $193 for the EU, which could be considered as another source and indicator of divergence between OIC countries and the rest of the world with respect to scientific development. ➢ In the same period, Turkey, Tunisia, and Malaysia were the top three countries to have 
+most increased their GERD per capita; $61.5, $47.4, and $46.9, respectively. ➢ On the other hand, 7 of the 23 OIC countries with available data reported decline in their GERD per capita. Kuwait, which once had the highest value of $73.8, experienced the sharpest decline in this period so that its GERD per capita fell down to $37.2. 
+Figure 42: R&D Expenditures per Capita (PPP $) 
+Rep. of Korea 
+79.0 
+24.9 
+23.3 
+23.3 
+22.8 
+22.8 
+22.8 
+17.6 
+17.4 
+17.4 
+13.4 
+13.4 
+12.6 
+11.5 
+11.5 
+11.2 
+11.2 
+11.2 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+18.5 
+18.5 
+18.5 
+18.5 
+1200 1000 800 600 400 200 
+World EU Japan New 
+World EU Japan New 
+World EU Japan New 
+Zealand 
+Zealand 
+Zealand 
+Zealand 
+Zealand 
+Zealand 
+0 
+7.3 10.4 
+7.3 10.4 
+7.3 10.4 
+7.3 10.4 
+1.7 7.7 7.0 11.8 
+1.7 7.7 7.0 11.8 
+1.7 7.7 7.0 11.8 
+1.7 7.7 7.0 11.8 
+11.9 
+11.9 
+11.9 
+11.9 
+721 
+12.8 
+12.8 
+12.8 
+12.8 
+12.8 
+5.1 5.0 4.8 3.9 
+2.8 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+33.7 
+32.1 39.3 
+18.5 
+1998 or ealiest year available 
+2007 or latest year available 
+1200 1000 800 600 400 200 
+1200 1000 800 600 400 200 
+1200 1000 800 600 400 200 
+World EU Japan New 
+Zealand 
+Zealand 
+0 
+0 
+680 
+680 
+680 
+73.8 
+73.8 
+7.3 10.4 
+9.0 
+9.0 
+7.3 
+7.3 
+7.3 
+7.3 
+1.7 7.7 7.0 11.8 
+1.7 7.7 7.0 11.8 
+11.9 
+11.9 
+11.9 
+6.5 
+6.5 
+6.5 
+6.5 
+6.5 
+2.5 
+2.5 
+2.5 
+2.5 
+721 
+721 
+721 
+201 320 194 
+201 320 194 
+201 320 194 
+113 331 
+113 331 
+113 331 
+524 
+524 
+524 
+1,155 
+327 
+327 
+327 
+327 
+12.8 
+12.8 
+12.8 
+12.8 
+2.9 2.8 
+2.9 2.8 
+2.9 2.8 
+2.9 2.8 
+2.9 2.8 
+2.9 2.8 
+1.6 1.4 1.3 0.9 
+1.6 1.4 1.3 0.9 
+1.6 1.4 1.3 0.9 
+1.6 1.4 1.3 0.9 
+1.6 1.4 1.3 0.9 
+Source: GERD Data: UNESCO; Population data: IMF, World Economic Outlook Database, October 2009. 
+100 
+95.2 
+66.7 
+65.9 
+37.2 
+1.6 1.4 1.3 1.2 0102030405060708090 
+1.6 1.4 1.3 1.2 0102030405060708090 
+33.7 
+32.1 39.3 
+1998 or ealiest year available 
+1998 or ealiest year available 
+37 
+1200 1000 800 600 400 200 
+1200 1000 800 600 400 200 
+1200 1000 800 600 400 200 
+680 
+524 
+524 
+1,155 
+5.3.3 R&D Expenditures by Sector 
+Given that GERD is the sum of R&D expenditures of the performing sectors, it is useful to disaggregate it into individual sectors to see how much R&D each sector performs. This sectoral disaggregation is based on the United Nations classification that defines four major sectors of performance: Government, Business Enterprise, Higher Education, and Private Non-Profit. In this respect, Figure 43 presents the distribution of GERD among these sectors in the OIC member countries for which data are available. The figures are based on total available resources, regardless of their source of funds. Considering the data illustrated in Figure 43, sectoral distribution of GERD can be summed up as below: 
+➢ In most of the OIC member countries (10 out of 17 with available data), more than 50% of GERD was spent by government sector. This share reached up to 100% in Kuwait and over 90% in Indonesia, Tajikistan, and Brunei Darussalam. ➢ Despite having a share of less than 50%, government sector in Tunisia and Sudan is the 
+dominant sector, spending more on R&D than the other sectors do. ➢ The share of Business Enterprise in GERD is highest in Malaysia with 84.9%. Moreover, in Kazakhstan, Turkey, and Sudan, Business Enterprise is responsible for more than one third of the GERD. ➢ GERD of Business Enterprise is not available or at negligible levels in Kuwait, Tajikistan, 
+Brunei Darussalam, Pakistan, Burkina Faso and Senegal. ➢ Higher Education is the leading sector in Senegal, Morocco, and Turkey, accounting respectively for 66.7%, 52.4%, and 48.2% of the total GERD. Furthermore, more than one quarter of the GERD in Pakistan, Iran, Tunisia, and Sudan is also performed by this sector. ➢ The share of R&D expenditures by the Private Non-Profit sector is at a negligible level in 
+all of the member countries except Uganda (25.0%) and Burkina Faso (21.1%). 
+Figure 43: Distribution of GERD by Sector of Performance (%)* 
+100 
+0102030405060708090 
+Government 
+Source: UNESCO * Data for the most recent year available. 
+38 
+Private non-profit 
+Higher education 
+Business enterprise 
+Not specified 
+5.3.4 R&D Expenditures by Source of Funds 
+Figure 44 presents information on the funding sources of R&D in OIC member countries. Source distribution of the GERD has been made again on a sectoral basis as specified above, yet including additionally the funds from abroad. 
+Figure 44: Distribution of GERD by Source of Funds (%)* 
+Government 
+Source: UNESCO * Data for the most recent year available. 
+0102030405060708090 
+Not specified 
+Abroad 
+Private non-profit 
+Higher education 
+Business enterprise 
+Accordingly, given the data illustrated in Figure 44, the situation in OIC member countries can be summarized by the following observations: 
+➢ In most of the OIC member countries, R&D is mainly financed by the government sector. Out of the 17 member countries for which data are available, 11 countries are receiving more than %50 of R&D funds from the government. ➢ GERD in Senegal is completely funded by government sector and, in Kuwait, Tajikistan, 
+and Brunei Darussalam, the share of government funding is over 90%. ➢ Despite having a share of less than 50%, government sector in Tunisia is the dominant sector, providing more R&D funds than the other sectors. Government’s role in Turkey is also at a significant level since it provides almost half of the funds (47.1%), slightly lower than those provided by business sector. ➢ In Malaysia, government’s share in R&D funding is as low as 5%, which is the lowest rate 
+among all OIC countries with available data. ➢ Business Enterprise in Malaysia accounts for 84.7% of the total R&D funds. In Turkey and Kazakhstan, the business sector is also dominant, providing respectively 48.4% and 44.5% of the total R&D funds. ➢ Higher Education sector in Tunisia provides 30.5% of the total R&D funds, which is the highest rate among all OIC countries with available data. Additionally, sector’s share exceeds 10% in Kazakhstan, Pakistan, and Iran. 
+100 
+39 
+➢ Mozambique and Uganda deserve special attention as their R&D funds mostly come from 
+abroad, 65.3% and 50.7% respectively. 
+5.4 High Technology Exports 
+High-technology exports (HTE) are products with high R&D intensity, including aerospace, computers, software and related services, consumer electronics, semiconductors, pharmaceuticals, scientific instruments and electrical machinery, which mostly depend on an advanced technological infrastructure and inward FDI in high-tech industries. World high-technology exports were estimated to have reached over $1.7 trillion in 2007. Around 70% of that amount originated from developed countries, of which 33.3% from the EU members, 13.1% from the United States, 7.0% from Japan, and 6.3% from Republic of Korea (Figure 45). 
+Figure 45: High Technology Exports, % of World Total (2007) 
+Other Developed 10.5% 
+Source: World Bank, World Development Indicators (WDI), Online Database. 
+China was the largest exporter of HTE, accounting for almost one-fifth of the world total HTE and two-thirds of the total HTE of developing countries. Confirming the lack of adequate infrastructure and FDI in most of OIC countries, it is observed that all the member countries for which data are available accounted for only 4.3% of the world HTE (Figure 9), or 14.4% of the total HTE of developing countries. 
+➢ Data for OIC countries are illustrated in Figure 46, which yield the following observations: ➢ Malaysia and Indonesia were, by far, the top ranking OIC member countries by high 
+technology exports, together representing 93.5% of the total HTE of the OIC. ➢ With $64.6 billion, Malaysia, on its own, accounted for 86.5% of the total HTE of the OIC. It was also the 9th largest exporter of high-technology products in the world, accounting for 3.7% of the world HTE. ➢ Kazakhstan, with around $1.5 billion of HTE, accounted for 2% of the total HTE of the OIC countries, rendering it the 3rd largest exporter of high-technology products in the OIC. 
+Rep. Other 
+of Korea 6.3% Japan 7.0%Developing 
+6.2% 
+USA 13.1% China 19.3% 
+EU 33.3% 
+OIC 4.3% 
+40 
+Source: World Bank, World Development Indicators (WDI), Online Database. * Data for 2007 or latest available year. 
+For a better understanding of the importance of HTE to a country, it is useful to look at the share of these exports in its total manufactured exports. Figure 47 presents these shares for 48 member countries for which data are available in a comparative manner to reflect any change over time. 
+Figure 47: High Technology Exports: 2000 vs. 2007 (% of Manufactured Exports) 
+Oman 60 
+55504540Gabon 35Cote d'Ivoire 3025Kazakhstan 
+2015105Brunei 
+Nigeria Albania Cameroon Iran Lebanon Burkina Gambia Uganda Faso Tunisia Jordan Turkmenistan Azerbaijan Senegal Algeria Niger Morocco Mali Suriname Mozambique Indonesia Kyrgyz Rep. 00 Guyana 2 Sudan 
+4 Turkey 6 8 10 12 14 16 18 2 
+➢ HTE of the other leading member countries ranged from $100 million to $1 billion. ➢ In Sub-Saharan Africa, Benin, Guinea, and Sudan recorded even less than $30 thousand of 
+HTE. ➢ Cote d’Ivoire, with more than $450 million of HTE, went far ahead of the other Sub- Saharan members. It also ranked as the 6th largest exporter of high-technology products in the OIC. 
+Figure 46: High Technology Exports (Million US$)* 
+Malaysia 
+6 58 60 
+Source: World Bank, World Development Indicators (WDI), Online Database. 
+Pakistan, Yemen, Kuwait, Syria, Saudi Arabia, United Arab Emirates, Bangladesh, Comoros, Egypt, Iraq, Benin, Bahrain, Togo, Qatar, Guinea, Maldives (Ranked by decending order of 2007 values) 
+41 
+2007 or latest yearavailable 
+2000 or earliest year available 
+With respect to the data illustrated in Figure 47, the evolution of high technology exports in the OIC member countries during the period 2000-2007 can be summarized as below: 
+➢ Largest improvements across the OIC were recorded by two Sub-Saharan members, namely Gabon and Cote d’Ivoire, having managed to increase the share of HTE from below 7% to over 30% of their manufactured exports. ➢ Kazakhstan also reported relatively high expansion rate in the share of HTE, from 3.9% to 
+23.2%. ➢ In 16 member countries listed at the bottom of the Figure, HTE continue to account for less than 2% of their manufactured exports. Nevertheless, there were improvements in 9 of them though to a limited extent. ➢ Decline in the share of HTE in manufactured exports has also been observed in many countries, particularly in Kyrgyz Republic with 15 percentage points. Overall, there were 22 OIC countries having reported a decline in the share of HTE in their manufactured exports. ➢ Representing over 90% of the total HTE of the OIC, Malaysia and Indonesia have also witnessed a decrease in the share of HTE in their manufactured exports, 7.9 and 4.9 percentage points, respectively. Yet again, Malaysia continues to have the largest share of HTE in manufactured exports (51.7%). ➢ Although the average for OIC countries declined by 10 percentage points to 20.2%, it was still higher than the world average of 18.9%. Nevertheless, when Malaysia, which accounted for about 87% of the total HTE of the OIC, is excluded, the average for OIC countries falls down to 4.1%. 
+5.5 Scientific Publications 
+Academic research is an important component of all research activities conducted in a country. To a certain extent, the performance in academic research can be well reflected by the number of scientific articles published in indexed journals. In this regard, the quantity and the growth of the research output, i.e. articles, are common indicators used to measure the research performance of a given institution or country. Indeed, such bibliometric indicators have been widely used in national science and technology statistics publications to measure scientific capacity and linkages to world science11 and particularly in national and international rankings of universities12. 
+11 UNESCO Institute for Statistics, “What do bibliometric indicators tell us about world scientific output?”, UIS Bulletin on Science and Technology Statistics, Issue 2, September 2005. 12 For example, Academic Ranking of World Universities by Shanghai Jiao Tong University (SJTU), World University Rankings by the Times Higher Education Supplement (THES), and also the OIC University Ranking make use of the research output as an important indicator in their ranking methodologies. 
+42 
+5.5.1 Published Articles 
+Compared to 18,391 articles they published in the year 2000, OIC member countries as a whole published 63,342 articles13 in 2009 in journals that were covered by Science Citation Index Expanded (SCI-EXPANDED), Social Science Citation Index (SSCI), and Arts & Humanities Citation Index (A&HCI)14. Although it is an over three-fold increase in a decade, the amount reached is still below those of some individual countries in the world, such as the United States, China, Germany, Japan, and England (Figure 48). 
+Figure 48: The Number of Published Articles, 2009 
+73 
+66 64 63 
+46 
+33 
+24 020406080 
+Thousands >100 >100 
+Source: ISI Web of Knowledge [24.03.2010]. 
+Figure 49 and 50 present information on the contribution of each OIC member country to this output. In this respect, the following observations outline the performance of the OIC member countries in publishing articles: 
+➢ Production of scientific publications –here articles– in the OIC is heavily concentrated in a 
+few of the member countries. ➢ More than half of the articles (52.7%) originate from only two member countries, namely Turkey (31.6%) and Iran (21.1%). Adding Egypt (7.0%), Malaysia (6.2%), and Pakistan (5.3%), these five countries account for 71.2% of all published articles (see Figure 49). ➢ Some other member countries in the Middle East & North Africa, South Asia, and East Asia & Pacific also perform well while those in Latin America, Sub-Saharan Africa, and Central Asia are generally lagging behind. ➢ Individually, there are 10 countries that published less than 20 articles in 2009. These countries are not concentrated in one region but dispersed across regions: for example; from Guyana in Latin America to Somalia in Sub-Saharan Africa, and from Turkmenistan in Central Asia to Maldives in South Asia. 
+13 The total reflects the sum of individual OIC countries and it is not refined for internationally co-authored papers. 14 Data are collected from the ISI Web of Knowledge maintained by Thomson Reuters. For further information, see http://isiwebofknowledge.com/ 
+43 
+➢ The number of countries having published 
+Figure 49: Top 10 OIC Countries by the less than 100 articles reaches 24. 
+Number of Published Articles (2009) 
+➢ Nigeria stands out as the only Sub-Saharan member to have produced over one thousand articles (1,922), the closest ones in the region being Uganda and Cameroon, each with over 450 articles. 
+As seen in Figure 50, some other member countries in the Middle East & North Africa, South Asia, and East Asia & Pacific also perform well while those in Latin America, Sub-Saharan Africa, and Central Asia were generally lagging behind. The number of countries having published less than 100 articles reached 24 while there were 10 countries that published less than 20 articles in 2009. The member countries publishing less than 20 articles were not concentrated in one region but dispersed across regions: for example; from Guyana in Latin America to Somalia in Sub-Saharan Africa, and from Turkmenistan in Central Asia to Maldives in South Asia. 
+Figure 50: Articles Published in International Journals, 2009* 
+Source: ISI Web of Knowledge [24.03.2010]. * Total number of articles published in journals covered by Science Citation Index Expanded (SCI- EXPANDED), Social Science Citation Index (SSCI), and Arts & Humanities Citation Index (A&HCI). 
+44 
+Turkey 20.0 (31.6%) 
+Iran 13.4 (21.1%) 
+Egypt 4.4 (7.0%) 
+Malaysia 3.9 (6.2%) 
+Pakistan 3.3 (5.3%) 
+Tunisia 2.2 (3.5%) 
+Saudi Arabia 2.0 (3.2%) 
+Nigeria 1.9 (3.0%) 
+Algeria 1.4 (2.2%) 
+Morocco 1.1 (1.8%) 
+0 10 20 30 
+Thousands Source: ISI Web of Knowledge 
+5.5.2 The Evolution of Publication Outcome 
+The growth in the number of articles on a per-capita basis reflects a better indicator of productivity in scientific publications as it takes into account the relative size of the population in the countries compared. In this respect, Figure 51 presents data on articles per million people (pmp) in OIC member countries in a manner to reflect the evolution in the last decade of 2000- 2009. Accordingly: 
+➢ On average, OIC member 
+countries produced only 15 
+articles (pmp) in 2000 while this 
+number increased to 42 in 2009, 
+which still could be considered 
+low given that this number 
+reached up to 1355 in Canada, 
+1241 in England, 894 in Germany, 
+682 in Republic of Korea, 516 in 
+Japan, and 172 in Russia. 
+➢ 49 out of the 57 member 
+countries recorded an increase in 
+that decade, but this increase in 29 
+of them was no more than 10 
+articles. This, in general, implies 
+that the expansion recorded in 
+countries with low number of 
+articles (pmp) remained quite 
+limited compared to those with high 
+numbers. 
+➢ Turkey, in absolute terms, took the lead in boosting scientific productivity with an 
+increase of 205 articles (pmp), followed by Iran (161), Tunisia (160), Malaysia (108), and 
+Qatar (103). 
+Figure 51: Articles per Million People: 2000 vs. 2009* 
+300 
+250 
+200 
+150 
+Malaysia Oman Brunei 100 
+50 Algeria Morocco 
+00 50 100 150 200 250 
+25 
+201510Djibouti 
+5Source: Articles data: ISI Web of Knowledge [24.03.2010]; Population data: IMF, World Economic Outlook Database, October 2009. *OIC Regional Averages: ECA: Europe & Central Asia NA: North Africa EAP: East Asia & Pacific SA: South Asia LA: Latin America SSA: Sub-Saharan Africa ME: Middle East 
+Iraq Mali Mauritania 
+Côte Suriname d'Ivoire Togo 
+00 2 4 6 8 10 12 14 16 
+6 
+Sudan Tajikistan 5Mozambique 
+Bangladesh 
+Niger 
+4Yemen 
+Sierra Leone Indonesia 32GuineaChad Comoros Afghanistan 1Somalia Turkmenistan 00 1 2 3 4 
+45 
+Gabon Gambia OIC 
+Turkey 
+Tunisia 
+Iran Kuwait Qatar UA Emirates Jordan Lebanon 
+Bahrain 
+LibyaAlbania Maldives Kazakhstan Burkina Faso Uganda Nigeria Guyana 
+Azerbaijan 
+Saudi Arabia Egypt 
+Cameroon Palestine Pakistan Benin Senegal 
+Articles per million people, 2009 
+Articles per million people, 2000 
+Guinea-Bissau Kyrgyz Rep. Syria 
+Articles per million people, 2009 
+Articles per million people, 2000 
+Articles per million people, 2009 
+Articles per million people, 2000 
+Uzbekistan 
+➢ Four other countries, namely Bahrain, Lebanon, United Arab Emirates, and Jordan, 
+recorded an increase of over 50 articles (pmp). 
+➢ 8 out of the 57 members, namely Kuwait, Suriname, Guyana, Turkmenistan, Uzbekistan, 
+Mauritania, Togo, and Comoros, recorded a decrease in their articles (pmp). The highest 
+decrease was reported for Kuwait (43 articles), while the decrease for the others was by 
+only 3 articles. Yet still, Kuwait continues to rank in the fourth place with respect to 
+articles per million people. 
+➢ Overall, according to 2009 data, there 
+Figure 52: Top 15 OIC Countries by Articles per are only 16 members performing 
+Million People (2009) 
+above the OIC average in terms of 
+articles per million people. Turkey, 
+with 284 articles took the lead, and 
+followed by Tunisia (213), Iran (181), 
+Kuwait (172), and Qatar (169). 
+United Arab Emirates, Jordan, 
+Lebanon, Bahrain, and Malaysia also 
+ranked at the top 10, having 
+produced around 140-160 articles per 
+million people. Oman, Brunei Saudi 
+Arabia, Egypt and Gabon succeeded 
+in entering the top 15 rank (see Figure 
+51 Top Panel and Figure 52). 
+➢ At the other side of the spectrum, 
+there are member countries with even less than one article (pmp), like Afghanistan 
+Turkmenistan, and Somalia. 
+➢ To this end, it is observed that most of the high ranking member countries are located in 
+the Middle East. Articles per million people averaged at 98 in this region in 2009, compared 
+to 28 in 2000. 
+➢ The average for the members in Europe & Central Asia increased from 44 to 147 in that 
+period. Excluding Turkey, these averages fall down to 11 and 14, respectively. 
+➢ Except for the Latin American members, the averages for the other regions also increased 
+in the period under consideration (North Africa: from 30 to 58; East Asia & Pacific: from 5 
+to 18; South Asia: from 3 to 12; and Sub-Saharan Africa: from 6 to 11). 
+46 
+Turkey 
+Tunisia 
+Iran 
+Kuwait 
+Qatar 
+U.A. Emirates 
+Jordan 
+Lebanon 
+Bahrain 
+Malaysia 
+Oman 
+Brunei 
+Saudi Arabia 
+Egypt 
+Gabon 
+284 
+213 
+181 
+172169 
+163 
+159 
+157 
+152 
+142115112 
+80 
+58 
+550 50 100 150 200 250 300 
+5.6 Patent Applications 
+Intellectual property rights, especially patents, are the key factors contributing to advances in innovation and scientific development. As a product of R&D activities, patents strengthen the link between science and technology, as the outcomes of research translate into new products or services. In this regard, although not all inventions are patented, the quantity of patent applications may be considered as a proxy for the degree of innovative capability in a country. 
+According to statistics from the World Intellectual Property Organization (WIPO), the total number of patent applications around the world in 2008 is estimated to have been 1.85 million, and less than 1% of them were filed in OIC member countries –for which data are available. USA, Japan, China, and Republic of Korea accounted for about 70% of the total patent applications in the world. To shed light on the situation in individual OIC member countries, Table 1 presents statistics on patent applications in countries for which data are available. 
+Table 1: Patent Applications by Office: Residents and Non-residents* Country Residents Non Res. Total Year Country Residents Non Res. Total Year Iran 5,970 557 6,527 2006 Bangladesh 29 270 299 2007 Malaysia 818 4,485 5,303 2008 Syria 124 133 257 2006 Indonesia 282 4,324 4,606 2006 Azerbaijan 222 5 227 2008 Turkey 2,221 176 2,397 2008 Kazakhstan 11 162 173 2008 Egypt 516 1,589 2,105 2007 Kyrgyz Rep. 135 3 138 2008 Pakistan 170 1,375 1,545 2008 Brunei 0 75 75 2008 Morocco 177 834 1,011 2008 Mozambique 18 22 40 2007 Algeria 84 765 849 2007 Yemen 11 24 35 2007 Saudi Arabia 128 642 770 2007 Tajikistan 26 0 26 2006 Jordan 59 507 566 2007 Sudan 3 13 16 2007 Uzbekistan 262 186 448 2008 Uganda 6 1 7 2007 Tunisia 56 282 338 2005 Bahrain 3 2004 Lebanon 316 2006 Burkina Faso 1 0 1 2005 
+Source: World Intellectual Property Organization, Statistics on Patents, September 2010. * The numbers of patent applications for most African OIC countries are not provided individually as these countries are members of the African Regional Intellectual Property Organization (ARIPO). Total number of patents filed to ARIPO in 2008 is 435. Resident/non-resident breakdown is not provided for Lebanon and Bahrain. 
+In this respect, the following observations can be made to summarize the situation in the OIC member countries: 
+➢ Patent activity is highest in Iran, Malaysia, and Indonesia. In 2006, total patent applications (by residents and non-residents) amounted to 6,527 in Iran and 4,606 in Indonesia. In 2008, total patent applications amounted to 5,303 in Malaysia. ➢ In most of the OIC countries, applications by non-residents are higher than those filed by residents; in fact, in half of the 26 countries with available data, they account for more than 
+47 
+75% of the total applications. In quantity, they are highest in Malaysia (4,485) and Indonesia (4,324), accounting for, respectively, 85% and 94% of the total applications. ➢ Applications by residents dominate only in eight of the member countries, and, in 
+quantity, they are highest in Iran (5,970) and Turkey (2,221). 
+5.7 Knowledge Economy Indices 
+5.7.1 Knowledge Assessment Methodology 
+As the global economy forces the limits of tangible resources in the modern era, knowledge based resources gain more importance in determining the growth, welfare and competitiveness of countries the application of knowledge creates significant comparative advantages through providing more efficient and less costly ways of ―doing the business‖ in areas such as entrepreneurship, innovation, R&D, software and design, education, etc. 
+For most of the countries including the member countries of OIC, the transition to the Knowledge Economy is not an easy goal to achieve: It requires an extensive search about the country’s needs and capabilities in order to develop effective strategies, to direct potential investments and to coordinate institutions accordingly. In this regard, the Knowledge Assessment Methodology (KAM) designed by the World Bank, acts as an interactive benchmarking tool for helping countries identify the challenges and opportunities they face in making the transition to the knowledge-based economy. Using a wide range of relevant factors affecting the overall performance of an economy, it also provides a cross-sectoral approach and presents a country’s ability to generate, diffuse and apply knowledge rather than just focusing on one area. 
+Figure 53: Knowledge Indexes 
+Source: World Bank, Knowledge Assessment Methodology 
+48 
+Under this methodology, a country’s preparedness to compete in the knowledge economy is measured using 109 structural and qualitative variables15, which are used as proxies for the four pillars of the Knowledge Economy Framework (Figure 53): 
+1) Economic Incentive and Institutional Regime: An economic and institutional regime provides incentives for the efficient use of existing and new knowledge and the flourishing of entrepreneurship. 
+2) Education: An educated and skilled population shares and uses knowledge well. 
+3) Innovation: An efficient innovation system of firms, research centers, universities, consultants and other organizations adds into the growing stock of global knowledge, assimilates and adapts it to local needs, and forms new technology. 
+4) Information and Communications Technologies: Information and communication technology facilitates the effective dissemination, and processing of information. 
+Depending on these 4 pillars, KAM presents two indices16 to track the overall level of preparedness of the countries towards knowledge based economy: 
+A) Knowledge Economy Index (KEI): takes into account whether the environment is conducive for knowledge to be used effectively for economic development. It is an aggregate index that represents the overall level of development of a country or region towards the Knowledge Economy. It is the average of the normalized performance scores of countries on all four pillars. 
+B) Knowledge Index (KI): measures a country's ability to generate, adopt and diffuse knowledge. This is an indication of overall potential of knowledge development in a given country. It is the simple average of normalized performance scores of countries on pillars #2, #3 and #4. 
+5.7.2 OIC Member Countries under KAM 
+For year 2009, 146 countries were analyzed through KAM and 41 of them were OIC Member Countries. 16 OIC Member Countries not included in KAM 2009 analysis were Afghanistan, Brunei, Chad, Comoros, Gabon, Gambia, Guinea-Bissau, Iraq, Libya, Maldives, Niger, Palestine, Somalia, Suriname, Togo and Turkmenistan. 
+Figure 54 presents the overall KEI ranking of OIC Member Countries under basic scorecard mode of KAM 2009 framework weighted by population. Accordingly, the following observations can be made: 
+15 The variables are normalized on a scale of 0 to 10 relative to other countries in the selected comparison group. 16 For calculating the basic scorecard mode of KEI and KI, each pillar is represented by 3 key variables plus two variables serve as proxies for the overall economic and social performance leading to a total of 14 variables 
+49 
+➢ In year 2009, Qatar, UAE, Malaysia and Bahrain recorded KEI scores higher than the 
+average KEI of the World, 5.95, and were among the top 50 countries in the overall index. 
+➢ Though there is still a difference of 1.5 point, the scores of Qatar and UAE are getting 
+closer to the average KEI score of high income countries, 8.23, while Malaysia, Bahrain and 
+Kuwait are above the upper middle income average of 5.66. 
+➢ The KEI scores of 12 OIC Member Countries are higher than the average of middle 
+income countries, 3.78. 
+➢ Outside the MENA region, Malaysia, Turkey, Kazakhstan, Kyrgyzstan, Albania, 
+Azerbaijan and Guyana are the only countries managing to enter top 100 countries. 
+➢ 19 OIC Member Countries improved their rankings compared to 2008. Among them, 
+Mauritania, Yemen, Sudan and Pakistan took the lead by moving up 15, 13, 11 and 9 ranks, 
+respectively. 
+➢ Like Pakistan, Qatar and Saudi Arabia also changed their position up by 9 ranks. 
+➢ 4 OIC Member Countries, Malaysia, Mozambique, Uganda and Bangladesh, maintained 
+their ranks in year 2009. 
+50 
+Country (KEI Rank) 
+Qatar (44) U.A.E (45) Malaysia (48) Bahrain (49) Kuwait (52) Turkey (61) Jordan (62) Oman (66) Saudi Arabia (68) Kazakhstan (72) Lebanon (76) Guyana (80) Tunisia (82) Kyrgyzstan (84) Egypt (90) Albania (93) Azerbaijan (97) Iran (98) Morocco (99) Indonesia (103) Uzbekistan (104) Tajikistan (106) Algeria (105) Syria (108) Senegal (114) Uganda (117) Mauritania (116) Pakistan (118) Yemen (121) Mali (124) Benin (126) Nigeria (129) Sudan (130) Cameroon (133) Burkina Faso (132) Cote d'Ivoire (135) Mozambique (136) Bangladesh (138) Djibouti (139) Guinea (144) Sierra Leone (145) 
+KEI Score (Max=10) 
+Source: World Bank, KAM 2009 
+6.73 6.73 6.07 6.04 5.85 5.555.54 5.36 5.31 5.054.814.574.42 4.29 4.08 3.96 3.83 3.75 3.54 3.293.25 3.22 3.22 3.09 2.572.36 2.36 2.34 2.20 2.06 2.05 1.84 1.78 1.71 1.71 1.65 1.58 1.48 1.47 1.070.96 
+Figure 54: KEI Scores and Ranks of OIC Member Countries, Weighted by Population 
+0 1 2 3 4 5 6 7 
+51 
+When the countries are analyzed over time, 4 member countries, namely Qatar, UAE, Oman and Saudi Arabia showed progress compared to their KEI scores in 1995 as shown in Figure 55. Meanwhile, regression is observed for the average KEI score of World. 
+Figure 55: Over Time KEI Progress of OIC Member Countries, Weighted by Population 
+7 
+BH 
+6World 
+KW 
+MY 
+AE QA 
+5SA 
+KG 4AL 
+32SL BD CMBJBNCI 
+SD 
+MLMR UG 
+SN 
+DZ 
+100 1 2 3 4 5 6 7 
+GY 
+TR 
+ID IR 
+LB 
+KZ 
+OM 
+JO 
+PK 
+AZ 
+EG 
+GN 
+UZ 
+TN 
+YE 
+MA 
+MZNG 5 
+991TJ SYDJ 
+IMPROVEMENT 
+IMPROVEMENT 
+Most Recent Source: World Bank, KAM 2009 
+Additionally, if the separate scores from each four composite pillars of KEI are also taken into consideration, the top five positions in 2009 were held by: 
+• Oman, Qatar, Turkey UAE and Bahrain for Economic Incentive & Institutional Regime; 
+• Malaysia, U.A.E, Qatar, Turkey and Jordan for Innovation; 
+• Kazakhstan, Kyrgyzstan, Uzbekistan, Guyana and Bahrain for Education; 
+• U.A.E, Qatar, Bahrain, Malaysia and Kuwait for ICT. 
+Furthermore, the following member countries increased their scores compared to year 1995 for the composite pillars of: 
+• Economic Incentive & Institutional Regime (17): Algeria, Azerbaijan, Cameroon, 
+Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Mauritania, Oman, Qatar, Saudi Arabia, Senegal, 
+Tajikistan, Turkey, Uganda, Uzbekistan and Yemen ; 
+• Innovation(14): Algeria, Benin, Indonesia, Iran, Lebanon, Malaysia, Mauritania, Pakistan, 
+Qatar, Syria, Tunisia, Turkey, UAE and Yemen; 
+• Education (20): Albania, Algeria, Bangladesh, Benin, Burkina Faso, Djibouti, Guinea, 
+Guyana, Jordan, Kuwait, Kyrgyzstan, Malaysia, Mali, Oman, Saudi Arabia, Senegal, 
+Tunisia, UAE, Uganda and Yemen; 
+• ICT (3): Malaysia, Qatar and UAE. 
+52 
+6.57 5 
+9Bahrain 
+91UAE World 
+Malaysia6 
+Kuwait 
+Qatar Turkey 5.5Jordan Kazakhstan 
+Oman Saudi 5 
+Arabia 5 5.5 6 6.5 Most Recent 7 
+6 Concluding Remarks and Policy Implications 
+While many countries are aware of the critical role and impact of education in the socioeconomic development and in equipping the future generation with new skills, knowledge, and ideas, education in OIC member countries, however, faces a myriad of challenges such as lack of financing, staff development, skill-based training, quality of teaching, and scarcity of research fund. Today, OIC countries lag behind the world average as well as the average for developing countries in many aspects of education such as literacy rates, student-teacher ratio, and enrolment rates. Moreover, governments in OIC countries, on average, spend on education less than other countries relative to the size of their economies, though their spending on education accounts for a higher share of the total government expenditures as compared to the others. 
+Great disparities also exist among regions and among individual OIC countries. In general, member countries in South Asia, Sub-Saharan Africa, and Middle East & North Africa perform weaker than those in the other regions, implying that countries in these regions should be paid special attention to at least close the gap within the OIC community. 
+Looking from the gender perspective to education, it is observed that females in OIC countries have less access to education than males. This disparity is even more remarkable when it is compared to the world average and the average for developing countries. 
+Considering the available data, the following conclusions can be drawn for the member countries regarding R&D and scientific development in OIC member countries: 
+➢ Although the availability of researchers varies considerably among the OIC member countries, most of them lag behind the world average with inadequate quantity of researchers employed in R&D activities. ➢ Women, as researchers, are underrepresented in R&D activities, yet the OIC average is slightly lower than the world average and many OIC countries have higher shares than even the average for the EU members. ➢ R&D intensity is quite low in the OIC, with only one country spending more than 1% of GDP on R&D while the world average is around 1.8%. On the other hand, some countries have recorded significant increases in their R&D intensity while most of the other countries have reported stable expenditures on R&D. In this regard, although the OIC Ten-Year Programme of Action called upon the member countries to encourage R&D programmes and ensure their individual R&D intensity is not inferior to half of the world average, the OIC countries are currently far away from the target and it seems difficult to meet the Programme target in time under the current trends. Therefore, there needs to be more efforts exerted in this area to close the gap with the world. ➢ In most of the member countries, R&D activities are financed and performed by the public sector while, in few cases, business sector or higher education institutions take the lead. 
+53 
+➢ In parallel with the low R&D intensity and inadequate technological infrastructure, high technology exports of the OIC member countries remain quite limited, accounting for only 4.3% of the world high technology exports, yet again mostly originated from only two members. ➢ Moreover, high technology products do not occupy much part in manufactured exports of the members, and this does not seem to improve significantly over time except for few of them. ➢ Production of scientific articles is also concentrated in a few of the members. In 2009, the OIC member countries produced more than 63 thousand articles, yet, 71% of them originated from only 5 countries and 24 of the members each produced less than 100 articles. ➢ In the last decade, from 2000 to 2009, the number of articles per million people, on average, increased by 27 articles to reach 42, which is still low given that in some other developing countries it exceeds one thousand. ➢ Patent statistics are not available for most of the member countries. Available data on 26 members indicate that patent applications are below the world average and mostly filed by non-residents, implying that indigenous innovation capability in most of these countries is at low levels. ➢ Although, of the 41 OIC Member Countries analyzed under Knowledge Assessment Methodology in 2009, only 4 countries recorded higher KEI scores than the World average, most of the member countries demonstrated better performance compared to 1995. 
+In light of the present situation in education and scientific development summarized above, following policy recommendations can be made: 
+➢ A good education policy should be established in each OIC member country and it must extend far beyond formal education, encompassing areas such as social policy, health policy, and economic policy. ➢ More efforts to expand access to education at the primary, secondary, and tertiary levels should be undertaken. Distance learning may be considered as an option to further increase educational opportunities. ➢ Initiatives to increase literacy and enrolment of females in particular should be encouraged 
+and supported. ➢ Life-learning courses/programmes may be provided for the people over school age to 
+improve their literacy and education. ➢ Digital infrastructure, in particular, should be enhanced and facilitated at every level of 
+education. ➢ OIC countries should develop concrete plans for reaching, in foreseeable future, the 1% 
+target of R&D share in GDP set by the OIC Ten-Year Programme of Action. ➢ Networking opportunities on R&D among the private sectors of the OIC Member 
+Countries should be encouraged. 
+54 
+➢ OIC countries should take advantage of R&D spillovers by (i) learning about new technologies and methods developed in other countries, and (ii) importing technological goods and services from trade partners. ➢ Companies should be encouraged to increase their R&D expenditures by the government 
+through tax concessions and/or R&D subsidies. ➢ R&D should focus on high tech industries, which has higher rate of return, and on sectors 
+that OIC countries have comparative advantage. ➢ OIC countries should consider importing services and products that require heavy R&D 
+expenditures from other OIC countries. ➢ To enhance higher education and scientific thinking, opening of private colleges/universities 
+should be encouraged by OIC countries through financial incentives. ➢ Women should be encouraged to attend colleges/universities and obstacles that prevent them 
+from higher education should be removed. ➢ Living standards for scientists should be improved. ➢ Academic research should be promoted through research grants and lesser teaching loads. ➢ Access to research materials should be granted/eased through schools and public libraries. ➢ Student exchange programs and stipends for students who want to continue their higher 
+education abroad should be facilitated. ➢ OIC countries should adopt measures to encourage patenting and technology licensing by 
+universities and other research organizations. ➢ Initiatives to educate small and medium-sized enterprises about the benefits of investing in 
+patents and the use of the patent system should be developed and implemented. ➢ A supranational patent system at the OIC level can be established to give higher incentives for patent development due to increased market size [such a multinational system already exists separately in Europe through EPO and Africa through ARIPO]. ➢ Given the importance of evidence-based policy making and the role of S&T in the development of countries, national statistical offices of the member countries should give special attention to the collection and dissemination of statistical data on science and technology. ➢ Networking opportunities among the OIC member countries need to be facilitated through programmes such as the Framework Programmes of the European Union, to support research and technological development in the Islamic world and to promote joint research initiatives among the member countries. ➢ Joint research and investment on nanotechnology among the OIC member countries should be initiated, as the pioneers of this new technology will benefit enormously from their early investment in this area. 
+55 
+7 References 
+IMF, World Economic Outlook (WEO), Online Database, October 2009. 
+ISI Web of Knowledge, Online Database. 
+OIC-TYPOA, ―Ten-Year Programme of Action to Meet the Challenges Facing the Muslim Ummah in the 21st Century‖, Third Extraordinary Session of the Islamic Summit Conference, Makkah al Mukarramah - Kingdom of Saudi Arabia, 7-8 December 2005. 
+UNESCO Institute for Statistics, ―What do bibliometric indicators tell us about world scientific output?‖, UIS Bulletin on Science and Technology Statistics, Issue 2, September 2005. 
+UNESCO Institute for Statistics, Data Centre. 
+WIPO, Statistics on Patents, September 2010. 
+World Bank, World Development Indicators, Online Database. 
+56 
+APPENDIX 
+Table A.1: Literacy Rates 
+COUNTRY Adult Literacy Rate Total Female Male GPI Youth Literacy Rate Total Female Male GPI 
+Year 
+Afghanistan n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. Albania 99.00 98.70 99.30 0.994 99.40 99.50 99.30 1.002 2008 Algeria 72.65 63.92 81.28 0.786 91.78 89.14 94.38 0.944 2006 Azerbaijan 99.50 99.22 99.80 0.994 100.00 100.00 100.00 1.000 2007 Bahrain 90.80 89.40 91.70 0.975 99.70 99.70 99.80 0.999 2008 Bangladesh 55.00 49.80 60.00 0.830 74.40 75.50 73.30 1.030 2008 Benin 40.80 28.10 53.50 0.525 53.30 42.10 64.10 0.657 2008 Brunei 95.00 93.30 96.60 0.966 99.70 99.60 99.70 0.999 2008 Burkina Faso 28.73 21.58 36.68 0.588 39.26 33.13 46.73 0.709 2007 Cameroon 75.90 67.80 84.00 0.807 85.80 83.50 88.20 0.947 2008 Chad 32.70 21.90 43.80 0.500 45.40 37.20 53.50 0.695 2008 Comoros 73.60 67.80 79.30 0.855 84.90 84.10 85.70 0.981 2008 Côte d'Ivoire 54.60 44.30 64.20 0.690 66.10 60.10 72.00 0.835 2008 Djibouti n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. Egypt 66.37 57.81 74.62 0.775 84.88 81.75 87.86 0.931 2006 Gabon 87.00 83.20 90.90 0.915 97.40 96.40 98.40 0.980 2008 Gambia 45.30 34.30 56.70 0.605 64.10 58.10 70.10 0.829 2008 Guinea 38.00 26.40 49.60 0.532 58.70 50.60 66.50 0.761 2008 Guinea-Bissau 51.00 36.50 66.10 0.552 69.60 61.60 77.60 0.794 2008 Guyana n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. Indonesia 91.98 88.79 95.16 0.933 96.65 96.27 97.03 0.992 2006 Iran 82.33 77.24 87.27 0.885 96.64 96.13 97.15 0.990 2006 Iraq 77.60 69.20 86.00 0.805 82.40 80.20 84.50 0.949 2008 Jordan 92.20 88.90 95.49 0.931 98.95 98.95 98.95 1.000 2007 Kazakhstan 99.70 99.50 99.80 0.997 99.80 99.90 99.80 1.001 2008 Kuwait 94.46 93.12 95.15 0.979 98.45 98.51 98.40 1.001 2007 Kyrgyzstan 99.30 99.10 99.50 0.996 99.60 99.70 99.50 1.002 2008 Lebanon 89.61 85.97 93.38 0.921 98.71 99.08 98.40 1.007 2007 Libya 88.40 81.30 94.90 0.857 99.80 99.70 99.90 0.998 2008 Malaysia 92.10 89.80 94.30 0.952 98.40 98.50 98.30 1.002 2008 Maldives 98.40 98.43 98.37 1.001 99.30 99.36 99.24 1.001 2006 Mali 26.18 18.19 34.86 0.522 38.82 30.80 47.38 0.650 2006 Mauritania 56.80 49.50 64.10 0.772 67.00 63.40 70.50 0.899 2008 Morocco 56.40 44.10 69.40 0.635 76.60 68.40 84.80 0.807 2008 Mozambique 54.00 40.10 69.50 0.577 69.90 62.10 77.70 0.799 2008 Niger 28.67 15.08 42.93 0.351 36.55 23.20 52.45 0.442 2005 Nigeria 60.10 48.80 71.50 0.683 71.50 64.60 78.30 0.825 2008 Oman 86.65 80.90 90.03 0.899 97.63 97.63 97.63 1.000 2008 Pakistan 53.70 39.97 66.84 0.598 68.86 58.77 78.51 0.749 2008 Palestine 94.06 90.90 97.14 0.936 99.15 99.03 99.27 0.998 2008 Qatar 93.08 90.44 93.81 0.964 99.06 98.97 99.10 0.999 2007 Saudi Arabia 85.50 80.20 89.50 0.896 97.30 96.20 98.40 0.978 2008 Senegal 41.89 32.99 52.26 0.631 50.85 44.54 58.13 0.766 2007 Sierra Leone 39.80 28.90 51.70 0.559 55.70 45.90 66.00 0.695 2008 Somalia n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. Sudan 69.30 59.60 79.00 0.754 85.20 81.70 88.60 0.922 2008 Suriname 90.70 88.40 93.00 0.951 95.30 94.80 95.70 0.991 2008 Syria 83.60 77.20 90.00 0.858 94.10 92.50 95.60 0.968 2008 Tajikistan 99.70 99.50 99.80 0.997 99.90 99.90 99.90 1.000 2008 Togo 64.90 53.70 76.60 0.701 83.50 80.00 87.00 0.920 2008 Tunisia 77.56 70.96 86.38 0.822 96.79 95.79 98.13 0.976 2008 Turkey 88.66 81.26 96.20 0.845 96.36 94.29 98.58 0.956 2007 Turkmenistan 99.50 99.30 99.70 0.996 99.80 99.90 99.80 1.001 2008 Uganda 74.60 66.80 82.40 0.811 87.30 85.50 89.10 0.960 2008 UAE 90.03 91.47 89.48 1.022 95.01 97.00 93.63 1.036 2005 Uzbekistan 99.20 98.90 99.50 0.994 99.80 99.70 99.80 0.999 2008 Yemen 60.90 42.80 78.90 0.542 82.90 70.00 95.10 0.736 2008 
+OIC 70.22 62.47 77.91 0.802 82.23 78.68 85.75 0.918 World 79.62 73.74 85.59 0.862 88.85 86.60 91.71 0.944 Developing 79.18 73.18 85.28 0.858 89.10 86.28 91.52 0.943 Source: SESRIC, UNESCO 
+57 
+Table A.2: Number of Students and Teachers, 2008* 
+Primary Schools 
+ENROLLMENT TEACHERS STUDENT - TEACHER RATIOS COUNTRY 
+Secondary 
+Tertiary 
+Primary 
+Secondary 
+Tertiary 
+Primary 
+Tertiary Schools 
+Schools 
+Schools 
+Schools 
+Schools 
+Schools 
+Schools Afghanistan 4,887,523 1,055,829 30,123 113,763 32,817 1,781 42.96 32.17 16.91 Albania 250,487 401,216 57,658 11,653 23,432 2,517 21.50 17.12 22.91 Algeria 3,942,242 3,955,128 948,562 169,701 176,375 32,189 23.23 22.42 29.47 Azerbaijan 496,697 1,151,357 141,896 43,971 137,109 15,284 11.30 8.40 9.28 Bahrain 86,084 77,928 18,403 4,953 6,923 756 17.38 11.26 24.34 Bangladesh 16,001,605 10,454,149 1,195,789 365,925 413,746 60,915 43.73 25.27 19.63 Benin 1,601,146 435,449 43,896 35,938 16,478 1,298 44.55 26.43 33.82 Brunei 45,125 46,826 5,607 3,595 4,439 695 12.55 10.55 8.07 Burkina Faso 1,742,439 423,543 41,779 35,617 13,964 2,245 48.92 30.33 18.61 Cameroon 3,201,477 1,127,691 147,631 69,544 43,193 3,834 46.04 26.11 38.51 Chad 1,495,961 337,449 18,990 23,938 9,555 1,675 62.49 35.32 11.34 Comoros 111,115 46,447 2,234 3,685 3,257 151 30.15 14.26 14.79 Côte d'Ivoire 2,356,240 744,897 160,546 56,248 20,124 n.a. 41.89 37.02 n.a. Djibouti 56,395 41,159 2,375 1,657 1,201 121 34.03 34.27 19.63 Egypt 10,153,791 8,329,822 2,488,434 368,785 490,526 84,135 27.53 16.98 29.58 Gabon 281,371 108,123 7,473 8,023 3,078 585 35.07 35.13 12.77 Gambia 220,931 105,237 1,753 6,429 4,358 155 34.36 24.15 11.31 Guinea 1,364,491 530,705 80,222 30,933 15,941 2,163 44.11 33.29 37.09 Guinea-Bissau 287,196 56,987 3,689 4,527 1,480 25 63.44 38.50 147.56 Guyana 107,456 74,673 7,306 4,204 3,574 816 25.56 20.89 8.95 Indonesia 29,498,266 18,314,900 4,419,577 1,687,371 1,531,383 286,127 17.48 11.96 15.45 Iran 7,027,775 8,187,132 3,391,852 350,525 n.a. 143,503 20.05 n.a. 23.64 Iraq 4,430,267 1,898,756 439,875 217,123 101,678 20,013 20.40 18.67 21.98 Jordan 817,160 700,342 254,752 39,441 34,294 9,681 20.72 20.42 26.31 Kazakhstan 956,019 1,778,106 719,802 57,473 177,552 41,207 16.63 10.01 17.47 Kuwait 208,608 249,784 37,687 22,895 27,496 2,173 9.11 9.08 17.34 Kyrgyzstan 399,833 696,833 296,267 16,524 52,614 17,810 24.20 13.24 16.63 Lebanon 467,311 384,726 196,682 32,875 42,165 23,323 14.21 9.12 8.43 Libya 776,532 732,614 385,341 n.a. n.a. 17,654 n.a. n.a. 21.83 Malaysia 3,103,579 2,499,165 809,947 209,894 168,904 42,355 14.79 14.80 19.12 Maldives 47,082 32,645 73 3,551 2,431 39 13.26 13.43 1.87 Mali 1,823,037 612,012 67,839 35,442 25,990 987 51.44 23.55 68.73 Mauritania 473,688 104,567 12,346 12,724 3,951 353 37.23 26.47 34.97 Morocco 3,878,640 2,273,124 401,093 146,187 107,985 19,103 26.53 21.05 21.00 Mozambique 4,904,434 512,266 31,458 76,558 15,620 3,908 64.06 32.80 8.05 Niger 1,389,194 245,637 12,823 34,117 8,331 996 40.72 29.48 12.87 Nigeria 21,863,215 6,068,160 1,450,784 466,784 213,675 37,000 46.84 28.40 39.21 Oman 271,407 307,094 74,223 22,869 21,370 4,215 11.87 14.37 17.61 Pakistan 18,175,801 9,339,991 973,792 446,925 197,082 53,290 40.67 47.39 18.27 Palestine 390,051 707,892 180,905 13,448 29,246 5,074 29.00 24.20 35.65 Qatar 78,123 66,084 12,545 6,248 6,818 1,111 12.50 9.69 11.29 Saudi Arabia 3,211,387 2,885,035 666,662 298,644 261,731 29,359 10.75 11.02 22.71 Senegal 1,618,303 592,831 91,359 44,416 18,354 n.a. 36.44 32.30 n.a. Sierra Leone 1,332,425 239,579 9,263 32,127 10,924 1,257 41.47 21.93 7.37 Somalia 457,132 86,929 n.a. 12,870 4,504 n.a. 35.52 19.30 n.a. Sudan 4,351,957 1,579,567 204,487 118,637 81,665 4,711 36.68 19.34 43.41 Suriname 69,604 48,134 5,186 4,354 3,546 550 15.99 13.57 9.43 Syria 2,356,403 2,626,228 n.a. 132,099 180,703 n.a. 17.84 14.53 n.a. Tajikistan 692,247 1,019,250 155,420 30,530 61,585 8,797 22.67 16.55 17.67 Togo 1,143,902 408,964 32,502 27,153 11,761 484 42.13 34.77 67.15 Tunisia 1,036,445 1,259,240 350,828 59,977 82,981 18,608 17.28 15.18 18.85 Turkey 6,760,145 6,708,970 2,532,622 453,318 196,713 98,766 14.91 34.11 25.64 Turkmenistan n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. Uganda 7,963,979 1,145,459 107,728 159,516 60,830 3,581 49.93 18.83 30.08 UAE 289,654 318,769 77,428 16,523 24,152 4,710 17.53 13.20 16.44 Uzbekistan 2,071,317 4,497,372 299,010 117,652 357,560 24,011 17.61 12.58 12.45 Yemen 3,282,457 1,455,206 243,964 110,127 58,342 7,549 29.81 24.94 32.32 OIC 186,307,151 110,087,978 24,350,488 6,880,006 5,605,506 1,143,645 27.08 19.62 21.29 World 693,501,860 521,104,233 155,232,286 27,705,374 28,404,685 9,705,565 25.03 18.34 15.99 Developing 627,039,316 442,346,093 113,540,841 23,279,159 22,581,964 6,281,322 26.94 19.59 18.08 Source: SESRIC, UNESCO 
+*For the countries that UNESCO did not disseminate the 2008 data, the values were estimated by SESRIC. 
+58 
+Secondary Schools 
+Table A.3: Gross and Net Enrolment Rates, 1999 vs. 2008* 
+Primary 
+Secondary 
+Tertiary COUNTRY 
+GER NER GER NER GER 1999 2008 1999 2008 1999 2008 1999 2008 1999 2008 Afghanistan 28.81 106.12 n.a. n.a. 12.74 28.59 26.85 26.85 1.26 1.28 Albania 109.73 102.13 99.54 90.80 73.73 77.71 69.54 73.78 15.55 19.27 Algeria 105.15 107.53 90.69 94.86 75.01 83.22 63.84 66.34 14.16 24.02 Azerbaijan 97.69 116.22 88.68 96.03 78.45 105.62 75.30 98.32 15.72 15.75 Bahrain 107.49 105.26 95.88 97.85 95.15 96.80 85.19 89.36 21.77 29.94 Bangladesh 93.66 91.90 87.23 85.46 42.40 44.13 39.57 41.48 4.85 6.98 Benin 83.11 116.56 86.52 92.82 21.71 36.29 18.08 19.55 3.35 5.85 Brunei 113.79 106.73 93.39 93.29 85.02 96.74 87.44 88.18 12.33 16.04 Burkina Faso 43.90 73.42 35.18 60.13 9.74 18.40 8.59 14.37 0.98 3.06 Cameroon 83.56 110.92 88.30 88.30 25.06 37.30 n.a. n.a. 4.69 7.82 Chad 63.07 82.71 51.44 60.97 9.85 19.02 6.85 10.48 0.80 1.92 Comoros 98.66 119.40 64.53 72.91 29.99 45.77 n.a. n.a. 1.20 2.70 Côte d'Ivoire 73.00 74.46 55.41 56.04 22.56 26.27 18.45 21.16 6.15 8.37 Djibouti 33.45 46.24 27.49 41.23 14.04 29.79 13.98 21.54 0.71 2.63 Egypt 92.64 99.67 85.39 93.62 74.33 79.31 71.03 71.24 35.18 28.45 Gabon 138.90 134.32 80.27 80.27 48.21 53.08 n.a. n.a. 7.06 7.06 Gambia 92.36 86.23 75.77 68.74 32.01 50.80 26.27 41.80 1.11 1.23 Guinea 55.97 89.90 43.40 71.34 13.71 35.80 11.75 27.70 2.19 9.22 Guinea-Bissau 80.12 119.66 51.90 52.10 19.85 35.85 9.74 9.74 2.47 2.85 Guyana 117.52 108.68 94.68 94.68 80.35 102.07 n.a. n.a. 6.37 11.51 Indonesia 112.74 119.49 94.29 95.70 56.23 74.38 49.70 68.37 14.85 21.26 Iran 109.07 128.39 92.87 99.68 79.53 79.70 75.11 75.11 17.53 36.14 Iraq 95.54 98.03 87.53 87.34 33.88 46.78 29.75 39.59 11.40 15.70 Jordan 98.08 96.83 91.00 89.49 87.80 88.22 79.28 81.92 27.23 40.65 Kazakhstan 97.32 108.45 87.21 90.34 92.04 92.02 87.01 85.36 24.50 46.92 Kuwait 99.97 95.47 86.55 87.61 98.40 89.82 88.55 79.88 22.67 18.90 Kyrgyzstan 97.76 94.70 88.01 83.53 83.44 85.09 82.09 80.46 28.98 51.96 Lebanon 110.49 101.07 90.63 88.34 77.05 81.55 74.45 74.59 33.29 51.53 Libya 119.58 110.32 n.a. n.a. 108.29 93.48 n.a. n.a. 50.23 55.74 Malaysia 98.42 96.61 97.72 96.10 65.48 68.19 65.15 67.91 22.98 32.11 Maldives 134.47 112.01 97.56 96.22 41.83 83.65 30.72 69.42 n.a. n.a. Mali 56.47 91.32 44.36 71.51 15.34 34.80 28.58 28.58 1.97 5.44 Mauritania 85.89 98.22 62.17 76.53 18.22 24.46 14.05 16.30 5.19 3.83 Morocco 85.90 106.94 70.34 89.47 36.66 55.85 30.21 34.51 9.44 12.29 Mozambique 69.59 114.19 52.38 79.89 5.18 20.55 2.66 6.22 0.60 1.45 Niger 30.42 57.83 25.69 49.47 6.69 10.96 5.79 8.89 0.95 1.16 Nigeria 91.03 93.09 60.04 61.40 23.86 30.48 26.16 25.81 5.96 10.07 Oman 91.36 74.96 80.90 68.26 75.19 88.12 64.65 78.22 14.25 26.89 Pakistan 69.32 84.78 56.95 66.13 26.84 32.91 22.15 32.52 2.50 5.18 Palestine 105.47 79.63 96.75 75.31 80.30 89.72 77.05 87.29 24.56 47.21 Qatar 100.57 108.60 90.40 94.11 87.25 93.25 73.70 79.17 24.47 10.98 Saudi Arabia 96.61 98.38 82.97 84.55 89.96 94.56 67.61 73.05 19.96 29.85 Senegal 65.30 83.50 55.07 72.93 15.54 30.61 16.26 25.08 3.34 8.00 Sierra Leone 69.51 157.74 n.a. n.a. 26.51 34.57 24.94 24.94 2.06 2.05 Somalia 32.56 32.56 n.a. n.a. 7.72 7.72 n.a. n.a. n.a. n.a. Sudan 46.72 68.65 39.24 39.24 24.93 33.46 n.a. n.a. 5.98 5.93 Suriname 118.05 113.81 91.05 90.12 73.42 75.37 64.77 64.57 12.32 12.32 Syria 102.26 124.40 91.82 94.51 40.27 73.96 36.05 67.74 n.a. n.a. Tajikistan 98.46 102.18 95.93 97.33 74.29 84.43 62.92 82.52 13.62 20.15 Togo 116.38 115.16 82.90 93.53 28.46 41.25 19.58 22.50 4.69 5.29 Tunisia 115.89 107.07 94.86 97.71 73.57 91.83 63.46 71.28 17.32 33.70 Turkey 98.55 99.30 92.23 94.69 68.15 81.96 61.74 73.94 21.62 38.37 Turkmenistan n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. Uganda 126.49 120.25 95.46 97.09 9.68 25.35 7.90 21.58 1.91 3.69 UAE 89.82 107.94 78.88 91.58 76.28 93.77 69.06 83.82 17.59 25.19 Uzbekistan 98.71 108.71 89.92 88.05 86.47 101.40 91.69 91.28 12.84 9.95 Yemen 71.41 85.39 55.92 72.68 40.61 45.66 31.57 37.44 10.11 10.23 OIC 89.62 99.89 76.83 81.77 49.99 60.40 46.06 52.69 12.17 17.10 World 98.79 103.72 84.05 87.82 67.47 74.55 59.28 64.70 22.21 30.78 Developing 97.96 103.93 81.38 85.93 59.84 68.62 53.37 59.58 16.56 23.87 Source: SESRIC, UNESCO 
+*For the countries that UNESCO did not disseminate the latest data, the values were estimated by SESRIC based on the previous data. 
+59 
+Table A.4: Government Expenditures on Education 
+Per Pupil US $ % of GDP per Capita 19991 20082 19991 20082 19991 20082 19991 20082 Afghanistan ... ... ... ... ... ... ... ... Albania 2.9 2.9 8.4 8.4 ... ... ... ... Algeria 4.3 4.3 20.3 20.3 ... ... ... ... Azerbaijan 4.2 1.9 24.4 11.9 74 177 13.0 7.2 Bahrain 3.4 2.9 12.8 11.7 ... ... ... ... Bangladesh 2.4 2.4 15.3 14.0 51 66 13.2 13.3 Benin 3.0 3.6 15.6 15.9 60 103 17.0 19.4 Brunei 4.9 3.7 9.3 9.1 ... ... ... ... Burkina Faso 4.5 4.6 16.4 21.8 140 157 35.5 34.1 Cameroon 1.9 2.9 9.8 14.6 134 149 14.3 12.3 Chad 1.6 1.9 7.7 10.1 34 75 11.6 12.8 Comoros 3.8 7.6 24.1 24.1 ... ... ... ... Côte d'Ivoire 5.3 4.6 21.5 24.6 254 186 34.1 30.0 Djibouti 7.6 8.7 22.4 22.8 ... ... ... ... Egypt 4.9 3.8 16.2 11.9 ... ... ... ... Gabon 3.1 3.8 ... ... ... ... ... ... Gambia 3.0 2.0 14.2 8.9 30 30 8.4 8.4 Guinea 2.0 1.7 25.6 19.2 38 38 7.5 7.5 Guinea-Bissau 5.2 5.2 11.9 11.9 ... ... ... ... Guyana 8.6 6.1 18.4 12.5 148 229 14.3 16.3 Indonesia 2.5 3.5 11.5 18.7 292 292 15.1 15.1 Iran 4.5 4.8 18.7 20.0 189 842 11.6 17.8 Iraq ... ... ... ... ... ... ... ... Jordan 4.9 4.9 20.6 20.6 ... ... ... ... Kazakhstan 3.9 2.8 14.4 12.1 ... ... ... ... Kuwait 6.6 3.8 14.8 12.9 4,829 6,513 30.9 17.8 Kyrgyzstan 4.1 6.6 21.4 25.6 ... ... ... ... Lebanon 2.0 2.0 10.4 8.1 ... ... ... ... Libya 2.7 2.7 ... ... ... ... ... ... Malaysia 5.7 4.5 25.2 18.2 908 1,219 22.5 17.3 Maldives 8.1 8.1 15.0 12.0 765 765 24.8 24.8 Mali 3.0 3.8 13.3 19.5 69 129 24.1 19.1 Mauritania 2.9 4.4 8.3 15.6 80 74 16.9 12.6 Morocco 5.4 5.7 25.7 25.7 403 544 28.9 27.9 Mozambique 2.1 5.0 22.6 21.0 65 65 23.3 23.3 Niger 2.3 3.7 13.2 15.5 91 118 33.8 33.2 Nigeria ... ... ... ... ... ... ... ... Oman 4.0 4.0 21.3 31.1 1,387 1,711 17.2 14.5 Pakistan 2.6 2.9 6.4 11.2 ... ... ... ... Palestine ... ... ... ... ... ... ... ... Qatar 2.1 3.3 19.6 19.6 ... ... ... ... Saudi Arabia 7.1 5.7 26.0 19.3 ... ... ... ... Senegal 3.1 5.1 20.1 19.0 202 275 26.2 25.2 Sierra Leone 4.9 3.8 ... ... ... ... ... ... Somalia ... ... ... ... ... ... ... ... Sudan ... ... ... ... ... ... ... ... Suriname ... ... ... ... ... ... ... ... Syria 5.3 4.9 18.4 16.7 ... ... ... ... Tajikistan 2.1 3.5 11.8 18.7 ... ... ... ... Togo 4.2 3.7 26.2 17.2 62 62 15.3 15.3 Tunisia 6.9 7.2 17.4 22.4 546 776 24.6 26.4 Turkey 2.7 3.0 10.3 13.6 500 1,311 12.5 13.1 Turkmenistan ... ... ... ... ... ... ... ... Uganda 2.5 3.8 18.3 18.9 43 43 14.3 14.3 United Arab Emirates 2.0 0.9 22.2 27.2 2,502 2,474 11.5 10.6 Uzbekistan ... ... ... ... ... ... ... ... Yemen 9.9 5.2 32.8 16.0 ... ... ... ... OIC 2.9 2.6 16.4 16.9 265 461 16.3 16.5 World 4.0 4.1 13.2 12.7 1,485 2,264 20.5 21.2 Developing 2.8 2.9 14.5 15.6 274 478 18.1 18.2 1 Data refer to 1999 or earliest available year. 2 Data refer to 2008 or latest available year. Source: UNESCO 
+% of GDP % of Total 
+Government Exp. 
+60

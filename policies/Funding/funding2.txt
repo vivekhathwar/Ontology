@@ -1,0 +1,1181 @@
+Funding higher education: policies for access and quality
+House of Commons Education and Skills Committee
+Post-16 student support
+Session 2001-02
+Nicholas Barr
+Department of Economics,
+London School of Economics and Political Science,
+Houghton Street,
+London WC2A 2AE, UK
+Tel: +44-20-7955-7482; Fax: +44-20-7831-1840;
+Email: N.Barr@lse.ac.uk;
+http://econ.lse.ac.uk/staff/nb
+'Funding Higher Education: Policies for Access and Quality', House of Commons, Education
+and Skills Committee, Post-16 Student Support, Sixth Report of Session 2001-2002, HC445,
+(TSO, 2002), pp. Ev 19-35.Contents
+Executive summary
+1 What we all agree about 1
+2 Lessons from economic theory 2
+3 Problems with current arrangements 4
+3.1 The good news
+3.2 The bad news
+3.3 The worst news: interest subsidies
+4 The policy strategy
+4.1 Flexible fees
+4.2 A wide-ranging income-contingent loan scheme
+4.3 Active measures to promote access
+4
+5
+8
+13
+13
+14
+18
+5 Conclusion 20
+Annex 1: The student support system before and after 1998 21
+Annex 2: An unsubsidised interest rate: how much extra for graduates? 23
+Annex 3: An open-ended graduate tax: problems but no solutions 24
+Annex 4: Legal issues 26
+References 28Executive summary
+1.
+This paper puts forward a strategy for achieving two objectives in higher education –
+improved access and increased quality – about which there is unanimous agreement.
+2.
+D IAGNOSIS . The introduction of income-contingent repayments in 1998 was a genuine and
+enormous advance. However, two strategic problems remain. First, income-contingency is little
+understood, causing unnecessary fear of debt (solutions are discussed in section 4.2). Second, all the
+funding problems of the current system go back – directly or indirectly – to the subsidised interest rate
+on student loans. Australia and New Zealand face identical problems for identical reasons.
+3.
+Interest subsidies create three problems. They are badly-targeted, mainly benefiting high-
+earning graduates in mid career. They are expensive (a recently-developed model estimates
+conservatively that out of next year's lending to students of £2500 million about £700 million will
+never come back because of interest subsidies). Third, because loans are so expensive, the Treasury
+rations them. Thus interest subsidies, like most subsidies harm the people they are meant to help.
+There was an experiment with subsidies called Communism. It did not work. The result is that loans
+are too small, leading to student poverty and extensive use of credit card debt; and loans are means-
+tested: thus parental contributions and upfront costs continue.
+4.
+P RESCRIPTION . If graduates pay an interest rate equal to the government's cost of borrowing
+(not the bank overdraft rate), repayments increase from about 50% of total borrowing to about 85%
+(the remaining 15% shortfall being mainly due to low lifetime earnings), largely eliminating the fiscal
+impediment to expanding loans. The move is politically less difficult than it sounds. Interest rates are
+currently low, so that a move to the government's cost of borrowing involves only a small increase to
+the rate that graduates pay. Second, a graduate's monthly repayments depend only on her income;
+thus an increase in interest rates has no effect on monthly repayments, instead affecting the duration of
+the loan – making it clear that repayments are simply a form of targeted income tax.
+5.
+P OLICIES . Removing interest subsidies is the single essential key to solving current funding
+problems. The considerable resources thereby released underwrite the strategy for quality and access
+in section 4. The strategy has three mutually reinforcing elements: flexible fees, a wide-ranging loan
+system and active measures to promote access.
+6.
+Flexible fees are necessary to reflect diversity, to arrest quality decline and to assist some
+redistribution of teaching budget towards institutions with more remedial teaching. Specifically, fees
+should be increased initially to £2000, but with institutions free to charge less. All fees should be
+fully covered by a loan entitlement.
+7.
+A wide-ranging loan system.
+• Loans should be adequate to cover living costs and tuition fees, making higher education free
+at the point of use, thus addressing student poverty and freeing students from high-cost
+borrowing such as overdrafts and credit card debt.
+• Loan entitlement should become universal, eliminating the unpopular and complex income
+test and, at a stroke, getting rid of parental contributions.
+The combined effect of these twin elements is equivalent to bringing in universal grants in
+combination with an income-related graduate contribution (section 4.2). Additional options include
+extending loans to students in further education and to postgraduates.
+8.
+Active measures to promote access. There are two impediments to access – financial poverty
+and information poverty. The strategy outlined in section 4.3 aims to address both.
+•
+•
+•
+•
+Grants and scholarships for students from poor backgrounds.
+Extra personal and academic support when students from poor backgrounds reach university.
+Raising the aspirations of schoolchildren.
+More resources earlier in the system, including financial support for 16-19 year olds.Funding higher education: policies for access and quality 1
+Nicholas Barr 2
+1.
+This paper sets out a strategy for promoting access and strengthening quality. Though
+explicitly about higher education, the arguments apply equally to the tertiary sector as a
+whole. Successive sections discuss:
+• The many things we all agree about.
+• Lessons from economic theory.
+• Problems with current arrangements, and key elements of solutions, including an
+indication of the scale of the prize to be won.
+• A policy strategy.
+1 What we all agree about
+2.
+Since the finance of higher education is controversial, it is useful to start by setting
+out some large areas of unanimous agreement.
+3.
+T HE PROBLEM . There is agreement, first, about two core problems:
+• Students are poor because the system of support does not give them enough to live
+on. Two results follow: students have to turn to expensive overdraft and credit-card
+debt and/or to extensive part-time work; and the parsimony of support is an
+impediment to access for people contemplating university.
+• Universities are poor, creating worries about quality. The UK would have to spend
+an extra £3.5 billion per year to reach the EU average.
+4.
+O BJECTIVES . There is also agreement – strong and universal agreement – about two
+central objectives.
+1
+This paper draws on Barr (2001, Chs 10-14), and in part on work while a Visiting Scholar at the Fiscal Affairs
+Department at the IMF in Spring 2000. It also draws on collaboration on policy design with Iain Crawford for
+more years than either of us care to contemplate, on advice on factual matters and administrative feasibility from
+Colin Ward and his team at the Student Loans Company, and on recent work by the three of us on a project
+advising the Hungarian government. An earlier version was presented at a meeting of the Parliamentary
+Universities Group.
+2
+Department of Economics, London School of Economics and Political Science, Houghton Street, London
+WC2A 2AE, UK: Tel: +44-20-7955-7482; Fax: +44-20-7831-1840; Email: N.Barr@lse.ac.uk;
+http://econ.lse.ac.uk/staff/nb• Improved access. The socioeconomic mix in higher education has barely changed in
+40 years. Everyone supports widening participation in the interests of social justice,
+and also for reasons of national economic performance.
+• Improved quality. Again, there is no disagreement: the quality and diversity of higher
+education is important for its own sake, and for national competitiveness.
+5.
+F OUR PROPOSITIONS . Resources are clearly key to achieving these objectives. To that
+end, the discussion of resources throughout the paper is based on four propositions.
+• UK higher education needs substantial additional funding for reasons of national
+economic performance and because higher education is an important export industry.
+• Funding on the necessary scale will not come from the taxpayer, given an ageing
+population, rising health expenditure, competition from other parts of the education
+sector and competitive global pressures.
+• Reform will therefore be ineffective unless it can deliver an immediate and sustained
+injection of private funding. The way to achieve this is through a student loan scheme
+which can draw in private finance on fiscally attractive terms.
+• Phasing out the interest subsidy on the current loan scheme is essential to that end.
+Interest subsidies are costly (about one-third of total lending never comes back
+because of their cost), distortionary and badly-targeted. Instead of paying an interest
+rate equal to the rate of inflation (as currently), graduates should pay a rate equal to
+the government's cost of borrowing (not the interest rate on bank overdrafts or credit
+cards). The considerable savings would be much better used to expand the loan
+system and for the explicit, targeted measures to promote access set out in section 4.3.
+2 Lessons from economic theory
+6.
+Economic theory offers three strong sets of results, summarised here briefly. 3
+7.
+T HE DAYS OF CENTRAL PLANNING HAVE GONE , both for students and for higher
+education institutions. The system should empower the individual choices of students and
+potential students. The key theoretical question is whether students are well-informed or can
+become well-informed. My answer is yes. The role of government is not to plan student
+choices, but to make sure that students have easy access to timely, accurate and relevant
+information and – particularly for students from poorer backgrounds – also to advice.
+8.
+The supply side should also be liberalised. Forty years ago, with an elite system, it
+was possible, as a polite myth, to assume that all universities were equally good and hence
+3
+For fuller discussion, see Barr (2001, Chs 11 and 12).
+Nicholas Barr April 2002
+2could be funded broadly equally. Today we have a mass system, meaning more higher
+education institutions, more students, and much greater diversity of subject matter – all
+changes which are warmly to be welcomed. As a result, however, the characteristics and the
+costs of different degrees at different institutions vary widely. Thus universities need to be
+funded differentially. In principle this could be done by an all-knowing central planner. In
+practice, the problem is too complex for that to be the sole mechanism. A mass system in an
+increasingly complex world needs a funding mechanism which allows institutions to charge
+differential prices to reflect their differential characteristics.
+9.
+Supply-side liberalisation is not only necessary; it is also desirable. Increased
+competition between institutions will make them more responsive to student preferences.
+Some students will wish to study full-time but on an accelerated basis, for example studying
+for four terms per year rather than three; others, in contrast, will wish to study part-time, for
+example through evening courses. A system which can offer students and prospective
+students a wider range of choice is efficient; and the added option of part-time study while
+continuing to work also assists access.
+10.
+G RADUATES SHOULD CONTRIBUTE TO THE COSTS OF THEIR DEGREES . A second strong
+result from economic theory is that higher education should not be free – its costs should be
+shared between the taxpayer and the graduate. There are two mutually reinforcing arguments.
+11.
+We cannot afford free higher education. The argument is simple. Forty years ago,
+with a 5% participation rate it was fiscally feasible to rely mainly on public funding to
+support a high-quality higher education system. The welcome expansion to a 35%
+participation rate, with aspirations to a 50% rate, however, mean that public funding has to be
+supplemented on a significant scale by private funding. This is all the more the case because:
+12.
+We should not have free higher education. It is well-known that graduates on average
+have significantly higher earnings than non-graduates. The Dearing Report (National
+Committee of Inquiry into Higher Education, 1997, para. 18.13) suggests that
+'compared to those without higher education qualifications who were qualified to
+enter higher education, those with higher education qualifications:
+• have higher employment rates;
+• enjoy higher salaries;
+• enjoy an average private rate of return of some 11 to 14 per cent'.
+13.
+Since higher education creates social benefits it is right that there should always be a
+taxpayer contribution. But given the robust evidence on private rates of return, excessive
+reliance on public funding is inefficient. It is also regressive, and hence unjust, since the
+major beneficiaries of free higher education are the predominantly middle-class participants.
+Nicholas Barr April 2002
+3A government committed to improving access should not spray scarce taxpayer pounds
+indiscriminately across the entire student body but should instead target those resources on
+people for whom access is most fragile.
+14.
+A WELL - DESIGNED STUDENT LOAN SCHEME HAS CORE FEATURES . The third set of
+conclusions from economic theory sheds light on the design of student loans. Four features
+stand out, summarised here only briefly (for fuller discussion, see Barr, 2001, Ch. 12).
+• Income-contingent repayments, i.e. loans with repayments calculated as x% of the
+graduate's subsequent earnings until she has repaid her loan, are fundamental. The
+arguments are now well-understood. Income-contingent repayments instantly and
+automatically respond to changes in earnings: people with low earnings make low
+repayments; and people with low lifetime earnings do not repay in full. The effect is
+to protect borrowers against excessive risk, with gains both in efficiency and in terms
+of access (see also Barr and Crawford, 1997, evidence to this Committee).
+• Large enough to cover all living costs and all tuition fees. This feature makes higher
+education free at the point of use – the important advance made by the Cubie
+arrangements in Scotland. Students are no longer pushed towards expensive credit-
+card debt; and parental contributions can be abolished, a liberation both for students
+and their parents.
+• An unsubsidised interest rate, as explained in section 3.3, is essential for fiscal
+reasons, for efficiency reasons, and in the interests of access.
+• A capacity to bring in private funds. Student loans bring in private funding through
+students' subsequent repayments. However, there is a net saving to the taxpayer only
+when the scheme is mature, i.e. when the inflow of repayments from earlier cohorts of
+students matches or exceeds the outgoings to this year's borrowers. That process takes
+15-20 years. If extra resources are needed immediately, it is desirable to have a loan
+scheme which brings in private money upfront, creating an immediate injection of
+private finance.
+3 Problems with current arrangements 4
+3.1 The good news
+15.
+Income-contingent loans, with repayments collected alongside income tax, were
+introduced for UK students starting their degrees in or after 1998. This move represents
+unambiguous progress and deserves loud applause.
+4
+For assessment of systems of higher education finance in other countries (the USA, Australia, New Zealand,
+the Netherlands and Sweden), see Barr (2001, Ch. 13). National Audit Office (2002) reaches very similar
+conclusions about the problems of the present system, in particular its failure to improve access.
+Nicholas Barr April 2002
+43.2 The bad news
+16.
+That, however, exhausts the good news. The problems described below were both
+predictable and predicted, e.g. Barr and Crawford (1997) in evidence to this Committee.
+S TUDENT SUPPORT : IMPEDIMENTS TO ACCESS
+17.
+The system of student support impedes access in several ways.
+18.
+D EFICIENT LOAN DESIGN . The current scheme conforms with only one of the four
+criteria – income-contingent repayments – in para. 14. It fails the remaining three badly.
+• The loan is too small to cover living costs; it is income tested, so that not all students
+are entitled to a full loan; and there is no loan to cover tuition fees. Thus the system
+incorporates upfront charges, students remain poor, and parental contributions
+continue. All these features impede access.
+• The loan incorporates an interest subsidy. The resulting problems are discussed in
+detail in section 3.3.
+• The scheme is capable of bringing in private finance but, because of the interest
+subsidy, only on fiscally unattractive terms, again, discussed further below.
+19.
+C ONTINUED RELIANCE ON PARENTAL
+contributions merit additional discussion.
+CONTRIBUTIONS .
+The problems of parental
+• As a philosophical matter, is it right to force young adults to depend on their parents?
+• Student poverty: the scale and volume of unpaid contributions is well known. 5
+• Impediments to access: unpaid contributions cause some students to drop out, and the
+threat of unpaid contributions deters an unknown number of others from applying in
+the first place.
+• Distorted choices: in other cases, parents pay the contribution, but with conditions
+attached: 'we will pay, but only if you do a sensible subject.'
+• The previous three problems all have troubling gender and ethnic aspects, and the
+point is, if anything, even stronger in respect of spouse contributions.
+5
+Barr and Low (1988), using data for 1982/3, found that about half of students entitled to parental contribution
+received less than they were supposed to, and the shortfall was substantial: students whose parents gave them
+less than the system supposed received only £53 of every £100 of assessed parental contribution. As a result,
+one student in thirteen remained below the poverty line even when income from all sources was included.
+Subsequent work based on 1992/3 data found that 37 per cent of students received less than the assessed
+parental contribution (Committee of Vice-Chancellors and Principals (1996, p. 14), quoting an official survey).
+Callender and Kemp (2000, p. 3) report that 'By 1998/9, the proportion of students who failed to receive their
+full assessed parental contribution had doubled to three in ten students. The mean shortfall for these students
+(average assessed contribution minus average actual parental contribution) was £719'
+Nicholas Barr April 2002
+5•
+The income test necessary to assess parental contributions is intrusive and has high
+compliance and administrative costs.
+20.
+Its gets worse! Assessment of family income has to take account of whether a student
+is making maintenance payments (a deduction from his assessable income) or is the recipient
+of maintenance payments (which may be an addition to his assessable income) (Department
+of Education and Skills, 2001, Ch. 6, paras 54-58). And the relevance of a spouse's income
+raises the vexed issue of cohabitation: a woman whose husband has a high salary is not
+entitled to a full loan; nor is one whose partner has a high income – but that requires finding
+out whether or not a student is cohabiting. Paras B117-8 of the guidance notes just cited are
+titled 'Advice on identifying a cohabiting couple'. Such factors – which should lie wholly
+outside the system of student support – are an inescapable concomitant of an income test.
+21.
+None of this is an attack on family support: where families wish to help, such support
+should be applauded. The attack is twofold. Policy should not be based on an assumption that
+parents will support their children. Such an assumption may, at a stretch, have been valid for
+an elite system of higher education, regarded as a luxury good for middle-class families; it is
+invalid for mass higher education as an investment good, and totally inapplicable to
+expanding access. The policy is bad also because it forces students into dependence on
+parental contributions or spouse contributions, since there is no option to take out a larger
+loan in place of unpaid contributions.
+22.
+C OMPLEXITY . Annex 1 gives a very simplified explanation of the current system. But
+student support in practice is so complex that nobody fully understands the system. 6 Someone
+from a poor background pays no tuition fee and is entitled to a full loan. The assessment of a
+student's financial position is based on parental income for a younger student, or on his or her
+spouse's or partner's income. Parental or spouse income has two effects: as income rises, the
+tuition fee rises; once the fee has reached its maximum (£1,075 in 2001/2), the effect of
+additional parental income is to reduce the size of the loan to which the student is entitled. All
+students, however rich their parents or spouse, are entitled to a loan equal to about 75 per cent
+of the maximum loan except that scholarship and similar income, if high enough, can reduce
+loan entitlement below that 75 per cent minimum. 7 Such complexity has major ill-effects:
+students, prospective students, and their parents cannot understand the system; it is a
+nightmare to administer; and complexity, per se, impedes access.
+6
+Without wishing to seem frivolous, I challenge Committee members to explain the operation of the income-
+test by which a student's loan entitlement and tuition fee are assessed, as set out in the guidance notes from the
+Department for Education and Skills (2001) to the Local Education Authorities, who administer the income test
+(http://www.dfes.gov.uk/studentsupport/ss_admin/content/dsp_section_29.shtml, Chapter 6).
+7
+Originally, a student's loan entitlement was reduced pound for pound with any scholarship income in excess of
+£1000 per year. The disregard was subsequently increased; in 2001/2 it is £4000 (Department for Education
+and Skills, 2001, Table 5).
+Nicholas Barr April 2002
+623.
+I NADEQUATE DISSEMINATION OF INFORMATION . Perhaps the greatest impediment to
+access is the fact that the wider public totally fails to understand income-contingent
+repayments. The scale of this ignorance cannot be exaggerated. Most people are completely
+unaware that loan repayments are de facto a form of income tax – but paid only by graduates
+and switched off once the graduate has repaid what he or she borrowed. In this respect, the
+Government is deeply culpable over its negligence in vigorously and repeatedly explaining
+this point. The resulting ignorance unnecessarily aggravates debt aversion and is a further
+impediment to access. The topic is taken up in detail in paras 63-73.
+U NIVERSITIES :
+24.
+IMPEDIMENTS TO QUALITY
+The post-Dearing arrangements are also bad news on the supply side.
+25.
+C ONTINUED CENTRAL PLANNING . The strong theoretical case against central planning
+of higher education was alluded to earlier. Though nobody quarrels with the need for
+universities to be publicly and transparently accountable, there are few defenders of the
+particular mechanisms, of which the QAA and RAE are only the tip of the iceberg. In
+addition, there has been central control of the number of students at each university and of
+tuition fees – in other words, both price and quantity were determined by the central planner
+– a situation only partly eased by the proposed lifting of the numbers cap.
+26.
+Such planning impedes quality. Also – and entirely unintended – it impedes access to
+UK students to the best universities. Again, this was predicted to this Committee:
+'A flat fee will continue the erosion of quality at the best universities, which face the
+biggest shortfalls. If this policy continues, the result will be to deprive British
+students of the chance of an internationally cutting-edge undergraduate degree in one
+of two ways. The quality of the best institutions might fall; British students could still
+get places, but the quality of the degree would be less. Alternatively, the best
+institutions will largely stop teaching British undergraduates (for whom they receive
+on average £4000 per year) and will use the fees from foreign undergraduates (around
+£8000 per year) to preserve their excellence. The government is considering trying to
+prevent British universities from charging additional fees to UK/EU students. Again,
+this is done for equity reasons; again, it ends up harming the very people it is aimed at
+helping, in this case by creating a situation where British students will find it harder
+and harder to get places at the best universities' (Barr and Crawford, 1997, para. 57).
+27.
+I NADEQUATE UNIVERSITY INCOME . The immediate post-Dearing arrangements
+brought universities not an extra penny, for the reasons explained in Barr and Crawford
+(1997), with worrying effects on quality. The story in 1997, in a nutshell, was as follows:
+Nicholas Barr April 2002
+7(a) Public spending on higher education would not go up (the budget said so).
+(b) Parental contributions (i.e. private spending) would not go up (the Secretary of State
+said so). 8
+(c) Loans to students (the other potential source of private spending) counted in their
+entirety as public spending.
+28.
+There has been some improvement since 1997. Public spending under (a) has
+increased; debt sales have brought in some private money under (c); and the move from
+cash-flow to resource accounting has further assisted under (c). These developments are all
+genuinely welcome; but they do not change the reality that, at its core, the system continues
+to be publicly funded; and given its greater political salience, student support has crowded
+out university income. The story in Australia is exactly the same (see Annex 3, para. 95), and
+for exactly the same underlying reason – the interest subsidy on student loans.
+3.3 The worst news: interest subsidies
+T HE PROBLEM
+29. It is important to understand the scale of the problems that interest subsidies cause.
+30. W HAT INTEREST RATE ? First, it is important to be clear what I am not saying:
+• At present graduates pay an interest rate equal to the rate of inflation. Press
+discussion of 'market interest rates' evokes worries about high interest rates associated
+with credit cards and overdrafts. That is not what is meant. The interest rate which
+graduates should pay on their loans is the government's cost of borrowing, i.e. broadly
+the interest rate the Monetary Policy Committee announces.
+• The attack is on blanket interest subsidies. A strong case can be made for targeted
+interest subsidies – for example someone who is unemployed or caring for young
+children or other dependants – to make sure that their debt does not spiral upwards.
+Mechanisms for such targeted assistance are discussed in section 4.2.
+31.
+W HY ARE INTEREST SUBSIDIES SUCH A PROBLEM ? Interest subsidies are:
+•
+Regressive. As explained in paras 42 and 43, interest subsidies do not benefit students
+(who do not make repayments), nor low-earning graduates, but better-off graduates in
+mid-career.
+8
+‘Today the Government announce a new deal for higher education, involving new funding for universities and
+colleges, free higher education for the less well-off, no parent having to pay more than at present and a fair
+system of repayment linked to ability to pay' (Hansard (Commons), 23 July 1997, col. 949) (emphasis added).
+‘Our response to Dearing ensures that fees and maintenance together do not place an increased burden on
+middle-income families' (ibid., col. 950).
+Nicholas Barr April 2002
+8• Expensive. Interest subsidies are enormously costly. Evidence from debt sales
+suggests that of all the money lent to students, about one-third never comes back
+because of the cost of interest subsidies. The scale of the resulting losses is discussed
+shortly. The high fiscal costs of loans create two further sets of ill-effects.
+• Inimical to quality. Expensive student support crowds out university income; thus
+interest subsidies conflict directly with improved quality.
+• Distortionary. Because loans are so expensive, the Treasury rations them. Thus
+interest subsidies, like most subsidies, create shortages – like rent control, they end up
+harming the very people they were meant to help. There was an experiment with
+price subsidies called Communism. It did not work.
+32.
+In the case of loans, shortages manifest themselves in the following ways:
+• The full loan is too small to cover a student's living costs, leading to student poverty.
+• Loans are means-tested: as a result parental/spouse/partner contributions continue,
+and higher education involves upfront costs and charges.
+• Loans are restricted, for example are not available to students in further education
+(impeding access), nor to postgraduates (putting national competitiveness at risk).
+T OWARDS A SOLUTION :
+THE SCALE OF THE PRIZE
+33.
+In short, interest subsidies create a fiscal black hole which aggravates problems both
+of access and quality. 9 A move to an unsubsidised rate is not just a technicality – it is the
+single essential key to solving current problems of funding tertiary education. The
+considerable resources thereby released underwrite the array of major policy advances set out
+in section 4.
+9
+Other countries are reaching a similar conclusion. New Zealand, having flirted with interest subsidies since
+2000, are contemplating reversing that short-lived, ill-advised experiment. A government report published last
+November, concluded that:
+'Participation goals should continue to be supported through a Student Loan Scheme with income-contingent
+repayments as at present. The Commission believes, however, that the current policy of writing off interest on
+loans for full-time and low-income students while they are studying is not an effective use of the government's
+resources. While this policy has decreased the length of time taken to repay loans after graduation, it has also
+led to an increase in the number of students taking out loans and in the overall level of student debt. To
+compound matters, the policy has made it possible for learners to borrow money and invest it for private gain
+(arbitrage). Consequently, the Commission believes that this policy should be discontinued - or that, as a
+minimum, the incentives for arbitrage should be removed. Any savings accruing to the government as a result
+of modifying the current loan scheme should be reinvested in the tertiary education system and be used for the
+benefit of students' (New Zealand Tertiary Education Advisory Committee, 2001, p. 14).
+Nicholas Barr April 2002
+934.
+H OW MUCH EXTRA MONEY ? Suppose graduates pay an interest rate equal to the
+government's cost of borrowing rather than, as now, the inflation rate. 10 Do the resulting
+savings make the move worthwhile?
+35.
+Barr and Falkingham (1993, 1996), using LIFEMOD, a microsimulation model, found
+that for every 100 the government lends, only about 50 is repaid. Of the missing 50, 20 is not
+repaid because of fraud, early death, and emigration (all of which have a relatively small
+effect), and mainly because some graduates have low lifetime earnings and so never repay
+their loan in full, and 30 is not repaid because of the interest subsidy. In other words, the
+interest subsidy converts nearly one-third of the loan into a grant.
+36.
+Previous sales of student debt offer independent evidence. The debt was sold for
+about 50 pence per pound of its face value. Official estimates suggest that of the missing 50
+pence about 15 pence was because of low lifetime income, etc., and 35 pence because of the
+interest subsidy. The evidence on the interest subsidy is compelling. The government did not
+use LIFEMOD; thus the official estimates and the simulation results reinforce each other.
+37.
+A recent modelling exercise 11 offers further confirmation. The model is conservative
+in at least two ways. First, it assumes that the subsidised interest rate is 2.5%, the
+unsubsidised rate 5%, thus implicitly assuming that the real rate will stay as low as 21⁄2%
+throughout the lifetime of the loan. Second, the accounting of debt forgiveness is on an
+accruals basis, even though forgiveness normally occurs only at the end of the loan period. 12
+The model takes as its starting point projected loan outgoings for the next academic year of
+£2,500 million. 13 With debt forgiveness of 15% (i.e. assuming that 15% of student borrowing
+will never be repaid because of low lifetime earnings, etc.), 14 a move to an interest rate equal
+to the government's cost of borrowing would release sustainable savings of £700 million per
+10
+Charging a market interest rate on income-contingent loans raises issues under the Consumer Credit Act.
+Solutions to the problem are outlined in Annex 4.
+11
+The model was originally developed by the Chief Executive of the Student Loans Company as part of a joint
+LSE/SLC project advising the Hungarian Government, and has been adapted to simulate alternatives to the UK
+system.
+12
+The calculations assume that a portion of the total debt forgiveness occurs each year, when repayments are
+due. This gives a higher assessment of the cost of forgiveness than one which reflects the real life position,
+where the level of forgiveness is known only at the end of the repayment period. The cost is higher because
+discounting for the loss of purchasing power over time is greater in the earlier years of repayment. The approach
+was adopted because it represents the most punitive accounting approach that can be taken for costs, depending
+on the resource accounting policy applied by the Treasury.
+13
+This is the forecast figure for 2002-3 including income-contingent loans, mortgage loans and hardship loans
+(the latter two being small). The outturn for 2000-1 was £1840 million, the forecast for 2001-2, £2282 million.
+14
+New Zealand, with longer experience of income-contingent repayments, uses an official estimate of 10% in its
+public accounts.
+Nicholas Barr April 2002
+10year. 15 That sum could be used to finance additional grants and scholarships of up to £700
+million. Alternatively, it could be used to underwrite an expanded loan system; with 15%
+debt forgiveness, it would be possible nearly to triple the total amount of lending. Or the sum
+could be used for a combination of the two policies.
+38.
+W HEN WILL THE MONEY BE AVAILABLE ? It is necessary at this stage to distinguish the
+cash-flow costs of loans (i.e. the money which is required now, but which will eventually be
+repaid), from the fiscal costs (i.e. borrowing which will never be repaid). With the present
+loan scheme, for each 100 that students borrow (the cash-flow cost), roughly 50 will never be
+repaid (the fiscal cost). The argument above is that eliminating interest subsidies reduces the
+fiscal cost of loans from about 50% to about 15%. Though the Treasury will, of course, take
+cognisance of cash-flow costs, the abolition of interest subsidies makes it possible to have a
+loan system that is larger, but at the same time has smaller fiscal costs.
+39.
+Seen through the eyes of the Treasury, £700 million is the present value of the annual
+saving, and is thus a significant and sustainable long-run resource. Seen through the eyes of
+the Department for Education and Skills, however, the initial savings in cash-flow terms are
+small. 16 But higher education needs to benefit immediately from the long-run savings. That
+will require a deal between the Treasury and the Department for Education and Skills for an
+early injection of additional resources. One way to finance such a deal is by selling a further
+tranche of student debt, which could yield up to £2 billion. For the reasons explained in the
+previous paragraph, such a deal makes sense in both educational and fiscal terms.
+40.
+Ensuring low fiscal costs is, of course essential. Once that is done, the Treasury can
+choose how to deal with the cash flow costs of the loan system. It could do so out of taxation:
+under resource accounting, the fiscal costs (i.e. lending that is not expected to come back)
+appears as current education spending, while expected repayments appear in the capital
+account as a financial asset. 17 With the present loan scheme, about half of lending to students
+is counted as spending out of the education budget. If there were no interest subsidy, only
+15%, or so, of total lending would appear as current education spending, and the 85%
+expected repayment would appear in the capital account.
+15
+The gross annual saving from a move to an unsubsidised interest rate is £X million, considerably larger than
+£700 million. The figure of £700 million is the answer to the following question: the government wants to
+finance grants by selling bonds which are repaid after n years, where n is commensurate with the maximum
+duration of the student loan; if repayments, including interest, over n years is £X million, what is the maximum
+face value of the bonds? The answer is £700 million – the amount that can be spent on grants allowing for the
+cost of financing those grants. Thus the figure is a very conservative one.
+16
+To oversimplify, if the interest rate students pay rises by 2.5%, the extra interest in year 1 is 2.5% x £2500
+million, i.e. £62.5 million. In year 2, the saving in cash-flow terms are double that sum, in year 3 triple, etc.
+17
+Resource accounting has been introduced in the UK only recently. For a description of the way student loans
+are treated in the public accounts in New Zealand, which has had resource accounting for longer, see Barr
+(1997), evidence to this Committee.
+Nicholas Barr April 2002
+1141.
+Alternatively, the Treasury could deal with the upfront cash flow costs by bringing in
+private money to finance the scheme. This can be done in various ways. The debt-sale
+approach has been extensively discussed (Barr and Falkingham 1993, 1996). There has been
+less exploration of front-end funding, which has two variants. With retail lending, individual
+students borrow from private lenders; thus student borrowing is individualized. With
+wholesale lending, the loans administration borrows private money in tranches of (say) £2
+billion, which it then lends to students. 18
+42.
+G RASPING THE NETTLE . The scale of the prize is clearly enormous. But political
+worries about raising interest rates persist. These, however, should not be exaggerated.
+• There is already growing support for removing interest subsidies (e.g. Piatt and
+Robinson, 2001).
+• Interest rates are currently low; thus the interest rate would have rise by no more than
+21⁄2 per cent from the rate in the current loan scheme.
+• A person's monthly repayments depend only on her income; thus interest rates have
+no effect on monthly repayments, but only on the duration of repayment. Once such a
+scheme has been introduced, this feature will become obvious to graduates.
+• The wider public should understand who benefits from interest subsidies. Interest
+subsidies do not help students (it is not students who make loan repayments, but
+graduates); they do not help low-earning graduates, since unpaid debt is forgiven
+after 25 years; they do not help higher-earning graduates early in their careers (since
+monthly repayments are a fraction of earnings, and so are not affected by the interest
+rate); the only people they help are higher-earning graduates in mid career, whose
+loan repayments are switched off earlier because of the interest subsidies than would
+be the case without the subsidies.
+43.
+I N SUM .
+• Interest subsidies are targeted with exquisite accuracy: they benefit successful
+professionals in mid career. Thus the NUS position, defending interest subsidies, is
+arguing for continued subsidies for those who need it least at a time when they need it
+least, and the hell with today's struggling inner-city sixth-formers.
+• Removing the interest subsidy finances policies to promote access and quality, thus
+helping students rather than graduates. The proposal is not to eliminate subsidies, but
+to replace blanket (i.e. untargeted) subsidies by targeted interventions.
+18
+There has been extensive development work on front-end funding (see Barr, 2001, Ch. 14). The result is not
+just academic theory, but has been extensively tested with the IMF, Eurostat, and financial market actors.
+Nicholas Barr April 2002
+12•
+Income-contingent loans are simply a form of income-tax; and income-tax, together
+with a write-off after 25 years, bases loan repayments on outcomes, and hence targets
+subsidies accurately on graduates with low lifetime earnings.
+Once students and their parents come to understand these point, their worries and, with them,
+much of the political hullabaloo, will recede – an issue discussed in detail in paras 63-73.
+4 The policy strategy
+44.
+This section sets out a strategy for access and quality with three elements:
+• flexible fees, to address the quality issue, and to begin to free universities from
+unnecessary central planning;
+• a wide-ranging loan scheme to empower choice for the generality of students;
+• wide-ranging but targeted measures to promote access; these need to start early in the
+school system.
+45.
+The three elements are a strategy, not just a bunch of ad hoc policies: they are
+designed to achieve explicit objectives, and the elements are mutually reinforcing. This does
+not mean that the policies below must be swallowed whole, but does mean that attempts
+indiscriminately to pick and mix will fail to achieve the policy's objectives.
+4.1 Flexible fees
+46.
+A MEDIUM - TERM AIM . Flexible fees are both necessary and desirable for at least three
+reasons.
+47.
+To address diversity. Historically, with a small tertiary system and a limited range of
+subjects, it was possible for central planners to determine funding levels for different
+institutions. Today, however, the higher education system is large, diverse and complex. As
+a result, (a) the necessary variation in funding is much greater than formerly and (b) the
+problem is now too complex for a central planner to have the sole power of decision about
+how resources should be divided between institutions. Thus institutions should have the
+freedom to set their own fee levels (that freedom could be constrained).
+48.
+To arrest quality decline. Without higher fees, quality will continue to be eroded and,
+given flat fees, eroded most at the best institutions.
+49.
+To prevent crowding out. At present, the best institutions tend to receive more
+funding for teaching in an attempt to protect their quality. This risks crowding out
+universities with a different mission. With higher fees, the best institutions could paddle their
+Nicholas Barr April 2002
+13own canoes to a greater extent than currently, freeing resources for institutions which have to
+do more remedial teaching. Thus – an important and poorly-understood point – flexible fees
+benefit all tertiary institutions.
+50.
+A RGUMENTS THAT DO NOT STAND UP are of two sorts. It is sometimes argued that
+students should pay the full costs of tuition. That argument overlooks the significant (albeit
+hard-to-quantify) external benefits of higher education. There is a strong case for continuing
+taxpayer subsidy for tuition for all students. Other people argue the opposite – that tertiary
+education should be entirely funded from taxation. There may be a case for that policy for
+sub-university education, but, applied to higher education, the argument is flawed. The
+argument that university education should be free at the point of use (which I support), does
+not mean that there should be no charges. Free tuition is expensive, and its benefits accrue
+disproportionately to people from better-off backgrounds, who go on to be among the best-
+off. Thus free tuition is badly targeted; the money could do much more for access if spent in a
+way that directed resources specifically at those groups for whom access is most fragile and
+those who do not benefit financially from their degrees. Lowering tuition charges for higher
+education in other countries has not improved access. Conversely, introducing the Higher
+Education Contribution Scheme in Australia in 1989, with tuition charges paid via an
+income-contingent loan, did not harm access (Chapman 1997).
+51.
+H OW HIGH SHOULD THE FEE BE ? Taxpayer support plus tuition fees should cover the
+costs of teaching. At research-intensive universities, fees should be higher to the extent of the
+value-added in teaching by research-active people, but should not cross-subsidise research.
+52.
+P ITFALLS TO AVOID . Though flexible fees are desirable, there should be no 'big bang'
+liberalisation. As a first step, the flat fee should be increased to £2000. 19 However,
+institutions should be free to charge less if they wish, and the ceiling should be raised over
+time. As indicated below, any increase in the ceiling should be accompanied by an equal
+increase in the loan entitlement.
+4.2 A wide-ranging income-contingent loan scheme
+53.
+The second element in the strategy is a wide-ranging loan scheme. Discussion starts
+with policy options and then turns to a much-neglected aspect of loans – how to make sure
+that the public understands the nature of the beast.
+P OLICY OPTIONS
+54.
+As explained in section 2, a well-designed loan scheme has four characteristics:
+income-contingent repayments; sufficient to cover all living costs and all tuition fees; with
+19
+See, similarly, Piatt and Robinson (2001) and Council for Industry and Higher Education (2001).
+Nicholas Barr April 2002
+14an interest rate equal to the government's cost of borrowing; and capable of bringing in
+private funds. A loan scheme of this sort opens up the following options.
+55.
+U NIVERSAL . If there is no interest subsidy there is no need to ration loans, which can
+therefore be made available as a universal entitlement. The administratively complex and
+politically unpopular means test disappears; so does the relevance of such factors as whether
+a student is married or cohabiting.
+56.
+A DEQUATE . For the same reason, the loan entitlement can be large enough to cover
+realistic living costs and all tuition fees. 20 A universal, adequate loan has major advantages.
+• It eliminates student poverty.
+• It makes higher education free at the point of use.
+• It makes it possible to abolish parental contributions.
+• It frees students from forced reliance on expensive credit card debt and/or the need for
+extensive part-time work, and thus in substantial measure addresses the worries of
+middle-class students and their parents, and also the (rightful) complaints by the NUS
+about the amount of high-cost student debt.
+• It is simple for students and their parents to understand.
+• It is vastly simpler to administer than current arrangements, since the administratively
+cumbersome and unpopular means test can be abolished.
+There is no need to belabour the helpful political resonances of all these features.
+57.
+E XTENDING LOANS TO OTHER GROUPS OF STUDENTS . The scheme could be extended to
+postgraduate students, starting to address worries about research capacity and national
+productivity. It could also become a universal entitlement throughout tertiary education,
+buttressing existing sketchy student support for further education and vocational training,
+thus contributing to access.
+58.
+P ROTECTING LOW EARNERS is a clear priority. Income-contingent repayments do so
+automatically, since low earners make low repayments, and people with low lifetime earnings
+do not repay in full. Nevertheless, many people are afraid of rising debt, and interest
+subsidies were introduced to assuage those fears. As argued earlier, however, interest
+subsidies are a costly, non-transparent and ineffective way of promoting access, and benefit
+exactly the wrong people. The policies below are more transparent and better targeted ways
+of protecting low earners.
+20
+Extending loans to cover tuition fees raises issues under EU legislation. These are discussed in Annex 4.
+Nicholas Barr April 2002
+1559.
+Scholarships, i.e. grants which do not carry an obligation to make income-contingent
+repayments.
+60.
+Stopping repayments after 25 years. Scholarships help people at the start of the
+process. Complete debt forgiveness after (say) 25 years helps them at the end of the process.
+61.
+Targeted interest subsidies based on current income. It is also possible to help people
+during the process. Under the simplest mechanism, anyone receiving a credit for national
+insurance contributions – someone who is unemployed or looking after young children –
+receives an interest subsidy. As an extension (as in New Zealand), anyone whose earnings
+are so low that his or her income-contingent repayment fails to cover the interest element,
+similarly receives an interest subsidy.
+62.
+Conditional subsidies. The mechanism in the previous paragraph protects low earners
+and people with career breaks. However, some of the subsidies benefit people who
+subsequently have high earnings. Thus there are advantages in terms of fiscal cost and
+targeting to have a system which pays interest subsidies based on current income, but with a
+facility to claw back the subsidy element for people who end up with high lifetime income.
+A workable such scheme has been designed, which the Student Loans Company could
+administer without difficulty. Such a scheme has major advantages: it gives assistance at the
+time they need it to people with low income and/or with a career break, facilitating access
+and preventing people from worrying that their repayment obligation is spiralling upwards;
+but it is cost free, since the clawback mechanism ensures that only the lifetime poor keep the
+subsidy. It is also flexible: it would, for example, be possible to give conditional subsidies to
+some groups (e.g. someone who went travelling after graduation), but unconditional subsidies
+to others (e.g. someone looking after young children or elderly dependants – analogous to
+current proposals to assist teachers with their loan repayments).
+U NDERSTANDING INCOME CONTINGENCY : SOME EQUIVALENCE PROPOSITIONS
+63.
+Past failures adequately to explain income-contingent loans has created unnecessary
+disquiet. Medical practitioners sometimes talk about 'the worried well' – people who are in
+good health, but whose life is made less happy by misplaced worries that they are not well.
+Analogously, it can be argued, 'worried debtors' are concerned that student loans will be a
+millstone. Students perceive a large debt, but miss two important points of context. First,
+repayments are merely an addition to their future income tax. Thus the risk they take is no
+different from the risk we all face that at some time in the future the basic rate of income tax
+might increase (I am old enough to remember a 33% basic rate). Second, they do not see
+how much they will pay over the years in income tax or national insurance contributions, nor
+what they will spend on food (or drink) over a 25-year period. None of these items cause
+people to worry, despite the fact that someone who starts on average earnings and remains on
+Nicholas Barr April 2002
+16average earnings all his working life, will pay nearly £300,000 21 in income tax and national
+insurance contributions over a 35-year career, a topic discussed more fully in Annex 2.
+64.
+Alongside the policy design in the previous paragraphs, it is thus imperative to
+explain what is going on. I am not at this stage digressing into political presentation, but
+want instead to point out some analytical equivalences which should inform explanation.
+65.
+The following schemes are all analytically identical.
+66.
+S CHEME 1: AN INCOME - CONTINGENT LOAN . Earlier discussion described an income-
+contingent loan, for which graduates make repayments of x% of their earnings until they have
+repaid the loan at an interest rate equal to the government's cost of borrowing. What has been
+missing thus far in government action is a clear explanation that a person's loan repayments
+are, in effect, a form of income tax: a person's repayments track changes in his or her
+earnings instantly and automatically, and thus nobody repays more than he or she can afford.
+67.
+The point is fundamental. Suppose we start from the argument (NUS, etc.) that
+higher education should be paid out of taxation. But that means that the costs of higher
+education are paid by the generality of income recipients, including low earners, non-
+graduates, pensioners, and the like. It is widely acknowledged that this is unfair. To deal with
+that unfairness, some people have argued that higher education should be financed through a
+graduate tax, which can be thought of as additional income tax, but paid only by the
+beneficiaries of higher education. But a graduate tax has its own unfairness, since people
+with high lifetime earnings repay considerably more than they have borrowed (this is true of
+any successful professional, without having to refer to extreme cases like Mick Jagger or
+Stelios Haji-Ioannou). 22 To address the latter problem, it is suggested that a graduate tax
+should not have an indefinite duration, but should be capped, i.e. 'switched off' once a person
+has repaid an agreed contribution towards the costs of his/her degree. An income-contingent
+loan is exactly that – it is a graduate tax which is capped at 100% of the initial sum borrowed.
+Put another way, the only difference between a graduate tax and an income-contingent loan is
+the duration of repayment: with a graduate tax, repayment lasts (say) 25 years, regardless of
+how much a person has borrowed or repaid; with an income-contingent loan the duration of
+repayment bears an exact relation to the initial amount borrowed.
+68.
+Thus income-contingent repayments can be described as repayment of debt. But with
+equal accuracy they can be described as a form of targeted income tax – targeted by being
+imposed only on graduates and by being 'switched off' once the loan has been repaid. This is
+21
+In today's prices, assuming annual real earnings growth of 21⁄2%.
+22
+As explained in Annex 3, a graduate tax has problems in addition to being unfair: it leads inescapably to
+continued reliance on public funding; it is a hypothecated tax; and it raises difficult boundary problems.
+Nicholas Barr April 2002
+17a form of taxation that is more efficient and fairer than funding via the entire body of
+taxpayers.
+69.
+S CHEME 2: FREE HIGHER EDUCATION (C UBIE ). If loans are universal and adequate to
+cover all living costs and all tuition fees, higher education is free at the point of use. Thus the
+system can be described as free higher education, paid for by a targeted income tax or a
+graduate contribution. To repeat, the only difference from tax funding is that (a) the tax is
+paid only by those who have been to university and (b) the additional tax is capped.
+70.
+S CHEME 3: UNIVERSAL GRANTS PLUS A GRADUATE CONTRIBUTION . Suppose that all
+students receive a grant large enough to cover their living costs and tuition fees; and suppose
+that the system is financed by an extra x pence in the pound added to a person's income tax
+rate. The contribution does not go on for ever: it is 'switched off' once a person has
+contributed an amount equal to the grant he/she received; and nobody pays for more than
+(say) 25 years. Thus the scheme is simple: there is a universal grant, financed by a graduate
+contribution payable for a maximum of 25 years, but for some people a shorter time.
+71.
+Two additional points specify the scheme precisely:
+• The duration of the graduate contribution bears an exact relation to the amount of
+grant a student has received. Though administratively complex, this is precisely the
+task that the Student Loans Company currently performs: higher earners repay their
+grant more quickly; lower earners take longer and are further protected in the ways
+outlined in paras. 58-62; and nobody makes contributions for more than 25 years.
+• Students for whom access is fragile are helped in the ways set out immediately below.
+The scholarships and other forms of financial help they receive do not make them
+liable for a graduate contribution.
+72.
+Since the three schemes are equivalent, any is an accurate description of the system of
+student support. If this were better understood – particularly the very close relation of
+income-contingent repayments to tax funding – the problem of the 'worried well' would be
+greatly diminished.
+73.
+A point in conclusion: the equivalence arguments in the previous paragraphs are
+analytical and should be judged on the quality of their logic. They are not presentational
+arguments based on logical thin ice.
+4.3 Active measures to promote access
+74.
+Income-contingent loans measure ability to pay on the basis of where a person ends
+up, i.e. his or her subsequent income. This is the best approach for students from better-off
+Nicholas Barr April 2002
+18backgrounds, who are generally well-informed about the benefits of tertiary education.
+However, students from socially-excluded backgrounds are typically badly informed.
+Precisely for that reason, a wide range of additional measures to promote access – the third
+leg of the strategy – is necessary.
+75.
+Put another way, it is not only financial poverty which impedes access, but also
+information poverty. Any strategy for access therefore needs two elements:
+• those which involve money, and
+• those which involve information and raising aspirations.
+The following are no more than indications of the scale of necessary actions.
+76.
+G RANTS AND SCHOLARSHIPS IN HIGHER EDUCATION . Money measures include
+scholarships for students from poor backgrounds. They could be based on parental income,
+but should also include money for schools and universities to award to students from poor
+backgrounds. There should be financial incentives to universities to widen participation; and
+universities would, in any case, wish to gather resources for scholarships to enable them to
+recruit the brightest students, regardless of their financial background.
+77.
+For some students the biggest hurdle is to realise that they are good enough to do well
+in higher education: for them, scholarships which make their first year entirely free give
+them a risk-free opportunity to test their abilities and to become well-informed about higher
+education. Once such a student does well in the first year, he or she will be much more
+prepared to take out at least a partial loan for the rest of the degree.
+78.
+E XTRA PERSONAL AND INTELLECTUAL SUPPORT IN HIGHER EDUCATION . A second
+ingredient in promoting access is extra personal and intellectual support, at least in the early
+days, for access students to make sure that, once a student starts at university, he or she gets
+the necessary support to make the transition. It is no good persuading someone to go to
+university if he or she is then allowed to sink without trace.
+79.
+R AISING ASPIRATIONS OF SCHOOL CHILDREN . Action is also needed much earlier.
+Information and raising aspirations are critical. The saddest impediment to access is someone
+who has never even thought of applying to university. The sorts of schemes involved include
+Saturday Schools, which bring schoolchildren from poor areas to university to study on
+Saturday mornings; summer schools, which do something similar during the summer
+vacation; visit days, when schoolchildren can visit a university; visits by academics to
+schools to make the idea of higher education more tangible; visits by current students, ideally
+from the same or a similar school, to schools in deprived areas; and mentoring of
+schoolchildren by current university students, preferably from a similar background. Such
+activities needs to start early, e.g. at age 12.
+Nicholas Barr April 2002
+1980.
+M ORE RESOURCES EARLIER IN THE SYSTEM . Problems of access to higher education
+cannot be solved entirely within the higher education sector. Thus more resources are needed
+earlier in the education system, which is where the real barriers to access occur. 23 This
+includes more resources for teaching. It also includes financial support for 16-18 year olds.
+5 Conclusion
+81.
+At risk of sounding repetitive, the root of all the funding problems of the present
+system go back – directly or indirectly – to the interest subsidy on student loans.
+• Interest subsidies aggravate the shortage of resources in the sector, compete with
+university funding, cause loans to be inadequate, crowd out expenditure to promote
+access, and are deeply regressive.
+• Setting the interest rate that graduates pay equal to the government's cost of
+borrowing is the key to addressing all these problems and, on a conservative estimate,
+yields some £700 million per year. That sum is important for its own sake; it is even
+more important because a fiscally cost-effective loan scheme can leverage a much
+greater volume of private finance. Specifically, with no increase in long-run fiscal
+costs, it would be possible nearly to triple total lending, or to combine a smaller
+expansion of loans with additional grant expenditure.
+• Grasping the nettle makes possible the policies for access and quality set out in
+section 4.
+• The move is less difficult than it sounds – perhaps the political equivalent of the
+'worried well'. In Sweden and the Netherlands graduates pay an interest rate broadly
+equal to the government's cost of borrowing, and the matter is not regarded as in any
+way noteworthy; and Australia and New Zealand are currently facing the same reality
+as the UK.
+• In contrast, if the interest subsidy is not eliminated, we might as well all pack our bags
+and go home.
+23
+Educational exclusion has a clear connection with broader social exclusion – for example, less than 25% of
+children in care in the UK end up with any formal educational qualification.
+Nicholas Barr April 2002
+20Annex 1: The student support system before and after 1998
+82.
+Table 1 summarises in simplified from (and with rounded numbers) the system of
+student support for students who started their degree between 1990 and 1997, and that for
+students who started their degree in 1998 or later.
+83.
+The old system was introduced gradually. When fully phased in, it operated through:
+(a)
+(b)
+(c)
+84.
+50 per cent of student living costs from a mortgage-type loan;
+50 per cent of living costs from a mixture of grant and parental contribution;
+no tuition fees paid by the student.
+The arrangements since the 1998 have three components:
+(a)
+(b)
+(c)
+an income-contingent loan;
+replacement of the grant by a loan entitlement which is partially income tested; 24
+an income-tested tuition fee.
+Table 1: Student support: the system until 1998 and the current system
+Living expenses
+The system until 1998
+Tuition
+50% mortgage-type loan;
+50% grant/parental contribution
+Free
+'Poor' student 100% income-contingent loan
+Free
+'Rich' student Parental contribution of 25% of £1000 flat-fee from
+living costs; income-contingent parental contributions
+loan the rest
+The current system
+85.
+To amplify the current system:
+• 'Poor' students (i.e. where parent/spouse net income is below about £18,000 per year)
+pay no tuition fee and are eligible for an income-contingent loan intended to cover
+100% of living costs.
+• 'Rich' students (whose parents' or spouse's net income is above about £34,000 per
+year) pay the full £1000 fee. They are entitled to an income-contingent loan equal to
+75% of the maximum loan. It is assumed that the parental contribution pays the
+tuition fee and 25% of living costs.
+• In between, loan entitlement and fees are calculated on a sliding scale. 25
+86.
+To illustrate these arrangements with a simplified numerical example, suppose that it
+is estimated that students need £4000 to cover living costs, made up, under the old system
+24
+Poor students are eligible for 'a maintenance loan of the same value as the current grant and loan package'
+(Hansard, (Commons), 23 July 1997, col. 950).
+25
+Herein lies much of the complexity – for details, see Department for Education and Skills (2001)
+(http://www.dfes.gov.uk/studentsupport/ ss_admin/content/dsp_section_29.shtml, Chapter 6)
+Nicholas Barr April 2002
+21(line 1 of Table 1) of a loan entitlement of £2000 and grant/parental contribution of £2000.
+Thus the maximum parental contribution (for a student not eligible for any grant) is £2000.
+87.
+Under current arrangements, a poor student is eligible for an income-contingent loan
+of £4000 to cover living expenses, and does not have to pay a tuition fee. A rich student
+receives £2000 in parental contribution, £1000 to cover the tuition fee and £1000 towards
+living costs, and is eligible for an income-contingent loan of £3000 to cover remaining living
+costs.
+Nicholas Barr April 2002
+22Annex 2: An unsubsidised interest rate: how much extra for graduates?
+88.
+What is the effect on repayments if graduates pay an interest rate equal to the
+government's cost of borrowing rather than (as currently) the rate of inflation?
+89.
+A NSWER 1: MONTHLY REPAYMENTS . The change has no effect on a graduate's monthly
+repayments. Since loans are income-contingent, repayments depend only a person's monthly
+income. Thus the higher interest rate affects the duration of repayments but not the amount
+of the monthly repayment.
+90.
+A NSWER 2: TOTAL REPAYMENTS . On average, it is estimated that students will take
+15-20 years to repay their loans (since the system of income-contingent repayments is new,
+estimates are all that we have). The model referred to in para. 37, estimates that at today's
+prices if a graduate takes 15 years to repay his loan, the extra interest payments on a loan of
+£12,000 from removing the interest subsidy is about £3700. The comparable figure if he
+takes 20 years to repay is £4700. Thus a plausible estimate of the additional interest
+repayments of an average student taking 171⁄2 years to repay is £4250.
+91.
+S OME COMPARATORS . These numbers need to be seen in context.
+• With even a modest graduate premium (15%) and real wage growth (including career
+progression) of 5%, a graduate will earn £270,000 more than a non-graduate over a
+35-year career. The extra interest payments are a minuscule price for those benefits.
+• Over 35 years, a non-graduate on average earnings pays about £520,000 in income tax
+and national insurance contributions; with a graduate premium of 15%, the equivalent
+figure for a graduate is about £600,000. Thus the additional interest payment is
+equivalent to a tax increase of about 0.7%.
+• Over the lifetime of the average loan, a graduate will spend on average £25,000 on
+alcohol. To spend £25,000 out of after-tax income a person paying basic rate income
+tax etc., has to earn £37,000. Thus it would be possible to finance the additional
+interest payments by having one booze-free day per week till the loan has been paid
+off.
+92.
+The figures in the previous two paragraphs are in cash terms. The equivalent figures
+in present value terms, at a 5% discount rate, are as follows. On a loan of £12,000, the present
+value of the extra interest payments is £2,880 over 15 years, or £3,350 over 20 years; thus the
+average student will pay around £3,115 in additional interest payments. Over a 35-year
+career, the extra earnings of a graduate are £105,000. The present value of the income tax
+and NICs paid over 35 years by a non-graduate on average earnings is £195,000; for a
+graduate the comparable figure is £228,000. The present value of expenditure on alcohol
+over 171⁄2 years by an average graduate is £14,000, requiring pre-tax earnings of nearly
+£21,000.
+Nicholas Barr April 2002
+23Annex 3: An open-ended graduate tax: problems but no solutions
+93.
+An open-ended graduate tax (i.e. one which is paid for, say, 25 years irrespective of a
+person's earnings) creates major problems.
+94.
+C ONTINUED RELIANCE ON PUBLIC FUNDING . Since a graduate tax is irredeemably a
+tax, it cannot be privatised. It merely continues public funding through a different route.
+Thus the flow of private finance via graduates’ repayments is slow in coming, and hence does
+nothing to improve access or quality in the short term.
+95.
+Even in the medium term, a graduate tax does not necessarily produce extra resources
+for higher education, since increasing flows of private finance in (say) 10 years time can be
+offset by reduced public funding. This is exactly what has happened in Australia, whose
+Higher Education Contribution Scheme (HECS) was introduced in 1989 with the express aim
+of increasing resources for higher education. That aim remains unfulfilled.
+'A year-long investigation into Australian higher education by a senate committee has
+found the nation's university system in crisis and in need of substantial public
+investment over the next ten years.
+'The committee found that universities were seriously underfunded and were
+worryingly reliant on non-government sources of revenue, notably on fee income
+from foreign and local students' (Times Higher Education Supplement, 19 October
+2001, p. 10).
+96.
+In sharpest contrast, a well-designed loan scheme could bring in private funds from
+day 1, in ways which avoid these problems.
+97.
+C LOSES OPTIONS WHICH A LOAN SCHEME LEAVES OPEN . As discussed in section 4,
+above, a scheme which avoids interest subsidies makes possible a wide variety of highly
+desirable options, such as making higher education free at the point of use – options which
+the fiscal cost of a graduate tax entirely rules out.
+98.
+U NFAIR .
+reasons:
+A graduate tax is unfair (and hence politically unpopular) for several
+• People are compelled to make continuing contributions, with no option to pay upfront
+if they wish.
+• Those contributions are unrelated to the cost of their higher education.
+• The contributions will be considerable for a successful professional, and can be
+enormous, e.g. for the Mick Jaggers or Stelios Haji-Ioannous of this world.
+99.
+H YPOTHECATION . What happens to the revenue from a graduate tax?
+• If it is simply another source of income for the Consolidated Fund, it is a tax, pure and
+simple, and higher education continues to be publicly funded.
+• If it is explicitly dedicated to higher education, it is a hypothecated tax – a mechanism
+which (with the exception of the national insurance fund) the Treasury has always
+regarded as an anathema. Any such move would be a major policy shift. Such a shift
+might be worth discussing if the potential gains are great, but that is not the case here.
+Nicholas Barr April 2002
+24100. B OUNDARY PROBLEMS . A graduate tax is (a) compulsory (contrast loans, where
+students can choose whether or not to borrow), and (b) binary (contrast loans, where students
+can choose how much to borrow), and thus creates major boundary problems as between:
+• Different occupations. Do all UK students pay the graduate tax? Doctors? Nurses?
+Intending teachers? Once a group is granted an exemption, there will be pressure to
+extend it, and considerable difficulty in removing an exemption from any group.
+• Different modes of study. Does the graduate tax apply equally to full-time and part-
+time students? What about Open University students?
+• Different parts of the UK. A major problem arises because taxation operates on a UK
+basis but the responsibility for higher education is devolved. A graduate tax thus
+opens up a Pandora’s box – for example, the Scottish Executive could ask for a
+different form of graduate tax, or could opt out altogether. If the graduate tax is not
+the same throughout the UK, would an English person who studied in Scotland pay
+the English rate or the Scottish rate? Would the answer be the same for a Scot who
+studied in England? Ditto Northern Ireland (over half of whose students attend
+universities in the Republic of Ireland or the mainland)?
+• Different parts of the EU. Does the graduate tax apply to UK graduates who studied
+in other EU countries (or elsewhere); and how are EU students at UK universities
+treated?
+101. All these boundary problems raise major practical problems for the tax authorities as
+well as creating a potential political minefield.
+Nicholas Barr April 2002
+25Annex 4: Legal issues
+I NCOME - CONTINGENT LOANS AND THE C ONSUMER C REDIT A CT
+102. Though income-contingent student loans are not made under the Consumer Credit Act
+(CCA), it is desirable that they stay as close as possible to the Act and to other relevant
+financial legislation.
+103. The problem is as follows. Under the CCA, loan agreements have to specify interest
+charges across the life of the contract. That is possible only if the repayment flow is known.
+This is not a problem for a conventional (mortgage-type) loan, but is not possible with
+income-contingent loans, where repayments depend on a person's (unknown) future income
+stream and hence have an unknown duration. The issue was sidestepped in 1997/8 by
+arguing that the current student loan, which is indexed to the retail price index, is below the
+low interest threshold for the CCA. 26 Since that threshold is low, an unsubsidised loan would
+almost certainly exceed it, if not now, then at some time in the future.
+104.
+There are two potential avenues to resolving the problem;
+(a) revise the CCA to accommodate income-contingent loans; or
+(b) ensure that the legislation bringing in new student support arrangements explicitly
+excludes those arrangements from the CCA via Statutory Instrument.
+Approach (b) presents no obvious problems: a loan which charges the government's cost of
+borrowing is within the spirit of the CCA; the process in (b) is simpler and quicker than (a);
+and it leaves it open subsequently to amend the CCA if the government so wished.
+L OANS FOR FEES AND COMPLIANCE WITH EU LEGISLATION
+105. At present, UK students are eligible for a loan which covers (part of) their
+maintenance, but not their tuition fees. If loans covered fees, it would be illegal to deny loans
+to students from other EU countries studying in the UK. 27 A court case is currently testing
+whether it is legal to deny such students access to maintenance loans. In considering the
+coverage of loans, the following points are relevant.
+106. Loans to cover fees are highly desirable because they make higher education free at
+the point of use. Thus the issue of EU-compliance should be addressed in the medium term;
+and it might have to be addressed in the short term even for maintenance loans, depending on
+the outcome of court case mentioned above. The problem should not be exaggerated. The
+loan contract that students currently sign entitles them to income-contingent repayments
+while within the UK tax net, but requires them to make mortgage (or similar) repayments if
+26
+The England, Wales and Northern Ireland Teaching and Higher Education Act 1998 (THEA 1998), s.22(4)
+and s.22(9) provide that Secretary of State may only charge compound interest rates required to maintain the
+value in real terms of the outstanding amounts of the loan, which shall at no time exceed the 'specified rate for
+low interest loans'. This 'specified rate for low interest' is defined in s.22(9) as the rate specified for exemption
+purposes under s.16(5)(b) of the Consumer Credit Act 1974 (CCA 1974). The Scotland Teaching and Higher
+Education Act 1998, s29 inserts amendments to the Education (Scotland) Act 1980, (ESA 1980). The ESA 1980
+s.73B(6) includes the same provision as s.22(9) of the THEA 1998, and therefore defines the low interest rate as
+a rate that will ensure exemption under the CCA 1974.
+27
+The post-Cubie arrangements in Scotland, by ensuring that students face no upfront charges, in effect extends
+loans to cover fees, thus raising serious problems of compliance with EU law.
+Nicholas Barr April 2002
+26they work abroad. This process is already embedded in the procedures of the Student Loans
+Company and works well. In the short run it could be extended to EU students.
+107. A better starting point is to note that foreign students are a good thing, not a bad thing.
+Higher education is – and should continue to be – a major UK export industry whose benefits
+are both direct (income from overseas students) and indirect (future UK exports). A properly
+designed loan scheme is self-funding apart from non-repayments from the lifetime poor,
+which introduce a social policy element into the scheme. Extending the scheme to EU
+students is thus feasible on the basis that each government agrees to cover the social policy
+element of loans for its own citizens.
+Nicholas Barr April 2002
+27References
+Barr, Nicholas (1997), 'Student Loans in New Zealand', in Third Report: The Dearing Report: Some
+Funding Issues, Volume II, Minutes of Evidence and Appendices, House of Commons Education and
+Employment Committee, Session 1997-98, HC241-II, (TSO, 1997), pp. 119-21.
+Barr, Nicholas (2001), The Welfare State as Piggy Bank: Information, Risk, Uncertainty, and the Role
+of the State, Oxford University Press.
+Barr, Nicholas and Crawford, Iain (1997), ‘The Dearing Report, the Government's Response and a
+View Ahead', in Third Report: The Dearing Report: Some Funding Issues, Volume II, Minutes of
+Evidence and Appendices, House of Commons Education and Employment Committee, Session 1997–
+98, HC241-II (TSO), 88–103.
+Barr, Nicholas and Falkingham, Jane (1993), Paying for Learning, Welfare State Programme,
+Discussion Paper WSP/94, London: London School of Economics.
+Barr, Nicholas and Falkingham, Jane (1996), Repayment Rates for Student Loans: Some Sensitivity
+Tests, Welfare State Programme, Discussion Paper WSP/127, London: London School of Economics.
+Barr, Nicholas, and Low, William (1988), Student Grants and Student Poverty, Welfare State
+Programme, Discussion Paper WSP/28, London: London School of Economics.
+Callender, Claire, and Kemp, Martin (2000), 'Changing Student Finances: Income, Expenditure and
+Take-up of Student Loans among Full- and Part-time Higher Education Students in 1998/9', London:
+Department of Education and Employment Research Report RR213.
+Chapman, Bruce (1997), ‘Conceptual Issues and the Australian Experience with Income Contingent
+Charges for Higher Education', Economic Journal, 107/442 (May), 738–51.
+Committee of Vice-Chancellors and Principals (1996), Our Universities, Our Future, Special Report
+4: The Case for a New Higher Education Funding System, London: Committee of Vice-Chancellors
+and Principals.
+Council for Industry and Higher Education (2001), The Funding of UK Higher Education: The CIHE
+Submission to the Comprehensive Spending Review, London: Council for Industry and Higher
+Education.
+Department for Education and Skills (2001), Higher Education Student Support in England and
+Wales 2001/02: Chapter 6: Assessing Financial Entitlement (http://www.dfes.gov.uk/studentsupport/
+ss_admin/content/dsp_section_29.shtml, Chapter 6)
+National Audit Office (2002), Widening Participation in Higher Education in England, Report by the
+Comptroller and Auditor General, HC 485, Session 2001-2002, London: TSO.
+National Committee of Inquiry into Higher Education (the Dearing Committee) (1997), Higher
+Education in the Learning Society: Main Report, London: HMSO.
+New Zealand Tertiary Education Advisory Committee (2001), Shaping the Funding Framework:
+Fourth Report of the Tertiary Education Advisory Committee: Summary Report, Tertiary Education
+Advisory Committee, Wellington, New Zealand, November (http://www.teac.govt.nz/
+fframework.htm).
+Piatt, Wendy, and Robinson, Peter (2001), Opportunity for whom? Options for funding and structure
+of post-16 education, London: Institute for Public Policy Research.
+Nicholas Barr April 2002
+28
