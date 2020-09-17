@@ -1,5 +1,4 @@
 import os
-os.system('pip3 install gensim nltk pickle scipy')
 import pickle
 from gensim.models import Word2Vec
 from nltk.tokenize import word_tokenize,sent_tokenize
