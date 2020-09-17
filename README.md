@@ -5,7 +5,7 @@ This repository contains the working code to obtain fuzzy idea on higher educati
 
 A) Pre-Requisites
   1) Python 3
-  2) Gensim, NLTK, pickle, scipy (You can run setup.py to install these)
+  2) Gensim, NLTK, pickle, scipy (These would be setup by running setup.py)
   
 B) How to run?
   1) Download all the files.
