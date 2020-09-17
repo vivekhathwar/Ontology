@@ -1,3 +1,5 @@
+import os
+os.system('python3 setup.py')
 import pickle
 from gensim.models import Word2Vec
 from nltk.tokenize import word_tokenize,sent_tokenize
